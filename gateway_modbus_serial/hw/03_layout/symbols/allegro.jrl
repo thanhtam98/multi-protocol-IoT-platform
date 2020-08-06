@@ -1,0 +1,81 @@
+\t (00:00:00) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:00)     Journal start - Fri May 17 09:32:07 2019
+\t (00:00:00)         Host=DESKTOP-IDKG8B7 User=Tuan Nguyen Pid=1988 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe E:\04_Project\12_anhBao\02_RFID_NFC\16_Controller\03_layout\symbols\side_sw.dra
+\t (00:00:00) 
+   (00:00:00) function PinVia_Overlap_FinishEnterFun redefined
+   (00:00:00) function Find_Point_On_Line_From_Distant redefined
+   (00:00:00) function Find_Point_Quadrature_Line redefined
+   (00:00:00) function Line_Line_Intersect redefined
+   (00:00:00) function _getPinsNet redefined
+   (00:00:00) function _getBranchs redefined
+   (00:00:00) function _getPaths redefined
+   (00:00:00) function _get2PointsPath redefined
+   (00:00:00) function _checkElementList redefined
+   (00:00:00) function _getSurroundPoints redefined
+   (00:00:00) function _getListPointsLPaths redefined
+   (00:00:00) function _checkPathPoint redefined
+   (00:00:00) function _deleteElementList redefined
+   (00:00:00) function _checkElementList redefined
+   (00:00:00) function _deleteElementList redefined
+   (00:00:00) function Find_Point_On_Line_From_Distant redefined
+   (00:00:00) function Find_Point_Quadrature_Line redefined
+   (00:00:00) function Is_Point_On_List redefined
+   (00:00:00) function Line_Line_Intersect redefined
+   (00:00:00) function Line_Line_Distant redefined
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: E:/04_Project/12_anhBao/02_RFID_NFC/16_Controller/03_layout/symbols/side_sw.dra
+\i (00:00:00) trapsize 419
+\i (00:00:01) trapsize 411
+\i (00:00:01) trapsize 420
+\i (00:00:01) trapsize 814
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -125.22 -76.39
+\i (00:00:03) trapsize 407
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -69.07 -38.95
+\i (00:00:04) trapsize 203
+\i (00:00:07) padeditdb 
+\i (00:00:08) pick grid -84.53 55.06
+\t (00:00:08) last pick:  -100.00 100.00
+\i (00:00:08) prepopup -83.31 55.06
+\i (00:00:10) padeditcur 
+\i (00:00:13) setwindow form.padedit
+\i (00:00:13) pse_save_as 
+\i (00:00:17) fillin "pad_70d30.pad"
+\i (00:00:18) pse_exit
+\i (00:00:19) setwindow pcb
+\i (00:00:19) pick grid -131.74 -50.74
+\t (00:00:19) last pick:  -100.00 -100.00
+\i (00:00:19) prepopup -131.74 -50.74
+\i (00:00:20) padeditcur 
+\i (00:00:24) setwindow form.padedit
+\i (00:00:24) pse_save_as 
+\i (00:00:27) fillin "pad_75d40.pad"
+\i (00:00:28) pse_exit
+\i (00:00:34) setwindow pcb
+\i (00:00:34) slide 
+\t (00:00:34) Pick element to slide.
+\i (00:21:19) zoom out 1 
+\i (00:21:19) setwindow pcb
+\i (00:21:19) zoom out 136.43 20.06
+\i (00:21:19) trapsize 407
+\i (00:21:21) exit 
+\e (00:21:21) Do you want to save the changes you made to side_sw.dra?
+\i (00:21:23) fillin menu_cancel 
+\i (00:21:25) 3d_viewer 
+\i (00:21:25) setwindow pcb3D
+\i (00:21:25) trapsize 407
+\i (00:21:31) setwindow pcb
+\i (00:21:31) step pkg map 
+\i (00:23:18) setwindow form.pkgmap3d
+\i (00:23:18) FORM pkgmap3d done  
+\w (00:30:00) Save Pending
+\i (00:33:36) setwindow pcb
+\i (00:33:36) exit 
+\e (00:33:36) Do you want to save the changes you made to side_sw.dra?
+\i (00:33:37) fillin yes 
+\t (00:33:38) Symbol 'side_sw.psm' created.
+\t (00:33:38)     Journal end - Fri May 17 10:05:45 2019

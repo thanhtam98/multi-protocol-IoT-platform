@@ -1,0 +1,14 @@
+\t (00:00:29) allegro 17.2 S052 Windows SPB 64-bit Edition
+\t (00:00:29)     Journal start - Sun Jul 26 15:53:11 2020
+\t (00:00:29)         Host=NTT-ASUSROG User=NguyenThanhTam Pid=1360 CPUs=4
+\t (00:00:29) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe D:\Chrome Download\RAK4600.brd
+\t (00:00:29) 
+\d (00:00:29) Design opened: E:/TTTN/Z-ware_PirAnthena/Zwave_BoosterPack/AUTOSAVE.brd
+\i (00:00:29) generaledit 
+\i (00:00:31) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:00:34) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged AUTOSAVE
+\i (00:00:34) opencd E:/Temp/AUTOSAVE.brd 
+\t (00:00:34) Opening existing design...
+\t (00:00:34) Grids are drawn 80.00, 80.00 apart for enhanced viewing.
+\i (00:00:34) trapsize 946
+\t (00:00:34)     Journal end - Sun Jul 26 15:53:16 2020

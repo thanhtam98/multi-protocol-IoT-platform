@@ -1,0 +1,10 @@
+C:\GIT\ThesisLorawanNode\GUI\AppNodeConfiguration\AppNodeConfiguration\obj\Debug\AppNodeConfiguration.Form1.resources
+C:\GIT\ThesisLorawanNode\GUI\AppNodeConfiguration\AppNodeConfiguration\obj\Debug\AppNodeConfiguration.Properties.Resources.resources
+C:\GIT\ThesisLorawanNode\GUI\AppNodeConfiguration\AppNodeConfiguration\obj\Debug\AppNodeConfiguration.csproj.GenerateResource.cache
+C:\GIT\ThesisLorawanNode\GUI\AppNodeConfiguration\AppNodeConfiguration\obj\Debug\AppNodeConfiguration.csproj.CoreCompileInputs.cache
+C:\GIT\ThesisLorawanNode\GUI\AppNodeConfiguration\AppNodeConfiguration\bin\Debug\AppNodeConfiguration.exe.config
+C:\GIT\ThesisLorawanNode\GUI\AppNodeConfiguration\AppNodeConfiguration\bin\Debug\AppNodeConfiguration.exe
+C:\GIT\ThesisLorawanNode\GUI\AppNodeConfiguration\AppNodeConfiguration\bin\Debug\AppNodeConfiguration.pdb
+C:\GIT\ThesisLorawanNode\GUI\AppNodeConfiguration\AppNodeConfiguration\obj\Debug\AppNodeConfiguration.exe
+C:\GIT\ThesisLorawanNode\GUI\AppNodeConfiguration\AppNodeConfiguration\obj\Debug\AppNodeConfiguration.pdb
+C:\GIT\ThesisLorawanNode\GUI\AppNodeConfiguration\AppNodeConfiguration\obj\Debug\AppNodeConfiguration.csprojAssemblyReference.cache

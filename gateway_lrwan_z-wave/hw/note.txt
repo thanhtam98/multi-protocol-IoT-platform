@@ -1,0 +1,3 @@
+ElectricBK\gateway_lrwan_z-wave
+
+Bug: SPI pins on Rasberry Pi were mapped not exacly (fixed in sche)

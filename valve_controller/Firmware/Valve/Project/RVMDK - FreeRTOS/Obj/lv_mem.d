@@ -1,0 +1,17 @@
+.\obj\lv_mem.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_mem.c
+.\obj\lv_mem.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_mem.h
+.\obj\lv_mem.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../../lv_conf.h
+.\obj\lv_mem.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../../lvgl/lv_conf_checker.h
+.\obj\lv_mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\lv_mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\lv_mem.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_log.h
+.\obj\lv_mem.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../../lv_conf.h
+.\obj\lv_mem.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_math.h
+.\obj\lv_mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\lv_mem.o: ..\..\Utilities\FreeRTOSv10.0.1\include\FreeRTOS.h
+.\obj\lv_mem.o: ..\inc\FreeRTOSConfig.h
+.\obj\lv_mem.o: ..\..\Utilities\FreeRTOSv10.0.1\include\projdefs.h
+.\obj\lv_mem.o: ..\..\Utilities\FreeRTOSv10.0.1\include\portable.h
+.\obj\lv_mem.o: ..\..\Utilities\FreeRTOSv10.0.1\include\deprecated_definitions.h
+.\obj\lv_mem.o: ..\..\Utilities\FreeRTOSv10.0.1\portable\RVDS\ARM_CM3\portmacro.h
+.\obj\lv_mem.o: ..\..\Utilities\FreeRTOSv10.0.1\include\mpu_wrappers.h

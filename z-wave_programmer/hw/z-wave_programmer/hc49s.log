@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : HC49S.dra                                     )
+(    Software Version : 16.6S008                                      )
+(    Date/Time        : Fri Jul 01 19:12:43 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/01_working_allegro/Library_Footprint/HC49S SMD Crystal
+    Name      = hc49s.psm
+    User      = Admin
+    Machine   = PC2013031902YSJ
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

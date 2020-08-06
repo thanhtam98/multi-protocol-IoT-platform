@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : led_rgb_0606.dra                              )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Tue Jul 31 10:08:08 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/04_Project/12_anhBao/02_RFID_NFC/11_PSZAA ver1.2.4/2. Layout/symbols
+    Name      = led_rgb_0606.psm
+    User      = Dell
+    Machine   = DESKTOP-83PUL1H
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

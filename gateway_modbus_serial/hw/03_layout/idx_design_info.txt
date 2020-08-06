@@ -1,0 +1,11 @@
+revision	0
+max_tranx_id	1
+gxmlId_syminst	202
+gxmlId_rtkeepout	80
+gxmlId_viakeepout	1
+gxmlId_placekeepout	0
+gxmlId_placeoutline	1
+gxmlId_routeoutline	1
+gxmlId_drilledHole	137
+gxmlId_otheroutline	0
+gxmlId_placeRegion	0

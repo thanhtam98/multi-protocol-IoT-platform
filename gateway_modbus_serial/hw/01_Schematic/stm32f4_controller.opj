@@ -1,0 +1,355 @@
+(ExpressProject "Stm32f407_mainboard"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "d:\dropbox\tap hop du an\10_autotalab\01_lib\autotalab.olb"
+        (Type "Schematic Library")
+        (DisplayName
+           "..\..\..\..\dropbox\tap hop du an\10_autotalab\01_lib\autotalab.olb"))
+      (File "d:\cadence\spb_data\00_library\vlib.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Report_File
+       "E:\04_Project\12_anhBao\02_RFID_NFC\16_Controller\01_Schematic\pszaa.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "E:\04_PROJECT\12_ANHBAO\02_RFID_NFC\16_CONTROLLER\01_SCHEMATIC")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File"
+       "D:\Dropbox\Dropbox\RFIDREADER\02_main_board\02_Layout\layout_ver2\RFID_layout1.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    ("Allegro Netlist Input Board File"
+       "D:\Dropbox\Dropbox\RFIDREADER\02_main_board\02_Layout\layout_ver2\RFID_layout1.brd")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "E:\04_Project\12_anhBao\02_RFID_NFC\16_Controller\00_datasheet\bom.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}")
+    (BOM_Header "Item\tQuantity\tReference\tPart\tFootprint")
+    (BOM_Include_File
+       "C:\USERS\MYPC\DROPBOX\VUPHAM\STM32F407\01_SCHEMATIC\STM32F407_MAINBOARD.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE")
+    (Board_sim_option "VHDL_flow")
+    (File ".\stm32f4_controller.dsn"
+      (Type "Schematic Design")))
+  (Folder "Outputs"
+    (File ".\stm32f407_mainboard.drc"
+      (Type "Report")
+      (DisplayName ".\stm32f407_mainboard.drc"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File "d:\dropbox\tap hop du an\10_autotalab\01_lib\main_board.drc"
+      (Type "Report")
+      (DisplayName
+         "..\..\..\..\dropbox\tap hop du an\10_autotalab\01_lib\main_board.drc"))
+    (File ".\netlist\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\netlist\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\netlist\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\mainboard.drc"
+      (Type "Report")
+      (DisplayName ".\mainboard.drc"))
+    (File ".\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\stm32f407_mainboard.bom"
+      (Type "Report")
+      (DisplayName ".\stm32f407_mainboard.bom"))
+    (File "c:\users\mypc\dropbox\vupham\stm32f407\01_schematic\mainboard.drc"
+      (Type "Report")
+      (DisplayName
+         "c:\users\mypc\dropbox\vupham\stm32f407\01_schematic\mainboard.drc"))
+    (File "c:\users\mypc\dropbox\vupham\stm32f407\schematic_v2\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "c:\users\mypc\dropbox\vupham\stm32f407\schematic_v2\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "c:\users\mypc\dropbox\vupham\stm32f407\schematic_v2\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File "..\schematic_v3\mainboard.drc"
+      (Type "Report"))
+    (File ".\pszaa\bom\stm32f107.bom"
+      (Type "Report"))
+    (File ".\pszaa\bom\stm32f107_v2.bom"
+      (Type "Report"))
+    (File "..\pszza bom.bom"
+      (Type "Report"))
+    (File ".\psbom.bom"
+      (Type "Report"))
+    (File
+       "e:\04_project\12_anhbao\02_rfid_nfc\14_reader_v2\v2.0\hardware\01. schematic\reader.drc"
+      (Type "Report"))
+    (File ".\pszaa.drc"
+      (Type "Report"))
+    (File "..\1. schematic\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "..\1. schematic\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "..\1. schematic\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File
+       "e:\04_project\12_anhbao\02_rfid_nfc\15_pszaa ver2.1\01_schematic\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File
+       "e:\04_project\12_anhbao\02_rfid_nfc\15_pszaa ver2.1\01_schematic\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File
+       "e:\04_project\12_anhbao\02_rfid_nfc\15_pszaa ver2.1\01_schematic\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File "..\00_datasheet\bom.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (OFFPAGE-IN-R
+      (LibraryName "\\FCL.AM.FREESCALE.NET\ORCADCIS\SYMBOLS\FCL_STANDARD.OLB")
+      (DeviceIndex "0"))
+    (MC34063A
+      (FullPartName "MC34063A.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\PSPICE\SWIT_REG.OLB")
+      (DeviceIndex "0"))
+    (DB9PORT
+      (FullPartName "DB9PORT.Normal")
+      (LibraryName "E:\01_WORKING_ALLEGRO\LIBRARY\VLIB.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 8"
+      (FullPartName "HEADER 8.Normal")
+      (LibraryName "E:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 16"
+      (FullPartName "HEADER 16.Normal")
+      (LibraryName "E:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (XTAL-RTC
+      (FullPartName "XTAL-RTC.Normal")
+      (LibraryName "D:\CADENCE\SPB_DATA\00_LIBRARY\VLIB.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 6"
+      (FullPartName "HEADER 6.Normal")
+      (LibraryName
+         "E:\ZDATA\PROGRAMDATA\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "D:\CADENCE\SPB_166\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "D:\CADENCE\SPB_166\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 5"
+      (FullPartName "HEADER 5.Normal")
+      (LibraryName "D:\CADENCE\SPB_166\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (PMIC_SOT23-6
+      (FullPartName "PMIC_SOT23-6.Normal")
+      (LibraryName "D:\CADENCE\SPB_DATA\00_LIBRARY\VLIB.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 20"
+      (FullPartName "HEADER 20.Normal")
+      (LibraryName "D:\CADENCE\SPB_166\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 1"
+      (FullPartName "HEADER 1.Normal")
+      (LibraryName "D:\CADENCE\SPB_166\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 19x2"
+      (FullPartName "HEADER 19x2.Normal")
+      (LibraryName
+         "E:\ZDATA\PROGRAMDATA\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 19"
+      (FullPartName "HEADER 19.Normal")
+      (LibraryName
+         "E:\ZDATA\PROGRAMDATA\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 17"
+      (FullPartName "HEADER 17.Normal")
+      (LibraryName
+         "E:\ZDATA\PROGRAMDATA\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (stm32f107-64pin
+      (FullPartName "stm32f107-64pin.Normal")
+      (LibraryName
+         "E:\ZDATA\WORKING_ENV\CADENCE\00_LIBRARY_CAPTURE\VUPHAM_LIB.OLB")
+      (DeviceIndex "0"))
+    (MC68HC705T16-B
+      (FullPartName "MC68HC705T16-B.Normal")
+      (LibraryName
+         "E:\ZDATA\PROGRAMDATA\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\MICROCONTROLLER.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON-SPST-2"
+      (FullPartName "SW PUSHBUTTON-SPST-2.Normal")
+      (LibraryName
+         "E:\ZDATA\PROGRAMDATA\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CONNECTOR EDGE 10x2"
+      (FullPartName "CONNECTOR EDGE 10x2.Normal")
+      (LibraryName
+         "E:\ZDATA\PROGRAMDATA\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (OPT_SENS
+      (FullPartName "OPT_SENS.Normal")
+      (LibraryName
+         "C:\USERS\MYPC\DROPBOX\VUPHAM\STM32F407\01_SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("MOSFET N"
+      (FullPartName "MOSFET N.Normal")
+      (LibraryName
+         "E:\ZDATA\PROGRAMDATA\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 2"
+      (FullPartName "HEADER 2.Normal")
+      (LibraryName
+         "E:\ZDATA\PROGRAMDATA\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\CONNECTR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 3"
+      (FullPartName "HEADER 3.Normal")
+      (LibraryName
+         "E:\ZDATA\PROGRAMDATA\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "e:\lvtn\accesscontrollerboard\16_controller\01_schematic\stm32f4_controller.dsn")
+      (Path "Design Resources"
+         "e:\lvtn\accesscontrollerboard\16_controller\01_schematic\stm32f4_controller.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "e:\lvtn\accesscontrollerboard\16_controller\01_schematic\stm32f4_controller.dsn"
+         "SCHEMATIC1" "01_MCU"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 612 1224 231 462"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 130 997 130 391")
+        (Scroll "-252 0")
+        (Zoom "86")
+        (Occurrence "/"))
+      (Path
+         "E:\LVTN\ACCESSCONTROLLERBOARD\16_CONTROLLER\01_SCHEMATIC\STM32F4_CONTROLLER.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "03_IO"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1160 0 261")
+        (Scroll "0 356")
+        (Zoom "164")
+        (Occurrence "/"))
+      (Path
+         "E:\LVTN\ACCESSCONTROLLERBOARD\16_CONTROLLER\01_SCHEMATIC\STM32F4_CONTROLLER.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "01_MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1434 130 461")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\LVTN\ACCESSCONTROLLERBOARD\16_CONTROLLER\01_SCHEMATIC\STM32F4_CONTROLLER.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "02_Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1290 104 355")
+        (Scroll "-159 5")
+        (Zoom "54")
+        (Occurrence "/"))
+      (Path
+         "E:\LVTN\ACCESSCONTROLLERBOARD\16_CONTROLLER\01_SCHEMATIC\STM32F4_CONTROLLER.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "04_Ethernet")))
+  (MPSSessionName "NguyenThanhTam")
+  (ISPCBBASICLICENSE "false")
+  (LastUsedLibraryBrowseDirectory "E:\01_working_allegro\Library"))

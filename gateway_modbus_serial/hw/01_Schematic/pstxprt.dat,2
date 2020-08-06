@@ -1,0 +1,2052 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001May-16-2019 at 14:47:37 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='STM32F4_CONTROLLER';
+ POST_TIME='Jul 15 2014 15:02:11';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ BT1 'CON2_BAT_CR1220_BAT_3V':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1933688@ROCK-CHIPS.CON2.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1933688@\rock-chips\.\con2.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1933688@\rock-chips\.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'CAP NP_0_C0603_100NF_C0603C104K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934060@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934060@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934060@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_0_C0603_2.2UF_CL10B225KQ':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934424@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934424@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934424@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_0_C0603_2.2UF_CL10B225KQ':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934440@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934440@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934440@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_0_C0603_100NF_C0603C104K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934556@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934556@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934556@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C129 'CAP 0603_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1970754@AUTOTALAB.CAP 0603.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1970754@autotalab.\cap 0603.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1970754@autotalab.\cap 0603.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_0_C0603_18PF_CL10C180JB8':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934818@STM32F407_MAINBOARD.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934818@stm32f407_mainboard.\cap np_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934818@stm32f407_mainboard.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C130 'CAP 0603_C0603_10NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1970792@AUTOTALAB.CAP 0603.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1970792@autotalab.\cap 0603.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1970792@autotalab.\cap 0603.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C131 'CAP NP_C0603_10NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1936685@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1936685@library1.\cap np.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1936685@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C132 'CAP NP_C0603_DISCRETE_100NF_C06':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1969950@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1969950@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1969950@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C133 'CAP NP_0_C0603_100PF_C0603C104K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1936791@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1936791@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1936791@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C139 'CAP 0603_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1928381@AUTOTALAB.CAP 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1928381@autotalab.\cap 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1928381@autotalab.\cap 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_0_C0603_18PF_CL10C180JB8':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934834@STM32F407_MAINBOARD.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934834@stm32f407_mainboard.\cap np_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934834@stm32f407_mainboard.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C140 'CAP NP_C0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1930626@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1930626@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1930626@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C142 'CAP NP_CAP_1210_10U/35V':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1927106@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1927106@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1927106@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C144 'CAP 0603_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1969051@AUTOTALAB.CAP 0603.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1969051@autotalab.\cap 0603.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1969051@autotalab.\cap 0603.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C145 'CAP NP_C0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1946571@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1946571@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1946571@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C146 'CAP NP_C0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1947070@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1947070@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1947070@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C147 'CAP NP_C0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1947587@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1947587@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1947587@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C148 'CAP_USER_C0805_100NF/25V':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1953535@HUY_LIB.CAP_USER.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1953535@huy_lib.\cap_user.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1953535@huy_lib.\cap_user.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C149 'CAP_USER_C0805_100NF/25V':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1953551@HUY_LIB.CAP_USER.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1953551@huy_lib.\cap_user.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1953551@huy_lib.\cap_user.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_0_C0603_15PF_CL10C150JC8':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934952@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934952@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934952@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C150 'CAP_USER_C0805_100NF/25V':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1953567@HUY_LIB.CAP_USER.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1953567@huy_lib.\cap_user.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1953567@huy_lib.\cap_user.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C151 'CAP 0603_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1962321@AUTOTALAB.CAP 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1962321@autotalab.\cap 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1962321@autotalab.\cap 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C152 'CAP 0603_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1964368@AUTOTALAB.CAP 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1964368@autotalab.\cap 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1964368@autotalab.\cap 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C153 'CAP 0603_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1964828@AUTOTALAB.CAP 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1964828@autotalab.\cap 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1964828@autotalab.\cap 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C154 'CAP_USER_C0603_100NF/25V':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1967400@HUY_LIB.CAP_USER.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1967400@huy_lib.\cap_user.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1967400@huy_lib.\cap_user.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C155 'CAP_CAP_AL_D_10UF/25V':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1967480@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1967480@discrete.\cap.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1967480@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C156 'CAP NP_C0603_DISCRETE_10NF/25V':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1967656@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1967656@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1967656@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C157 'CAP_USER_C0603_100NF/25V':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1967732@HUY_LIB.CAP_USER.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1967732@huy_lib.\cap_user.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1967732@huy_lib.\cap_user.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C158 'CAP_CAP_AL_D_100UF/25V':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1967760@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1967760@discrete.\cap.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1967760@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C159 'CAP NP_CAP_1210_22U/6.3V':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS2005155@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins2005155@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins2005155@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_0_C0603_15PF_CL10C150JC8':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934968@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934968@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934968@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_4_C0603_100PF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1936591@RK2818_10INCH_REF_V1.2_0726.CAP NP_4.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1936591@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1936591@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_4_C0603_1UF/16V':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1936609@RK2818_10INCH_REF_V1.2_0726.CAP NP_4.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1936609@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1936609@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_C0603_10NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1936765@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1936765@library1.\cap np.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1936765@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_0_C0603_100NF_C0603C104K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934096@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934096@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934096@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1937115@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1937115@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1937115@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1937137@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1937137@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1937137@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_4_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1937037@RK2818_10INCH_REF_V1.2_0726.CAP NP_4.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1937037@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1937037@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_4_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1937063@RK2818_10INCH_REF_V1.2_0726.CAP NP_4.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1937063@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1937063@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1937195@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1937195@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1937195@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_0_C0603_22NF_CL10B223KB8':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1939707@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1939707@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1939707@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_4_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1938860@RK2818_10INCH_REF_V1.2_0726.CAP NP_4.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1938860@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1938860@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_0_C0603_100NF_C0603C104K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934124@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934124@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934124@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP 0603_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1927374@AUTOTALAB.CAP 0603.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1927374@autotalab.\cap 0603.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1927374@autotalab.\cap 0603.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP 0603_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1927214@AUTOTALAB.CAP 0603.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1927214@autotalab.\cap 0603.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1927214@autotalab.\cap 0603.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP 0603_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1927230@AUTOTALAB.CAP 0603.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1927230@autotalab.\cap 0603.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1927230@autotalab.\cap 0603.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP_CAP_AL_D_100UF/35V':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1927410@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1927410@discrete.\cap.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1927410@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP_USER_C0805_100NF/25V':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1953503@HUY_LIB.CAP_USER.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1953503@huy_lib.\cap_user.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1953503@huy_lib.\cap_user.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP_USER_C0805_100NF/25V':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1953519@HUY_LIB.CAP_USER.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1953519@huy_lib.\cap_user.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1953519@huy_lib.\cap_user.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP NP_C0603_DISCRETE_10NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1927458@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1927458@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1927458@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP NP_CAP_1210_22U/6.3V':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1927284@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1927284@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1927284@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_0_C0603_100NF_C0603C104K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934152@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934152@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934152@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP_CAP_AL_D_220U/16V':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1927490@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1927490@discrete.\cap.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1927490@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP 0603_C0805_10UF_CC0603KRX7R':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1970006@AUTOTALAB.CAP 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1970006@autotalab.\cap 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1970006@autotalab.\cap 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP 0603_C0603_1UF_CC0603KRX7R9':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1970026@AUTOTALAB.CAP 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1970026@autotalab.\cap 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1970026@autotalab.\cap 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_0_C0603_100NF_C0603C104K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934168@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934168@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934168@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C52 'CAP NP_0_C0603_100NF_C0603C104K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1936855@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1936855@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1936855@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C53 'CAP NP_C0603_10NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1936731@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1936731@library1.\cap np.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1936731@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C54 'CAP NP_C0603_DISCRETE_100NF_C06':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1970090@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1970090@discrete.\cap np.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1970090@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C55 'CAP_CAP_AL_D_220UF/10V_87510524':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1969902@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1969902@discrete.\cap.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1969902@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_0_C0603_100NF_C0603C104K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934184@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934184@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934184@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_0_C0603_100NF_C0603C104K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934222@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934222@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934222@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP 0603_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1971158@AUTOTALAB.CAP 0603.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1971158@autotalab.\cap 0603.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1971158@autotalab.\cap 0603.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C85 'CAP NP_2_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1997944@NOONTEC_BOX_RK1000_V1.0_20110507.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1997944@\noontec_box_rk1000_v1.0_20110507\.\cap np_2.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1997944@\noontec_box_rk1000_v1.0_20110507\.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C86 'CAP NP_2_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1997924@NOONTEC_BOX_RK1000_V1.0_20110507.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1997924@\noontec_box_rk1000_v1.0_20110507\.\cap np_2.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1997924@\noontec_box_rk1000_v1.0_20110507\.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP 0603_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1971174@AUTOTALAB.CAP 0603.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1971174@autotalab.\cap 0603.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1971174@autotalab.\cap 0603.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D11 'DIODE ZENER_SOD80_3V3':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1928697@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1928697@discrete.\diode zener.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1928697@discrete.\diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D18 'LED_0_LED0805_LED':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1927320@STM32F4_CONTROLLER.LED_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1927320@stm32f4_controller.\led_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1927320@stm32f4_controller.\led_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'SS34_2_SOD123_1N5819':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1927442@STM32F4_CONTROLLER.SS34_2.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1927442@stm32f4_controller.\ss34_2.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1927442@stm32f4_controller.\ss34_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE_0_DO214AC_SMA_SS34':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1969179@RFID_NFC_V1.DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1969179@rfid_nfc_v1.\diode_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1969179@rfid_nfc_v1.\diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D41 'SS34_5_SOD882_1SS413CT':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1940383@5102_HDW_IO_COMPUTER.SS34_5.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1940383@\5102_hdw_io_computer\.\ss34_5.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1940383@\5102_hdw_io_computer\.\ss34_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D42 'SS34_6_SOD882_1SS413CT':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1940399@5102_HDW_IO_COMPUTER.SS34_6.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1940399@\5102_hdw_io_computer\.\ss34_6.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1940399@\5102_hdw_io_computer\.\ss34_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D43 'SS34_7_SOD882_1SS413CT':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1940481@5102_HDW_IO_COMPUTER.SS34_7.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1940481@\5102_hdw_io_computer\.\ss34_7.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1940481@\5102_hdw_io_computer\.\ss34_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D44 'SS34_8_SOD882_1SS413CT':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1940505@5102_HDW_IO_COMPUTER.SS34_8.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1940505@\5102_hdw_io_computer\.\ss34_8.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1940505@\5102_hdw_io_computer\.\ss34_8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D45 'DIODE ZENER_SOD80_3V3':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1962273@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1962273@discrete.\diode zener.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1962273@discrete.\diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D46 'DIODE ZENER_SOD80_3V3':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1964320@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1964320@discrete.\diode zener.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1964320@discrete.\diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D47 'DIODE ZENER_SOD80_3V3':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1964780@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1964780@discrete.\diode zener.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1964780@discrete.\diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D48 'LED_0_LED_3MM_LED':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS2005848@STM32F4_CONTROLLER.LED_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins2005848@stm32f4_controller.\led_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins2005848@stm32f4_controller.\led_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D49 'LED_0_LED_3MM_LED':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS2006826@STM32F4_CONTROLLER.LED_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins2006826@stm32f4_controller.\led_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins2006826@stm32f4_controller.\led_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D50 'LED_0_LED_3MM_LED':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS2007517@STM32F4_CONTROLLER.LED_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins2007517@stm32f4_controller.\led_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins2007517@stm32f4_controller.\led_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D51 'LED_0_LED_3MM_LED':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS2008354@STM32F4_CONTROLLER.LED_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins2008354@stm32f4_controller.\led_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins2008354@stm32f4_controller.\led_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'DIODE_DO214AC_SMA_1N4007':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1967788@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1967788@discrete.\diode.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1967788@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'SS34_2_SOD123_1N5819':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1967620@STM32F4_CONTROLLER.SS34_2.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1967620@stm32f4_controller.\ss34_2.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1967620@stm32f4_controller.\ss34_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DCIN1 'RAPC722_1_CONN_JACK_DC_PJ-002A':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1974058@TN3_0831.RAPC722_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1974058@tn3_0831.\rapc722_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1974058@tn3_0831.\rapc722_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED26 'SLVU2_0.8/SOT23_8-XFDFN_UCLAMP3':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1940289@PAB.SLVU2_0.8/SOT23.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1940289@pab.\slvu2_0.8/sot23.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1940289@pab.\slvu2_0.8/sot23.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'RJ45_3_HR911105A_RJ45':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1997172@STM32F4_CONTROLLER.RJ45_3.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1997172@stm32f4_controller.\rj45_3.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1997172@stm32f4_controller.\rj45_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 'RJ45_4_HR911105B_RJ45':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1941632@STM32F4_CONTROLLER.RJ45_4.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1941632@stm32f4_controller.\rj45_4.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1941632@stm32f4_controller.\rj45_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'RJ45_5_HR911105B_RJ45':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1941706@STM32F4_CONTROLLER.RJ45_5.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1941706@stm32f4_controller.\rj45_5.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1941706@stm32f4_controller.\rj45_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'RJ45_6_HR911105B_RJ45':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1941780@STM32F4_CONTROLLER.RJ45_6.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1941780@stm32f4_controller.\rj45_6.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1941780@stm32f4_controller.\rj45_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'RJ45_7_HR911105B_RJ45':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1941854@STM32F4_CONTROLLER.RJ45_7.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1941854@stm32f4_controller.\rj45_7.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1941854@stm32f4_controller.\rj45_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J15 'DB9PORT_DB9_FE_DB9PORT':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1953167@VLIB.DB9PORT.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1953167@vlib.\db9port.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1953167@vlib.\db9port.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J16 'HEADER 8_HEADER8PITCH3P81MM_HEA':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1959296@CONNECTOR.HEADER 8.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1959296@connector.\header 8.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1959296@connector.\header 8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'HEADER 2_HEADER2-PITCH3P96-B2P_':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1968043@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1968043@connector.\header 2.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1968043@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'HEADER 4_HEADER-4_JTAG':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934626@CONNECTOR.HEADER 4.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934626@connector.\header 4.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934626@connector.\header 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'HEADER 8_HEADER8PITCH3P81MM_HEA':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1929331@CONNECTOR.HEADER 8.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1929331@connector.\header 8.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1929331@connector.\header 8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_L0603_BLM18PG181SN1':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1937081@LAYOUT.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1937081@layout.\inductor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1937081@layout.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L10 'INDUCTOR_IN4D_5X5_8.8UH/1.7A':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1927506@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1927506@discrete.\inductor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1927506@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L11 'INDUCTOR_C0805_CHOKE WIDE':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1971194@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1971194@discrete.\inductor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1971194@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L16 'INDUCTOR_L0603_BLM18PG181SN1':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1997984@LAYOUT.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1997984@layout.\inductor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1997984@layout.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_IND_6X6MM_8.8UH/1.7A':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1967640@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1967640@discrete.\inductor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1967640@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L9 'INDUCTOR_C0805_CHOKE WIDE':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1927394@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1927394@discrete.\inductor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1927394@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LS1 'SPEAKER_4_BUZZER_DIP3_SPEAKER':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1969083@STM32F107_MAINBOARD.SPEAKER_4.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1969083@stm32f107_mainboard.\speaker_4.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1969083@stm32f107_mainboard.\speaker_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'Q2N1893_0_SOT-23-3_C1815':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1969129@RFID_NFC_V1.Q2N1893_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1969129@rfid_nfc_v1.\q2n1893_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1969129@rfid_nfc_v1.\q2n1893_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6 'Q2N1893_0_SOT-23-3_C1815':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1929889@RFID_NFC_V1.Q2N1893_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1929889@rfid_nfc_v1.\q2n1893_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1929889@rfid_nfc_v1.\q2n1893_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7 'MOSFET N_SOT-23-3_NC/SI2301':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1930017@DISCRETE.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1930017@discrete.\mosfet n.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1930017@discrete.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_0_R0603_4.7K_RC0603JR-':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934506@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934506@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934506@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR_0_R0603_49.9R_RC0603FR':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1939823@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1939823@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1939823@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R104 'RESISTOR_1_R0603_4.7K':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1938892@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1938892@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1938892@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R106 '4,7K-0603_R0603_NC/10K_5%':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1998313@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1998313@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1998313@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R108 '4,7K-0603_R0603_NC/10K_5%':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1998379@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1998379@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1998379@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR_0_R0603_49.9R_RC0603FR':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1939839@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1939839@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1939839@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR_0_R0603_49.9R_RC0603FR':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1939855@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1939855@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1939855@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RESISTOR_0_R0603_4.7K_RC0603JR-':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1937271@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1937271@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1937271@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RESISTOR_1_R0603_4.7K':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1938758@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1938758@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1938758@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R167 '4,7K-0603_R0603_680R_5%':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1998331@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1998331@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1998331@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RESISTOR_1_R0603_4.7K':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1938776@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1938776@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1938776@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R179 '4,7K-0603_R0603_680R_5%':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1998349@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1998349@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1998349@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_0_R0603_4.7K_RC0603JR-':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934586@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934586@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934586@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'RESISTOR_1_R0603_4.7K':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1938922@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1938922@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1938922@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 '4,7K-0603_R0603_2K_5%':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1936517@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1936517@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1936517@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'RESISTOR_1_R0603_NC':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1938794@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1938794@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1938794@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'RESISTOR_1_R0603_4.7K':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1938826@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1938826@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1938826@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 '4,7K-0603_R0603_12.1K%1_5%':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1936559@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1936559@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1936559@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'RESISTOR_1_R0603_0R':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1939004@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1939004@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1939004@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'RES-SM0402_0_R0603_DISCRETE_49.':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1927130@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1927130@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1927130@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'RES-SM0402_0_R0603_DISCRETE_10K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1927474@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1927474@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1927474@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R328 'RESISTOR_1_R0603_22R':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1940435@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1940435@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1940435@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R329 'RESISTOR_1_R0603_22R':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1940459@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1940459@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1940459@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'RESISTOR 0603_R0603_27':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1969101@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1969101@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1969101@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R330 'RESISTOR_1_R0603_22R':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1940521@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1940521@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1940521@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R331 'RESISTOR_1_R0603_22R':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1940543@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1940543@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1940543@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R332 'RESISTOR_0_R0603_22R_RC0603JR-0':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1936891@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1936891@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1936891@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R333 'RESISTOR_0_R0603_22R_RC0603JR-0':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1933716@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1933716@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1933716@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R334 'RESISTOR_0_R0603_22R_RC0603JR-0':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1933732@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1933732@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1933732@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R335 'RESISTOR_0_R0603_22R_RC0603JR-0':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1933752@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1933752@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1933752@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R336 'RESISTOR_0_R0603_22R_RC0603JR-0':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1933920@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1933920@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1933920@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R337 'RESISTOR_0_R0603_22R_RC0603JR-0':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1933944@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1933944@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1933944@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R338 'RESISTOR_0_R0603_22R_RC0603JR-0':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934016@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934016@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934016@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R339 'RESISTOR_0_R0603_22R_RC0603JR-0':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934076@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934076@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934076@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'RESISTOR 0603_R0603_330':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1969147@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1969147@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1969147@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R340 'RESISTOR_0_R0603_22R_RC0603JR-0':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934206@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934206@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934206@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R341 'RESISTOR_R0603_120':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1930658@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1930658@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1930658@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R342 'RESISTOR_R0603_220':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1928467@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1928467@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1928467@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R347 'RESISTOR 0603_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1969199@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1969199@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1969199@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R348 'RESISTOR_0_R0603_22R_RC0603JR-0':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934328@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934328@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934328@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R349 'RESISTOR 0603_R0603_330':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1942768@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1942768@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1942768@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R350 'RESISTOR 0603_R0603_330':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1945351@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1945351@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1945351@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R351 'RESISTOR 0603_R0603_330':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1945624@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1945624@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1945624@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R352 'RESISTOR 0603_R0603_330':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1945849@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1945849@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1945849@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R353 'RESISTOR_R0603_120':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1946603@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1946603@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1946603@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R354 'RESISTOR 0603_R0603_27':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1946657@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1946657@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1946657@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R355 'RESISTOR 0603_R0603_27':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1946677@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1946677@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1946677@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R356 'RESISTOR_R0603_120':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1947102@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1947102@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1947102@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R357 'RESISTOR 0603_R0603_27':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1947156@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1947156@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1947156@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R358 'RESISTOR 0603_R0603_27':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1947176@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1947176@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1947176@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R359 'RESISTOR_R0603_120':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1947619@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1947619@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1947619@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R360 'RESISTOR 0603_R0603_27':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1947673@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1947673@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1947673@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R361 'RESISTOR 0603_R0603_27':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1947693@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1947693@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1947693@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R364 'RESISTOR_R0603_220':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1962361@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1962361@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1962361@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R365 'RESISTOR_R0603_680':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1962377@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1962377@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1962377@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R366 'RESISTOR_R0603_680':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1962411@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1962411@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1962411@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R367 'RESISTOR_R0603_220':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1964408@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1964408@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1964408@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R368 'RESISTOR_R0603_680':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1964436@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1964436@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1964436@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R369 'RESISTOR_R0603_680':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1964458@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1964458@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1964458@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R370 'RESISTOR_R0603_220':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1964868@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1964868@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1964868@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R371 'RESISTOR_R0603_680':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1964896@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1964896@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1964896@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R372 'RESISTOR_R0603_680':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1964918@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1964918@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1964918@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R373 'RESISTOR 0603_R0603_0':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1966489@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1966489@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1966489@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R374 'RESISTOR_0_R0603_20K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1967432@FPGA.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1967432@fpga.\resistor_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1967432@fpga.\resistor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R386 'RES-SM0402_0_R0603_DISCRETE_10K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1987531@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1987531@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1987531@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'RESISTOR_0_R0603_5K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1967524@FPGA.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1967524@fpga.\resistor_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1967524@fpga.\resistor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R67 'RESISTOR_R0603_680':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1928599@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1928599@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1928599@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1967716@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1967716@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1967716@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R72 'RESISTOR 0603_R0603_27':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1930716@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1930716@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1930716@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R73 'RESISTOR 0603_R0603_27':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1930732@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1930732@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1930732@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R74 'RESISTOR 0603_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1970708@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1970708@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1970708@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R77 'RESISTOR 0603_R0603_330':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1929911@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1929911@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1929911@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R78 'RESISTOR 0603_R0603_NC':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1929927@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1929927@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1929927@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R79 'RESISTOR 0603_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1929949@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1929949@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1929949@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_0_R0603_320K':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1967416@FPGA.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1967416@fpga.\resistor_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1967416@fpga.\resistor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_0_R0603_49.9R_RC0603FR':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1939807@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1939807@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1939807@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R92 'RESISTOR 0603_R0603_NC':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1930075@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1930075@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1930075@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R94 'RESISTOR_R0603_680':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1928517@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1928517@discrete.\resistor.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1928517@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R96 'RESISTOR 0603_R0603_330':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1927334@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1927334@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1927334@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S1 'BUTTON_FSM_BUTTON_FSM_BUTTON_FS':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1970828@MISCELLANEOUS.BUTTON_FSM.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1970828@miscellaneous.\button_fsm.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1970828@miscellaneous.\button_fsm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW PUSHBUTTON-SPST-2_TAMPERSW-E':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1970680@DISCRETE.SW PUSHBUTTON-SPST-2.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1970680@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1970680@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'STM32F407_2_LQFP-100_STM32F407_':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1933476@STM32F407_MAINBOARD_V4_1.STM32F407_2.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1933476@stm32f407_mainboard_v4_1.\stm32f407_2.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1933476@stm32f407_mainboard_v4_1.\stm32f407_2.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'PMIC_SOT23-6_SOT23-6_AP3211':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1927550@VLIB.PMIC_SOT23-6.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1927550@vlib.\pmic_sot23-6.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1927550@vlib.\pmic_sot23-6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'STM1818_SOT-23-3_STM1818_STM181':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934752@LIBRARY1.STM1818.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934752@library1.\stm1818.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934752@library1.\stm1818.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U20 'LAN8720A_0_LAN8270A_LAN8720A':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1936313@RADXA_VER2.LAN8720A_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1936313@radxa_ver2.\lan8720a_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1936313@radxa_ver2.\lan8720a_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U21 'MAX485_1_SOIC-8_SN65HVD1X':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1930688@STM32F407_MAINBOARD.MAX485_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1930688@stm32f407_mainboard.\max485_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1930688@stm32f407_mainboard.\max485_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U22 'MAX485_1_SOIC-8_SN65HVD1X':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1946629@STM32F407_MAINBOARD.MAX485_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1946629@stm32f407_mainboard.\max485_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1946629@stm32f407_mainboard.\max485_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U23 'MAX485_1_SOIC-8_SN65HVD1X':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1947128@STM32F407_MAINBOARD.MAX485_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1947128@stm32f407_mainboard.\max485_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1947128@stm32f407_mainboard.\max485_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U24 'MAX485_1_SOIC-8_SN65HVD1X':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1947645@STM32F407_MAINBOARD.MAX485_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1947645@stm32f407_mainboard.\max485_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1947645@stm32f407_mainboard.\max485_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U25 'PMIC_SOT23-6_SOT23-6_AP3211':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1967680@VLIB.PMIC_SOT23-6.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1967680@vlib.\pmic_sot23-6.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1967680@vlib.\pmic_sot23-6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'MAX3232_0_SOIC16_MAX3232':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1953747@CONTROLBOARD.MAX3232_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1953747@controlboard.\max3232_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1953747@controlboard.\max3232_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'RT9193-33GB_1_SOT-223_LM1117 3.':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1969970@STM32F407_MAINBOARD_V2.0.RT9193-33GB_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1969970@\stm32f407_mainboard_v2.0\.\rt9193-33gb_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1969970@\stm32f407_mainboard_v2.0\.\rt9193-33gb_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL-4_0_CRY3225_M_12M-18PPM':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1935076@STM32F407_MAINBOARD.CRYSTAL-4_0.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1935076@stm32f407_mainboard.\crystal-4_0.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1935076@stm32f407_mainboard.\crystal-4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'CRYSTAL_1_CRYRTC32768_32768HZ_A':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1934934@STM32F407_MAINBOARD.CRYSTAL_1.NORMAL(CHIPS)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1934934@stm32f407_mainboard.\crystal_1.normal\(chips)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1934934@stm32f407_mainboard.\crystal_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y3 'OSC4/SM_1_HCMOS5X32_F535L-50_FX':;
+
+SECTION_NUMBER 1
+ '@STM32F4_CONTROLLER.SCHEMATIC1(SCH_1):INS1937017@STM32F407_MAINBOARD_V3.OSC4/SM_1.NORMAL(SCH_1)':
+ C_PATH='@stm32f4_controller.schematic1(sch_1):ins1937017@stm32f407_mainboard_v3.\osc4/sm_1.normal\(sch_1)',
+ P_PATH='@stm32f4_controller.schematic1(sch_1):page_ins1937017@stm32f407_mainboard_v3.\osc4/sm_1.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

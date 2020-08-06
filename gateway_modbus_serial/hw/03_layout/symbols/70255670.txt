@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"SRN4018-6R8M";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"Bourns Electronics";"";
+"TraceParts.PartStatus";"Published";"";
+"ALLIED_STOCK_NUMBER";"70255670";"";
+"TraceParts.PartNumber";"10-11012018-126560";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Inductor SMD 4x4 semi-shielded 6,8uH";"";
+"TraceParts.InstanceId";"10-11012018-1265606VL0BM1WLVIYWAD7MA9NMYPJ";"";
+"TraceParts.PartTitle";"Inductor SMD 4x4 semi-shielded 6,8uH";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"ALLIED_ELECTRONICS:10-11012018-126560";"";

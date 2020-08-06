@@ -1,0 +1,17 @@
+.\obj\lv_txt.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_txt.c
+.\obj\lv_txt.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_txt.h
+.\obj\lv_txt.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../../lv_conf.h
+.\obj\lv_txt.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../../lvgl/lv_conf_checker.h
+.\obj\lv_txt.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\lv_txt.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_area.h
+.\obj\lv_txt.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\lv_txt.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\lv_txt.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_font.h
+.\obj\lv_txt.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../../lv_conf.h
+.\obj\lv_txt.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\lv_txt.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_symbol_def.h
+.\obj\lv_txt.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../../lv_conf.h
+.\obj\lv_txt.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../lv_fonts/lv_font_builtin.h
+.\obj\lv_txt.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../lv_fonts/../../lv_conf.h
+.\obj\lv_txt.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../lv_fonts/../lv_misc/lv_font.h
+.\obj\lv_txt.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_math.h

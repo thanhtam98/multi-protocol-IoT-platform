@@ -1,0 +1,19 @@
+("devices.dml" 
+ (PackagedDevice 
+  (RESISTOR_1_R0603_22R_22R 
+   (ESpice ".subckt RESISTOR_1_R0603_22R_22R 1 2
+R1 1 2  22
+.ends RESISTOR_1_R0603_22R_22R
+" ) 
+   (PinConnections 
+    (1 2 ) 
+    (2 1 ) ) ) 
+  ("RESISTOR_0_R0603_22R_RC0603JR-0_22R" 
+   (ESpice ".subckt RESISTOR_0_R0603_22R_RC0603JR-0_22R 1 2
+R1 1 2  22
+.ends RESISTOR_0_R0603_22R_RC0603JR-0_22R
+" ) 
+   (PinConnections 
+    (1 2 ) 
+    (2 1 ) ) ) ) 
+ (LibraryVersion 136.2 ) ) 

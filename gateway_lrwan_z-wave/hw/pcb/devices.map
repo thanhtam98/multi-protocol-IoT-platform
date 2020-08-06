@@ -1,0 +1,18 @@
+'HEADER 6_HEADER-6_ZW_JTAG' 'header6_header-6_zw_jtag.txt';
+'CAP_CAP_AL_D_220U/16V' 'cap_cap_al_d_220u16v.txt';
+'CAP NP_CAP_1210_10U/35V' 'capnp_cap_1210_10u35v.txt';
+'CAP_CAP_AL_D_100UF/35V' 'cap_cap_al_d_100uf35v.txt';
+'CAP NP_C0603_DISCRETE_10NF' 'capnp_c0603_discrete_10nf.txt';
+'L-8.2NH-SMD0805_C0603_8.2NH' 'l-82nh-smd0805_c0603_82nh.txt';
+'CAP NP_CAP_1210_22U/6.3V' 'capnp_cap_1210_22u63v.txt';
+'HEADER 20X2_RASPERRY_HEADER 20X' 'header20x2_rasperry_header20x.txt';
+'RESISTOR_R0603_0R/NC' 'resistor_r0603_0rnc.txt';
+'C-6PF/50V-SMD0805_C0603_6PF' 'c-6pf50v-smd0805_c0603_6pf.txt';
+'INDUCTOR_IND_6X6MM_8.8UH/1.7A' 'inductor_ind_6x6mm_88uh17a.txt';
+'CAP NP_C0603_10U/35V' 'capnp_c0603_10u35v.txt';
+'USB MIN_6_CON5_MICROUSB_SKT_SM_' 'usbmin_6_con5_microusb_skt_sm_.txt';
+'C-10PF/50V-SMD0805_C0603_10PF' 'c-10pf50v-smd0805_c0603_10pf.txt';
+'CAP NP_C0603_0.1UF' 'capnp_c0603_01uf.txt';
+'CAP NP_C0603_DISCRETE_0.1UF_' 'capnp_c0603_discrete_01uf_.txt';
+'CAP 0603_C0603_100NF' 'cap0603_c0603_100nf.txt';
+'HEADER 3_HEADER3PITCH100MIL_Z_D' 'header3_header3pitch100mil_z_d.txt';

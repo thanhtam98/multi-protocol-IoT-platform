@@ -1,0 +1,125 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Thu Aug 06 23:26:08 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/RAK833_RPIGATEWAY.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  SQ80_DRILL50 being dumped.
+
+  DRILL1P1_NOPLATED being dumped.
+
+  DRILL1P6_NOPLATED being dumped.
+
+  PAD_102RECT26 being dumped.
+
+  CIR80_DRILL50 being dumped.
+
+  PAD_80CIR_50D_MILS being dumped.
+
+  SMD12X40 being dumped.
+
+  SMD35_32 being dumped.
+
+  SMD45_50 being dumped.
+
+  R054X018S being dumped.
+
+  R075X046S being dumped.
+
+  R083X058S being dumped.
+
+  R075X094S being dumped.
+
+  HOLE120_1 being dumped.
+
+  SMD_REC2P0X0P6 being dumped.
+
+  SMD_REC3P2X2P3 being dumped.
+
+  VIA044D024 being dumped.
+
+  PAD_80_SQR_50D_MILS being dumped.
+
+  DRILL3P0_CIR5P3 being dumped.
+
+  PADZWARE_PAD_2 being dumped.
+
+  PADZWARE_GND_2 being dumped.
+
+  REC1P6X5P7 being dumped.
+
+  PAD22 being dumped.
+
+  PAD40RECT22 being dumped.
+
+  PAD_OCTAGON_3MM being dumped.
+
+  SMD2_8X1_2R being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  zware_pad_2 being dumped.
+
+  zware_padgnd_2 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  led0805 being dumped.
+
+  header3pitch100mil being dumped.
+
+  sot23-6 being dumped.
+
+  header_1_3mm being dumped.
+
+  cap_1210 being dumped.
+
+  tssop-8 being dumped.
+
+  header-6 being dumped.
+
+  zm5202_a being dumped.
+
+  cap_al_d being dumped.
+
+  rasperry being dumped.
+
+  ind_6x6mm being dumped.
+
+  c0603 being dumped.
+
+  r0603 being dumped.
+
+  conn_pcie_52pos being dumped.
+
+  con5_microusb_skt_sm being dumped.
+
+  sod123 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               26
+Number of package symbols dumped:         16
+Number of shape symbols dumped:            2
+
+Total number of symbols dumped:           18
+*****************************************************
+

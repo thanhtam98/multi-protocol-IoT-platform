@@ -1,0 +1,9 @@
+#This is the Layer Conversion File used for
+#importing DXF data into Allegro/APD.
+
+#CLASS!            SUBCLASS!                           DXF_LAYER!
+
+PACKAGE GEOMETRY!
+                   PLACE_BOUND_TOP!                    a!
+
+#END

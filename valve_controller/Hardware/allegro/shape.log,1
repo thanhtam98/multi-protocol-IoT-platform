@@ -1,0 +1,22 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(     SHAPE LOG                                                       )
+(                                                                     )
+(    Drawing          : VALVECONTROLLER.brd                           )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Wed Oct 30 10:45:00 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ Shape net:    
+ Parameter minimum area: 0.00403 (sq cm)
+
+ Shape origin: (251.2568 268.9352)
+
+ Shape area:    1.196474 (sq cm)
+
+
+  THE FOLLOWING PADSTACKS ARE MISSING THERMAL/ANTIPADS:
+  (The pins will be ignored.)
+    HOLE55 

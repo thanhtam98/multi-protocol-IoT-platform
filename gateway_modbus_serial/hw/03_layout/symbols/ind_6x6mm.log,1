@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : IND_6x6mm.dra                                 )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Wed Feb 20 15:31:18 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/04_Project/12_anhBao/02_RFID_NFC/16_Controller/03_layout/symbols
+    Name      = ind_6x6mm.psm
+    User      = Tuan Nguyen
+    Machine   = DESKTOP-IDKG8B7
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

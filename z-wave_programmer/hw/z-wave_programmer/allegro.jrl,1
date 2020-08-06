@@ -1,0 +1,234 @@
+\t (00:00:00) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:00)     Journal start - Wed Jul 31 16:49:28 2019
+\t (00:00:00)         Host=NTT-ASUSROG User=NguyenThanhTam Pid=14084 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe E:\TTTN\Z-waveProgrammer\C0603.dra
+\t (00:00:00) 
+   (00:00:00) Searching for nsWare programs v2.78
+   (00:00:00) 	NsWare directory found: E:/CAD/pcbenv/nsWare/
+   (00:00:00) 	NsWare programs must reside in this directory!
+   (00:00:00) Loading axlcore.cxt 
+   (00:00:00) function PinVia_Overlap_FinishEnterFun redefined
+   (00:00:00) function Find_Point_On_Line_From_Distant redefined
+   (00:00:00) function Find_Point_Quadrature_Line redefined
+   (00:00:00) function Line_Line_Intersect redefined
+   (00:00:00) function _getPinsNet redefined
+   (00:00:00) function _getBranchs redefined
+   (00:00:00) function _getPaths redefined
+   (00:00:00) function _get2PointsPath redefined
+   (00:00:00) function _checkElementList redefined
+   (00:00:00) function _getSurroundPoints redefined
+   (00:00:00) function _getListPointsLPaths redefined
+   (00:00:00) function _checkPathPoint redefined
+   (00:00:00) function _deleteElementList redefined
+   (00:00:00) function _checkElementList redefined
+   (00:00:00) function _deleteElementList redefined
+   (00:00:00) function Find_Point_On_Line_From_Distant redefined
+   (00:00:00) function Find_Point_Quadrature_Line redefined
+   (00:00:00) function Is_Point_On_List redefined
+   (00:00:00) function Line_Line_Intersect redefined
+   (00:00:00) function Line_Line_Distant redefined
+\t (00:00:00) Opening existing design...
+\d (00:00:01) Design opened: E:/TTTN/Z-waveProgrammer/C0603.dra
+\i (00:00:02) trapsize 142
+\i (00:00:02) trapsize 139
+\i (00:00:02) trapsize 142
+\i (00:00:02) trapsize 140
+\i (00:00:02) trapsize 168
+\i (00:00:03) generaledit 
+\i (00:05:08) add line 
+\i (00:05:12) setwindow form.mini
+\i (00:05:12) FORM mini subclass ASSEMBLY_TOP 
+\i (00:05:14) setwindow pcb
+\i (00:05:14) pick grid 60.21 27.34
+\t (00:05:14) last pick:  100.00 0.00
+\i (00:05:16) pick grid 60.55 27.67
+\t (00:05:16) last pick:  100.00 0.00
+\t (00:05:16) last pick:  100.00 0.00
+\w (00:05:16) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:05:17) pick grid 63.91 -20.69
+\t (00:05:17) last pick:  100.00 0.00
+\t (00:05:17) last pick:  100.00 0.00
+\w (00:05:17) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:05:21) vis 
+\i (00:05:21) generaledit 
+\i (00:05:22) setwindow form.working_visible_form
+\i (00:05:22) FORM working_visible_form visible_all YES 
+\i (00:05:26) setwindow pcb
+\i (00:05:26) pick grid 62.23 25.66
+\t (00:05:26) last pick:  100.00 0.00
+\i (00:05:29) add line 
+\i (00:05:31) pick grid 62.56 26.67
+\t (00:05:31) last pick:  100.00 0.00
+\i (00:05:36) pick grid 54.50 -50.93
+\t (00:05:37) last pick:  100.00 -100.00
+\i (00:05:40) cancel 
+\i (00:05:41) generaledit 
+\i (00:05:43) pick grid 64.24 23.31
+\t (00:05:43) last pick:  100.00 0.00
+\i (00:06:15) pick grid -160.47 -14.65
+\t (00:06:15) last pick:  -200.00 0.00
+\i (00:06:16) add line 
+\i (00:06:18) pick grid -55.00 -35.47
+\t (00:06:18) last pick:  -100.00 0.00
+\i (00:06:20) pick grid -51.31 -36.82
+\t (00:06:20) last pick:  -100.00 0.00
+\t (00:06:20) last pick:  -100.00 0.00
+\w (00:06:20) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:06:27) cancel 
+\i (00:06:28) generaledit 
+\i (00:06:28) cancel 
+\i (00:06:28) generaledit 
+\i (00:06:29) add line 
+\i (00:06:34) setwindow form.mini
+\i (00:06:34) FORM mini line_width 1.00 
+\i (00:06:35) setwindow pcb
+\i (00:06:35) pick grid 65.58 24.32
+\t (00:06:35) last pick:  100.00 0.00
+\i (00:06:40) setwindow form.mini
+\i (00:06:40) FORM mini line_width 10.00 
+\i (00:06:44) FORM mini line_width 2.00 
+\i (00:07:01) setwindow pcb
+\i (00:07:01) pick grid 53.16 -50.93
+\t (00:07:01) last pick:  100.00 -100.00
+\i (00:07:03) prepopup 102.20 -98.29
+\i (00:07:03) done 
+\i (00:07:04) generaledit 
+\i (00:07:06) move 
+\t (00:07:07) Select element(s) to move.
+\i (00:07:07) drag_start grid 100.52 -76.79
+\i (00:07:08) drag_stop 95.14 -76.79
+\t (00:07:08) last pick:  95.14 -76.79
+\t (00:07:08) Element has no origin, using pick.
+\t (00:07:08) Pick new location for the element(s).
+\i (00:07:14) define grid 
+\t (00:07:14) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:07:19) setwindow form.grid
+\i (00:07:19) FORM grid non_etch non_etch_x_grids 10 
+\i (00:07:21) FORM grid non_etch non_etch_y_grids 10 
+\i (00:07:23) FORM grid top subclass_x_grids 10 
+\i (00:07:25) FORM grid top subclass_y_grids 10 
+\i (00:07:25) FORM grid done  
+\i (00:07:27) setwindow pcb
+\i (00:07:27) pick grid 57.52 -45.55
+\t (00:07:27) last pick:  60.00 -50.00
+\i (00:07:29) drag_start grid 65.25 -73.77
+\i (00:07:30) drag_stop 65.25 -21.03
+\t (00:07:30) last pick:  65.25 -21.03
+\t (00:07:30) Element has no origin, using pick.
+\t (00:07:30) Pick new location for the element(s).
+\i (00:07:32) pick grid 63.91 -15.66
+\t (00:07:32) last pick:  60.00 -20.00
+\i (00:07:35) delete 
+\i (00:07:37) pick grid 58.53 -56.97
+\t (00:07:37) last pick:  60.00 -60.00
+\t (00:07:37) Line "Package Geometry/Assembly_Top"
+\i (00:07:39) zoom in 1 
+\i (00:07:39) setwindow pcb
+\i (00:07:39) zoom in 64.58 -68.39
+\i (00:07:39) trapsize 84
+\i (00:07:42) pick grid 60.04 -71.07
+\t (00:07:42) last pick:  60.00 -70.00
+\i (00:07:43) zoom out 1 
+\i (00:07:43) setwindow pcb
+\i (00:07:43) zoom out 47.95 -54.95
+\i (00:07:43) trapsize 168
+\i (00:07:44) add line 
+\i (00:07:45) pick grid 60.71 28.02
+\t (00:07:45) last pick:  60.00 30.00
+\i (00:07:47) pick grid 61.72 -25.05
+\t (00:07:47) last pick:  60.00 -30.00
+\i (00:07:48) prepopup 59.03 -26.73
+\i (00:07:49) done 
+\i (00:07:49) generaledit 
+\i (00:07:54) xsection 
+   (00:07:54) Loading floor.cxt 
+   (00:07:54) Loading skillExt.cxt 
+\i (00:07:56) setwindow form.fplyrstack
+\i (00:07:56) FORM fplyrstack cancel  
+\i (00:07:56) setwindow pcb
+\i (00:07:56) generaledit 
+\i (00:07:57) shadow toggle 
+\i (00:08:00) shadow toggle 
+\i (00:08:01) xsection 
+\i (00:08:02) cmgr 
+\i (00:08:07) setwindow cmgr
+\i (00:08:07) cm exit
+\i (00:08:09) setwindow form.fplyrstack
+\i (00:08:09) FORM fplyrstack cancel  
+\i (00:08:09) setwindow pcb
+\i (00:08:09) generaledit 
+\i (00:08:11) color192 
+\i (00:08:11) setwindow cvf.dialog
+\i (00:08:11) cvf layer_mode
+\i (00:08:11) setwindow pcb
+\i (00:08:11) generaledit 
+\i (00:08:18) setwindow cvf.dialog
+\i (00:08:18) cvf layers_visible package_geometry/pin_number TRUE
+\i (00:08:18) cvf okay
+\i (00:08:28) setwindow pcb
+\i (00:08:28) save_as 
+\i (00:08:38) fillin "E:\TTTN\Z-waveProgrammer\allegro\D0603.dra"
+\i (00:08:38) cd "E:\TTTN\Z-waveProgrammer\allegro"
+\t (00:08:39) Symbol 'd0603.psm' created.
+\i (00:08:39) generaledit 
+\i (00:08:42) dlib 
+\i (00:09:09) pick grid 8.31 -40.84
+\t (00:09:09) last pick:  10.00 -40.00
+\i (00:09:13) setwindow form.dlib
+\i (00:09:13) FORM dlib cancel  
+\i (00:09:13) setwindow pcb
+\i (00:09:13) generaledit 
+\i (00:11:35) pick grid 60.04 -12.29
+\t (00:11:35) last pick:  60.00 -10.00
+\i (00:11:38) drag_start grid 60.04 -12.29
+\i (00:11:38) slide 
+\t (00:11:38) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Assembly_Top"
+\t (00:11:38) No valid items selected for the current operation, exiting.
+\i (00:11:38) generaledit 
+\i (00:11:40) drag_stop grid 45.93 -9.26
+\i (00:11:41) pick grid 55.33 -34.46
+\t (00:11:41) last pick:  60.00 -30.00
+\i (00:11:42) pick grid 59.36 -26.73
+\t (00:11:42) last pick:  60.00 -30.00
+\i (00:11:44) move 
+\t (00:11:44) last pick:  60.00 -30.00
+\t (00:11:44) Element has no origin, using pick.
+\t (00:11:44) Pick new location for the element(s).
+\i (00:11:53) pick grid -65.60 -25.05
+\t (00:11:53) last pick:  -70.00 -30.00
+\i (00:11:53) generaledit 
+\i (00:11:58) prepopup -70.30 -1.20
+\i (00:12:05) pop dyn_option_select 'Line@:@Change Width...' 
+\i (00:12:06) change width 
+\i (00:12:09) setwindow form.chgwidth
+\i (00:12:09) FORM chgwidth chgwidth 5.00 
+\i (00:12:09) FORM chgwidth done  
+\t (00:12:09) No DRC errors detected.
+\t (00:12:09) Changed 1 items out of 1 items found.
+\i (00:12:09) setwindow pcb
+\i (00:12:09) generaledit 
+\i (00:12:11) pick grid 75.82 -68.72
+\t (00:12:11) last pick:  80.00 -70.00
+\i (00:12:11) zoom out 1 
+\i (00:12:11) setwindow pcb
+\i (00:12:11) zoom out 77.50 -65.70
+\i (00:12:11) trapsize 336
+\i (00:12:12) save 
+\i (00:12:13) fillin yes 
+\t (00:12:14) Symbol 'd0603.psm' created.
+\i (00:12:14) generaledit 
+\i (00:12:20) downrev 
+\i (00:12:21) setwindow form.downrev
+\i (00:12:21) FORM downrev close  
+\i (00:12:21) setwindow pcb
+\i (00:12:21) generaledit 
+\i (00:12:24) dlib 
+\i (00:12:27) setwindow form.dlib
+\i (00:12:27) FORM dlib execute  
+\t (00:12:27) Starting Cadence export libraries...
+\w (00:20:01) Save Pending
+\i (00:23:33) setwindow pcb
+\i (00:23:33) exit 
+\e (00:23:33) Do you want to save the changes you made to E:/TTTN/Z-waveProgrammer/allegro/D0603.dra?
+\i (00:23:37) fillin no 
+\t (00:23:37)     Journal end - Wed Jul 31 17:13:05 2019

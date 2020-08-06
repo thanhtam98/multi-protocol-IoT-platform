@@ -1,0 +1,39 @@
+\t (00:00:07) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:07)     Journal start - Mon Jan 13 12:03:58 2020
+\t (00:00:07)         Host=NTT-ASUSROG User=NguyenThanhTam Pid=15332 CPUs=4
+\t (00:00:07) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:07) 
+   (00:00:12) Searching for nsWare programs v2.78
+   (00:00:12) 	NsWare directory found: E:/CAD/pcbenv/nsWare/
+   (00:00:13) 	NsWare programs must reside in this directory!
+   (00:00:13) Loading axlcore.cxt 
+   (00:00:13) function PinVia_Overlap_FinishEnterFun redefined
+   (00:00:13) function Find_Point_On_Line_From_Distant redefined
+   (00:00:13) function Find_Point_Quadrature_Line redefined
+   (00:00:13) function Line_Line_Intersect redefined
+   (00:00:13) function _getPinsNet redefined
+   (00:00:13) function _getBranchs redefined
+   (00:00:13) function _getPaths redefined
+   (00:00:13) function _get2PointsPath redefined
+   (00:00:13) function _checkElementList redefined
+   (00:00:13) function _getSurroundPoints redefined
+   (00:00:13) function _getListPointsLPaths redefined
+   (00:00:13) function _checkPathPoint redefined
+   (00:00:13) function _deleteElementList redefined
+   (00:00:13) function _checkElementList redefined
+   (00:00:13) function _deleteElementList redefined
+   (00:00:13) function Find_Point_On_Line_From_Distant redefined
+   (00:00:13) function Find_Point_Quadrature_Line redefined
+   (00:00:13) function Is_Point_On_List redefined
+   (00:00:13) function Line_Line_Intersect redefined
+   (00:00:13) function Line_Line_Distant redefined
+\t (00:00:14) Starting new design...
+\i (00:00:16) trapsize 837
+\i (00:00:17) trapsize 817
+\i (00:00:17) trapsize 840
+\i (00:00:17) trapsize 850
+\i (00:00:18) trapsize 1027
+\i (00:00:18) trapsize 1448
+\i (00:00:23) generaledit 
+\i (00:49:36) exit 
+\t (00:49:36)     Journal end - Mon Jan 13 12:53:27 2020

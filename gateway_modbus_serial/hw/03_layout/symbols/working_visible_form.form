@@ -1,0 +1,84 @@
+FILE_TYPE=FORM_DEFN VERSION=2
+FORM
+FIXED
+PORT 30 40
+HEADER "Working Visible Tool"
+
+POPUP <Etch_Pop>"TOP""TOP","BOTTOM""BOTTOM".
+
+TILE
+
+FIELD visible_all
+FLOC 2 1
+CHECKLIST " All"
+ENDFIELD
+FIELD visible_add
+FLOC 10 1
+CHECKLIST " Visible added mode"
+ENDFIELD
+FIELD place_top
+FLOC 2 3
+CHECKLIST " Placement top"
+ENDFIELD
+FIELD place_bot
+FLOC 16 3
+CHECKLIST " Bottom"
+ENDFIELD
+FIELD testvia_top
+FLOC 2 5
+CHECKLIST " Testvia top"
+ENDFIELD
+FIELD testvia_bot
+FLOC 16 5
+CHECKLIST " Bottom"
+ENDFIELD
+FIELD silk_top
+FLOC 2 7
+CHECKLIST " Silkscreen top"
+ENDFIELD
+FIELD silk_bot
+FLOC 16 7
+CHECKLIST " Bottom"
+ENDFIELD
+FIELD ass_top
+FLOC 2 9
+CHECKLIST " Assembly top"
+ENDFIELD
+FIELD ass_bot
+FLOC 16 9
+CHECKLIST " Bottom"
+ENDFIELD
+FIELD solder_top
+FLOC 2 11
+CHECKLIST " Soldermask top"
+ENDFIELD
+FIELD solder_bot
+FLOC 16 11
+CHECKLIST " Bottom"
+ENDFIELD
+FIELD paste_top
+FLOC 2 13
+CHECKLIST " Pastemask top"
+ENDFIELD
+FIELD paste_bot
+FLOC 16 13
+CHECKLIST " Bottom"
+ENDFIELD
+FIELD etch
+FLOC 2 15
+CHECKLIST " Etch"
+ENDFIELD
+FIELD constraint
+FLOC 16 15
+CHECKLIST " Constraint"
+ENDFIELD
+FIELD layer
+FLOC 2 17
+FGROUP "Etch Layer"
+ENUMSET 22
+POP "Etch_Pop"
+ENDFIELD
+
+ENDTILE
+
+ENDFORM

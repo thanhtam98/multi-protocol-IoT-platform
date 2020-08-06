@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "array": "c",
+        "vector": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "string": "c",
+        "random": "c",
+        "iosfwd": "c",
+        "xlocbuf": "c"
+    }
+}

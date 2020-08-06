@@ -1,0 +1,340 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : ZWAVE_BOOSTERPACK.brd                         )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Thu Sep 26 01:35:45 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < E:/TTTN/Z-WARE_PIRANTHENA/ZWAVE_BOOSTERPACK/ALLEGRO/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains objects with associated DRCs (5).
+           In the design editor view this film and enable visibility for the
+           associated DRC layer. Verify the DRCs are approved exceptions to your rules.
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01300                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.07800                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.08500                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.17000                                  DARK 
+  SQUARE     0.08000                     0.000 NO     DARK 
+  SQUARE     0.08000                    45.000 NO     DARK 
+  SQUARE     0.08500                     0.000 NO     DARK 
+  SQUARE     0.10000                     0.000 NO     DARK 
+  SQUARE     0.10000                    55.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.01700       0.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.01700      90.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.03200       0.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.03200      90.000 NO     DARK 
+  RECTANGLE  0.03500     x 0.03200     135.000 NO     DARK 
+  RECTANGLE  0.04500     x 0.05000     135.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.01200       0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.08000      90.000 NO     DARK 
+  RECTANGLE  0.09843     x 0.03543       0.000 NO     DARK 
+  RECTANGLE  0.11024     x 0.04724       0.000 NO     DARK 
+  RECTANGLE  0.11024     x 0.04724      90.000 NO     DARK 
+  RECTANGLE  0.11811     x 0.14764       0.000 NO     DARK 
+  PAD SHAPE  ZWARE_PADGND_2              0.000 NO     DARK 
+  PAD SHAPE  ZWARE_PAD_2                 0.000 NO     DARK 
+  PAD SHAPE  ZWARE_PADGND_2             90.000 NO     DARK 
+  PAD SHAPE  ZWARE_PAD_2                90.000 NO     DARK 
+  PAD SHAPE  ZWARE_PAD_2               180.000 NO     DARK 
+  PAD SHAPE  ZWARE_PAD_2               270.000 NO     DARK 
+  PAD SHAPE  ZWARE_PADGND_2            270.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < E:/TTTN/Z-WARE_PIRANTHENA/ZWAVE_BOOSTERPACK/ALLEGRO/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.07800                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.08500                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.17000                                  DARK 
+  SQUARE     0.08000                     0.000 NO     DARK 
+  SQUARE     0.08000                    45.000 NO     DARK 
+  SQUARE     0.08500                     0.000 NO     DARK 
+  SQUARE     0.10000                     0.000 NO     DARK 
+  SQUARE     0.10000                    55.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.08000      90.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SILK_TOP >
+     TO FILE < E:/TTTN/Z-WARE_PIRANTHENA/ZWAVE_BOOSTERPACK/ALLEGRO/SILK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (-140.000 -290.000)
+           ... using undefined line width of 6.000
+
+    WARNING: text composed 0 width line found at (-680.000 -350.000)
+           ... using undefined line width of 6.000
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 6.000
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 6.000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00197                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00591                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+
+     SILK_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILK_BOTTOM >
+     TO FILE < E:/TTTN/Z-WARE_PIRANTHENA/ZWAVE_BOOSTERPACK/ALLEGRO/SILK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+
+     SILK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SMASK_TOP >
+     TO FILE < E:/TTTN/Z-WARE_PIRANTHENA/ZWAVE_BOOSTERPACK/ALLEGRO/SMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.08500                                  DARK 
+  CIRCLE     0.09000                                  DARK 
+  CIRCLE     0.11000                                  DARK 
+  CIRCLE     0.18000                                  DARK 
+  SQUARE     0.09000                     0.000 NO     DARK 
+  SQUARE     0.09000                    45.000 NO     DARK 
+  SQUARE     0.11000                     0.000 NO     DARK 
+  SQUARE     0.11000                    55.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02200       0.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02200      90.000 NO     DARK 
+  RECTANGLE  0.04100     x 0.03800       0.000 NO     DARK 
+  RECTANGLE  0.04100     x 0.03800      90.000 NO     DARK 
+  RECTANGLE  0.04100     x 0.03800     135.000 NO     DARK 
+  RECTANGLE  0.05100     x 0.05600     135.000 NO     DARK 
+  RECTANGLE  0.07300     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.08500     x 0.08500      90.000 NO     DARK 
+  RECTANGLE  0.10843     x 0.04543       0.000 NO     DARK 
+  RECTANGLE  0.11024     x 0.04724       0.000 NO     DARK 
+  RECTANGLE  0.11024     x 0.04724      90.000 NO     DARK 
+  RECTANGLE  0.12811     x 0.15764       0.000 NO     DARK 
+  PAD SHAPE  ZWARE_PADGND_2              0.000 NO     DARK 
+  PAD SHAPE  ZWARE_PAD_2                 0.000 NO     DARK 
+  PAD SHAPE  ZWARE_PAD_2                90.000 NO     DARK 
+  PAD SHAPE  ZWARE_PADGND_2             90.000 NO     DARK 
+  PAD SHAPE  ZWARE_PAD_2               180.000 NO     DARK 
+  PAD SHAPE  ZWARE_PAD_2               270.000 NO     DARK 
+  PAD SHAPE  ZWARE_PADGND_2            270.000 NO     DARK 
+
+     SMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SMASK_BOTTOM >
+     TO FILE < E:/TTTN/Z-WARE_PIRANTHENA/ZWAVE_BOOSTERPACK/ALLEGRO/SMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.08500                                  DARK 
+  CIRCLE     0.09000                                  DARK 
+  CIRCLE     0.11000                                  DARK 
+  CIRCLE     0.18000                                  DARK 
+  SQUARE     0.08800                     0.000 NO     DARK 
+  SQUARE     0.09000                     0.000 NO     DARK 
+  SQUARE     0.09000                    45.000 NO     DARK 
+  SQUARE     0.11000                     0.000 NO     DARK 
+  SQUARE     0.11000                    55.000 NO     DARK 
+  RECTANGLE  0.08500     x 0.08500      90.000 NO     DARK 
+
+     SMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < PANEL >
+     TO FILE < E:/TTTN/Z-WARE_PIRANTHENA/ZWAVE_BOOSTERPACK/ALLEGRO/PANEL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+
+     PANEL created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOTTOM created.
+        SILK_TOP created with warnings
+        SILK_BOTTOM created.
+        SMASK_TOP created.
+        SMASK_BOTTOM created.
+        PANEL created.
+
+ ARTWORK had warnings

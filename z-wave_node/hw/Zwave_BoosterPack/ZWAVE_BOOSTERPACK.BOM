@@ -1,0 +1,38 @@
+  Revised: Wednesday, September 25, 2019
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials        October 21,2019      11:43:48	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	104
+2	3	C2,C3,C5	10uF
+3	3	C4,C8,C9	0.1uF
+4	2	C6,C7	NC
+5	1	D1	LED
+6	1	D2	DIODE
+7	1	J1	DC12V
+8	1	J2	HEADER 4
+9	1	J3	3V3
+10	1	J4	IO
+11	1	J5	HEADER 1
+12	1	J6	HEADER 3
+13	1	J7	ISP
+14	1	LS1	RELAY SPDT
+15	1	L1	22nH
+16	1	MH1	HOLE 4mm
+17	2	Q1,Q2	C1815
+18	1	R1	1k
+19	5	R2,R3,R4,R5,R6	10k
+20	1	R7	4K7
+21	1	R8	47K
+22	1	U1	LM1117
+23	1	U2	ZM5202
+24	1	U3	CAT25256

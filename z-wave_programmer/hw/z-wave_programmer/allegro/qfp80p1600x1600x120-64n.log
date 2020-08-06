@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : QFP80P1600X1600X120-64N.dra                   )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Wed Jul 31 16:34:34 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/TTTN/Z-waveProgrammer/allegro
+    Name      = qfp80p1600x1600x120-64n.psm
+    User      = NguyenThanhTam
+    Machine   = NTT-ASUSROG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

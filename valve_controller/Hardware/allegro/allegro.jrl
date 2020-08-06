@@ -1,0 +1,191 @@
+\t (01:07:57) allegro 17.2 S052 Windows SPB 64-bit Edition
+\t (01:07:57)     Journal start - Tue Jun 16 10:00:31 2020
+\t (01:07:57)         Host=NTT-ASUSROG User=NguyenThanhTam Pid=14348 CPUs=4
+\t (01:07:57) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (01:07:57) 
+\d (01:07:57) Design opened: C:/GIT/STM32F103_ValveController/Hardware/allegro/VALVECONTROLLER.brd
+\i (01:07:57) generaledit 
+\i (01:07:58) zoom out 1 
+\i (01:07:58) setwindow pcb
+\i (01:07:58) zoom out 12402.687 13166.012
+\i (01:07:58) trapsize 11828
+\i (01:07:58) zoom out 1 
+\i (01:07:58) setwindow pcb
+\i (01:07:58) zoom out 12402.687 13154.185
+\i (01:07:58) trapsize 23656
+\i (01:07:59) zoom in 1 
+\i (01:07:59) setwindow pcb
+\i (01:07:59) zoom in 11934.305 12704.727
+\i (01:07:59) trapsize 11828
+\i (01:07:59) zoom in 1 
+\i (01:07:59) setwindow pcb
+\i (01:07:59) zoom in 12291.505 12723.652
+\i (01:07:59) trapsize 5914
+\i (01:08:00) zoom out 1 
+\i (01:08:00) setwindow pcb
+\i (01:08:00) zoom out 12306.882 12715.373
+\i (01:08:00) trapsize 11828
+\i (01:08:00) zoom out 1 
+\i (01:08:00) setwindow pcb
+\i (01:08:00) zoom out 12309.247 12713.007
+\i (01:08:00) trapsize 23656
+\i (01:08:00) zoom out 1 
+\i (01:08:00) setwindow pcb
+\i (01:08:00) zoom out 12309.248 12713.007
+\i (01:08:00) trapsize 47311
+\i (01:08:01) zoom in 1 
+\i (01:08:01) setwindow pcb
+\i (01:08:01) zoom in 9167.777 13025.849
+\i (01:08:01) trapsize 23656
+\i (01:08:01) zoom in 1 
+\i (01:08:01) setwindow pcb
+\i (01:08:01) zoom in 9418.527 12633.165
+\i (01:08:01) trapsize 11828
+\i (01:08:01) zoom in 1 
+\i (01:08:01) setwindow pcb
+\i (01:08:01) zoom in 9435.086 12616.607
+\i (01:08:01) trapsize 5914
+\i (01:08:02) zoom in 1 
+\i (01:08:02) setwindow pcb
+\i (01:08:02) zoom in 9438.635 12614.242
+\i (01:08:02) trapsize 2957
+\i (01:08:04) pick grid 9517.290 12723.650
+\t (01:08:04) last pick:  9520.000 12720.000
+\i (01:08:05) zoom out 1 
+\i (01:08:05) setwindow pcb
+\i (01:08:05) zoom out 9524.978 12713.596
+\i (01:08:05) trapsize 5914
+\i (01:08:05) zoom out 1 
+\i (01:08:05) setwindow pcb
+\i (01:08:05) zoom out 9530.893 12706.500
+\i (01:08:05) trapsize 11828
+\i (01:08:05) zoom out 1 
+\i (01:08:05) setwindow pcb
+\i (01:08:05) zoom out 9540.354 12697.038
+\i (01:08:05) trapsize 23656
+\i (01:08:07) setwindow form.mini
+\i (01:08:07) FORM mini class DRC ERROR CLASS 
+\i (01:08:08) FORM mini class ETCH 
+\i (01:08:08) FORM mini subclass TOP 
+\i (01:08:09) setwindow pcb
+\i (01:08:09) zoom in 1 
+\i (01:08:09) setwindow pcb
+\i (01:08:09) zoom in 9010.467 12223.924
+\i (01:08:09) trapsize 11828
+\i (01:08:10) zoom in 1 
+\i (01:08:10) setwindow pcb
+\i (01:08:10) zoom in 9386.593 12290.160
+\i (01:08:10) trapsize 5914
+\i (01:08:10) zoom in 1 
+\i (01:08:10) setwindow pcb
+\i (01:08:10) zoom in 9319.174 12427.363
+\i (01:08:10) trapsize 2957
+\i (01:08:11) zoom in 1 
+\i (01:08:11) setwindow pcb
+\i (01:08:11) zoom in 9319.174 12426.772
+\i (01:08:11) trapsize 1478
+\i (01:08:13) pick grid 9354.362 12406.369
+\t (01:08:13) last pick:  9350.000 12410.000
+\i (01:08:13) zoom out 1 
+\i (01:08:13) setwindow pcb
+\i (01:08:13) zoom out 9354.362 12406.073
+\i (01:08:13) trapsize 2957
+\i (01:08:13) zoom out 1 
+\i (01:08:13) setwindow pcb
+\i (01:08:13) zoom out 9354.362 12406.074
+\i (01:08:13) trapsize 5914
+\i (01:08:13) zoom out 1 
+\i (01:08:13) setwindow pcb
+\i (01:08:13) zoom out 9354.363 12406.074
+\i (01:08:13) trapsize 11828
+\i (01:08:14) zoom in 1 
+\i (01:08:14) setwindow pcb
+\i (01:08:14) zoom in 9273.934 12706.501
+\i (01:08:14) trapsize 5914
+\i (01:08:15) zoom in 1 
+\i (01:08:15) setwindow pcb
+\i (01:08:15) zoom in 9269.202 12692.308
+\i (01:08:15) trapsize 2957
+\i (01:08:18) zoom in 1 
+\i (01:08:18) setwindow pcb
+\i (01:08:18) zoom in 9269.794 12809.994
+\i (01:08:18) trapsize 1478
+\i (01:08:19) zoom out 1 
+\i (01:08:19) setwindow pcb
+\i (01:08:19) zoom out 9269.794 12807.038
+\i (01:08:19) trapsize 2957
+\i (01:08:20) zoom out 1 
+\i (01:08:20) setwindow pcb
+\i (01:08:20) zoom out 9269.203 12803.489
+\i (01:08:20) trapsize 5914
+\i (01:08:20) zoom out 1 
+\i (01:08:20) setwindow pcb
+\i (01:08:20) zoom out 9263.291 12760.910
+\i (01:08:20) trapsize 11828
+\i (01:08:20) zoom out 1 
+\i (01:08:20) setwindow pcb
+\i (01:08:20) zoom out 9260.924 12746.717
+\i (01:08:20) trapsize 23656
+\i (01:08:22) zoom in 1 
+\i (01:08:22) setwindow pcb
+\i (01:08:22) zoom in 8272.116 11757.910
+\i (01:08:22) trapsize 11828
+\i (01:08:23) zoom in 1 
+\i (01:08:23) setwindow pcb
+\i (01:08:23) zoom in 8224.805 11644.363
+\i (01:08:23) trapsize 5914
+\i (01:08:23) zoom in 1 
+\i (01:08:23) setwindow pcb
+\i (01:08:23) zoom in 8207.064 11584.041
+\i (01:08:23) trapsize 2957
+\i (01:08:24) zoom out 1 
+\i (01:08:24) setwindow pcb
+\i (01:08:24) zoom out 8206.472 11583.450
+\i (01:08:24) trapsize 5914
+\i (01:08:24) zoom out 1 
+\i (01:08:24) setwindow pcb
+\i (01:08:24) zoom out 8206.473 11583.450
+\i (01:08:24) trapsize 11828
+\i (01:08:24) zoom out 1 
+\i (01:08:24) setwindow pcb
+\i (01:08:24) zoom out 8211.203 11585.816
+\i (01:08:24) trapsize 23656
+\i (01:08:24) zoom in 1 
+\i (01:08:24) setwindow pcb
+\i (01:08:24) zoom in 8461.953 12631.397
+\i (01:08:24) trapsize 11828
+\i (01:08:26) zoom in 1 
+\i (01:08:26) setwindow pcb
+\i (01:08:26) zoom in 8592.059 12442.152
+\i (01:08:26) trapsize 5914
+\i (01:08:26) zoom in 1 
+\i (01:08:26) setwindow pcb
+\i (01:08:26) zoom in 8583.779 12399.572
+\i (01:08:26) trapsize 2957
+\i (01:08:27) zoom in 1 
+\i (01:08:27) setwindow pcb
+\i (01:08:27) zoom in 8583.780 12399.572
+\i (01:08:27) trapsize 1478
+\i (01:08:30) pick grid 8686.386 12425.298
+\t (01:08:30) last pick:  8690.000 12430.000
+\i (01:08:32) shape select 
+\i (01:08:33) pick grid 8673.080 12411.696
+\t (01:08:33) last pick:  8670.000 12410.000
+\i (01:08:33) prepopup 8666.575 12384.196
+\i (01:08:34) pop shape param 
+\i (01:08:37) setwindow form.dyn_xshape
+\i (01:08:37) FORM dyn_xshape thermal_relief_connects  
+\i (01:08:40) FORM dyn_xshape cancel  
+\i (01:08:42) setwindow pcb
+\i (01:08:42) prepopup 8662.139 12400.755
+\i (01:23:42) xname_flush 
+\i (01:23:44) xname_flush 
+\i (01:23:48) xname_flush 
+\i (01:24:07) xname_flush 
+\i (01:24:12) xname_flush 
+\i (01:24:19) xname_flush 
+\i (01:24:25) xname_flush 
+\i (01:25:22) exit 
+\e (01:25:23) Do you want to save the changes you made to VALVECONTROLLER.brd?
+\i (01:25:23) fillin no 
+\t (01:25:24)     Journal end - Tue Jun 16 10:17:58 2020

@@ -1,0 +1,75 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : Z-WAVE PROG.brd                               )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Wed Aug 07 14:00:30 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		NO
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		YES
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-360): Design precision is greater than that of the drill output file data.
+ WARNING(SPMHMF-361): Data rounding errors are very possible.
+ WARNING(SPMHMF-365): This design contains 2 slot holes that can NOT be drilled.
+ WARNING(SPMHMF-366): They can be processed by NC routing instead.
+ WARNING(SPMHMF-368): Cannot find NC Drill tool file 'nc_tools.txt'
+ WARNING(SPMHMF-369): ... will auto-generate tool file 'nc_tools_auto.txt'.
+
+
+     Auto-generating tool file 'nc_tools_auto.txt' ...
+
+           Size  Plating  Tool        + Tolerance  - Tolerance
+
+         24.000  P        T01            0.000000     0.000000
+         24.803  P        T02            0.000000     0.000000
+         35.000  P        T03            0.000000     0.000000
+         36.220  P        T04            0.000000     0.000000
+         38.000  P        T05            3.000000     3.000000
+
+
+ Drill files being output to directory 'E:/TTTN/Z-waveProgrammer/allegro' ...
+
+
+
+     'Z-WAVE PROG_at-1-2.drl' created for holes connecting TOP and BOTTOM
+     --------------------------------------------------------------------
+
+     Tool  Num     Size      +/- Tolerance     Plating   Quantity
+
+     T01    1.  24.0000    0.0000/  0.0000      PLATED         31
+     T02    2.  24.8030    0.0000/  0.0000      PLATED          2
+     T03    3.  35.0000    0.0000/  0.0000      PLATED          4
+     T04    4.  36.2200    0.0000/  0.0000      PLATED          4
+     T05    5.  38.0000    3.0000/  3.0000      PLATED         16
+
+     ---- Total holes:                                         57
+
+     ---- Total head travel:              2.31 feet (0.70 meters)
+

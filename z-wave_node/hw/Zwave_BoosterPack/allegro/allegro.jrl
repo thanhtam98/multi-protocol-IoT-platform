@@ -1,0 +1,56 @@
+\t (00:01:04) allegro 17.2 S052 Windows SPB 64-bit Edition
+\t (00:01:04)     Journal start - Fri Jul 24 14:31:06 2020
+\t (00:01:04)         Host=NTT-ASUSROG User=NguyenThanhTam Pid=15684 CPUs=4
+\t (00:01:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:01:04) 
+\d (00:01:04) Design opened: E:/TTTN/Z-ware_PirAnthena/Zwave_BoosterPack/allegro/ZWAVE_BOOSTERPACK.brd
+\i (00:01:05) generaledit 
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 137.968 39.415
+\t (00:01:06) Grids are drawn 20.000, 20.000 apart for enhanced viewing.
+\i (00:01:06) trapsize 13743
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 121.478 -235.438
+\t (00:01:06) Grids are drawn 40.000, 40.000 apart for enhanced viewing.
+\i (00:01:06) trapsize 27485
+\i (00:01:07) pick grid 390.833 -944.561
+\t (00:01:07) last pick:  390.000 -940.000
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 330.366 -994.034
+\t (00:01:08) Grids are drawn 20.000, 20.000 apart for enhanced viewing.
+\i (00:01:08) trapsize 13743
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 330.366 -994.034
+\i (00:01:08) trapsize 6871
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 330.366 -994.034
+\i (00:01:08) trapsize 3436
+\i (00:01:09) roam y -96 
+\i (00:01:09) roam y -96
+\i (00:01:10) zoom in 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom in 520.702 -909.433
+\i (00:01:10) trapsize 1718
+\i (00:01:10) roam x -96 
+\i (00:01:10) roam x -96
+\i (00:01:11) roam x -96 
+\i (00:01:11) roam x -96
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out 414.243 -899.126
+\i (00:01:11) trapsize 3436
+\i (00:01:12) zoom in 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom in 412.869 -888.819
+\i (00:01:12) trapsize 1718
+\i (00:01:14) zoom out 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom out 412.869 -888.818
+\i (00:01:14) trapsize 3436
+\i (00:03:11) exit 
+\t (00:03:11)     Journal end - Fri Jul 24 14:33:13 2020

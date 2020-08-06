@@ -1,0 +1,22 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(     SHAPE LOG                                                       )
+(                                                                     )
+(    Drawing          : VALVECONTROLLER.brd                           )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Wed Oct 30 11:07:27 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ Shape net:    GND
+ Parameter minimum area: 0.000625 (sq in)
+
+ Shape origin: (8630.000 11250.000)
+
+ Shape area:    0.728255 (sq in)
+
+
+  THE FOLLOWING PADSTACKS ARE MISSING THERMAL/ANTIPADS:
+  (The pins will be ignored.)
+    120X040SLOT 

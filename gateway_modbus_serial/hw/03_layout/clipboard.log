@@ -1,0 +1,16 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Clipboard Paste Session                                          )
+(                                                                     )
+(    Drawing          : controller.brd                                )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Fri Feb 22 14:22:15 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Trying to paste the sub-design having units "mils" and accuracy 2 on to the desi
+gn having units "mils" and accuracy 1. Possibility of losing data accuracy.
+
+
+Clipboard Paste Session Completed at Feb 22 14:22:16 2019

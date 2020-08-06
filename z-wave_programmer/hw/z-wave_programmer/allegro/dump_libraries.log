@@ -1,0 +1,32 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Mon Aug 05 13:10:39 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: E:/TTTN/Z-waveProgrammer/allegro/header6x2smd.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  PAD_RECT_20X78-BOT being dumped.
+
+  PAD_REC_55X63 being dumped.
+
+  PAD_RECT_20X78 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                3
+
+Total number of symbols dumped:            0
+*****************************************************
+

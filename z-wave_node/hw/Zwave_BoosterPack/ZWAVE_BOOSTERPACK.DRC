@@ -1,0 +1,12 @@
+Date and Time : 09/10/19 11:49:06
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+ERROR(ORCAP-1628): Possible pin type conflict U1,OUT  Output Connected to Power
+                    SCHEMATIC1, PAGE1  (5.00, 0.60) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets

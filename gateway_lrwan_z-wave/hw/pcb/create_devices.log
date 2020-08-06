@@ -1,0 +1,47 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : RAK833_RPIGATEWAY.brd                         )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Thu Aug 06 23:26:08 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/header20x2_rasperry_header20x.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/header3_header3pitch100mil_z_d.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/capnp_c0603_10u35v.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/rak_pcie_conn_pcie_52pos_rak_pc.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/capnp_c0603_discrete_10nf.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/capnp_cap_1210_10u35v.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/capnp_c0603_discrete_01uf_.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/cap_c0603_10uf_.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/capnp_c0603_01uf.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/c-10pf50v-smd0805_c0603_10pf.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/c-6pf50v-smd0805_c0603_6pf.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/cap_cap_al_d_100uf35v.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/cap0603_c0603_100nf.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/capnp_cap_1210_22u63v.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/cap_cap_al_d_220u16v.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/ss34_2_sod123_1n5819.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/led_led0805_led.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/antenna_0_header_1_3mm_antenna.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/usbmin_6_con5_microusb_skt_sm_.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/header6_header-6_zw_jtag.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/inductor_ind_6x6mm_88uh17a.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/l-82nh-smd0805_c0603_82nh.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/res-sm0402_0_r0603_discrete_10k.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/res-sm0402_0_r0603_discrete_22.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/res-sm0402_0_r0603_discrete_360.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/res-sm0402_0_r0603_discrete_30k.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/resistor_r0603_0rnc.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/res-sm0402_0_r0603_discrete_1r.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/resistor_r0603_22r.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/pmic_sot23-6_sot23-6_ap3211.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/zm5202_zm5202_a_zm5202_zm5202au.txt': written successfully.
+Device file 'D:/ElectricBK/gateway_lrwan_z-wave/hw/pcb/cat25c02_0_tssop-8_cat25256.txt': written successfully.
+
+  Created device files: 32
+

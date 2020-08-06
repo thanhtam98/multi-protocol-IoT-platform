@@ -1,0 +1,412 @@
+
+(EDIF
+  (rename PRTR5V0U2X_44_215 "PRTR5V0U2X,215")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2018 04 24 01 52 10)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename PRTR5V0U2X_44_215 "PRTR5V0U2X,215")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename PRTR5V0U2X_44_215 "PRTR5V0U2X,215")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "D")
+          (property (rename VALUE "Value") (string "PRTR5V0U2X,215"))
+          (port
+            (rename P_36_1 "P$1")
+            (designator "1")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename P_36_2 "P$2")
+            (designator "2")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename P_36_3 "P$3")
+            (designator "3")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 2)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename P_36_4 "P$4")
+            (designator "4")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 3)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -26000 -30000) (pt 30000 30000)))
+            (portImplementation
+              (name P_36_1)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify UPPERCENTER)
+                  (orientation R0)
+                  (origin (pt -20000 -26062))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -20000 -30000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -20000 -30000)
+                    (pt -20000 -20000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name P_36_2)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify LOWERCENTER)
+                  (orientation R0)
+                  (origin (pt 10000 26062))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 10000 30000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 10000 30000)
+                    (pt 9999 20000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name P_36_3)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify LOWERCENTER)
+                  (orientation R0)
+                  (origin (pt 30000 26062))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 30000 30000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 30000 30000)
+                    (pt 29999 20000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name P_36_4)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify LOWERCENTER)
+                  (orientation R0)
+                  (origin (pt -20000 26062))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -20000 30000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -20000 30000)
+                    (pt -20000 20000)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (circle (pt -20999 20000) (pt -19000 20000))
+            )
+            (figure PARTBODY
+              (circle (pt -1000 0) (pt 1000 0))
+            )
+            (figure PARTBODY
+              (circle (pt 19000 0) (pt 20999 0))
+            )
+            (figure PARTBODY
+              (circle (pt -1000 -20000) (pt 1000 -20000))
+            )
+            (figure PARTBODY
+              (circle (pt -20999 -20000) (pt -19000 -20000))
+            )
+            (figure PARTBODY
+              (circle (pt -1000 20000) (pt 1000 20000))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -4000 14000) (pt 0 14000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 14000) (pt 4000 14000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -4000 -6000) (pt 0 -6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -6000) (pt 4000 -6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 16000 14000) (pt 20000 14000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 14000) (pt 24000 14000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 16000 -6000) (pt 20000 -6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 -6000) (pt 24000 -6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -24000 4000) (pt -20000 4000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 4000) (pt -16000 4000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -16000 4000) (pt -14000 6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -24000 4000) (pt -26000 2000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -6000) (pt 0 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 0) (pt 0 6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 -6000) (pt 20000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 0) (pt 20000 6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 0) (pt 10000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 10000 0) (pt 10000 30000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 0) (pt 30000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 30000 0) (pt 30000 30000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 14000) (pt 20000 20000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 20000) (pt 0 20000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 14000) (pt 0 20000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 20000) (pt -20000 20000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 4000) (pt -20000 30000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 -14000) (pt 20000 -20000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 -20000) (pt 0 -20000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -14000) (pt 0 -20000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -20000) (pt -20000 -20000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 -4000) (pt -20000 -30000)))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -10044 -29731))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -10012 -40649))
+              )
+            )
+            (figure PARTBODY
+              (polygon
+                (pointList
+                  (pt -24000 -4000)
+                  (pt -20000 4000)
+                  (pt -16000 -4000)
+                )
+              )
+            )
+            (figure PARTBODY
+              (polygon
+                (pointList
+                  (pt -4000 6000)
+                  (pt 0 14000)
+                  (pt 4000 6000)
+                )
+              )
+            )
+            (figure PARTBODY
+              (polygon
+                (pointList
+                  (pt 16000 6000)
+                  (pt 20000 14000)
+                  (pt 24000 6000)
+                )
+              )
+            )
+            (figure PARTBODY
+              (polygon
+                (pointList
+                  (pt -4000 -14000)
+                  (pt 0 -6000)
+                  (pt 4000 -14000)
+                )
+              )
+            )
+            (figure PARTBODY
+              (polygon
+                (pointList
+                  (pt 16000 -14000)
+                  (pt 20000 -6000)
+                  (pt 24000 -14000)
+                )
+              )
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "SOT143B"))
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "PRTR5V0U2X,215"))
+            )
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "
+PRTR5V0U2X - Ultra low capacitance double rail-to-rail ESD protection diode
+"))
+            )
+            (property
+              (rename Availability "Availability")
+              (string
+              (stringDisplay "Good"))
+            )
+            (property
+              (rename Price "Price")
+              (string
+              (stringDisplay "0.28 USD"))
+            )
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "Nexperia"))
+            )
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay "SOT-143 Nexperia"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

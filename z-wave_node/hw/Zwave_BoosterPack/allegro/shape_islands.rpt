@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : ZWAVE_BOOSTERPACK.brd                         )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Fri Sep 13 17:26:53 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 1
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (14017.977 11409.703)  Net: GND

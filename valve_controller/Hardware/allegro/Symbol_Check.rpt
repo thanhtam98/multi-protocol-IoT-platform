@@ -1,0 +1,30 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : VALVECONTROLLER.brd                           )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Thu Oct 31 14:37:54 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	E:/TTTN/Orcad/lib/0_Lib/1_Footprint
+	.
+	symbols
+	..
+	../symbols
+	C:/Cadence/SPB_16.6/share/local/pcb/symbols
+	C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+	C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols
+	.
+
+
+    Symbol not found for MH1:  MH_4MM
+
+
+Total symbols cannot locate: 1
+Total symbols placed:      118 out of 119
+
+

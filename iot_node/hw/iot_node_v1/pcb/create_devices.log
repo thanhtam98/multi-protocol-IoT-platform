@@ -1,0 +1,67 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : iot_node.brd                                  )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Thu Aug 06 23:44:22 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/db9port_db9_fe_db9port.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/cap_user_c0805_100nf25v.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/at24c02_0_soic-8_at24c02.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/max3232_0_soic16_max3232.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/mountinghole_mh_3mm_1_hole4mm.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/diode_sod80_1n4007.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/ss34_2_do214ac_sma_1n5819.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/swpushbutton-spst-2_tact_switc.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/capnp_c0805_discrete_47uf.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/header2_domino2_5_sw_in2.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/header3_domino3_5_onewire.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/header2_domino2_5_pulse_in.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/header3_header3pitch100mil_rak.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/header3_header3pitch100mil_r_1.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/header3_header3pitch100mil_mcu.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/header2_domino2_5_rs485_slave.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/header3_domino3_5_analog_in1.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/header2_domino2_5_sw_in1.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/header3_domino3_5_analog_in2.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/capnp_c0603_discrete_10nf.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/cap_cap_al_d_100uf35v.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/cap_cap_al_d_220u16v.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/cap0603_c0603_100nf.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/capnp_cap_1210_22u63v.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/inductor_ind_6x6mm_88uh17a.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/res-sm0402_0_r0603_discrete_10k.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/resistor0603_r0603_100r.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/resistor0603_r0603_1k.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/res-sm0402_0_r0603_discrete_49.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/pmic_sot23-6_sot23-6_ap3211.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/rak811_rak811_rak811.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/rt9193-33gb_1_sot-223_lm11175v.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/opto_optosmd_opto.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/74hc14_so_14_74hc14.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/swpushbutton-spst-2_0_b3u-1000.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/capnp_c0603_discrete_100nf_c06.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/capnp_0_c0603_18pf_cl10c180jb8.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/capnp_0_c0603_01uf63v_c0603.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/capnp_c0805_discrete_01uf.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/capnp_0_c0603_01uf_c0603c104k.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/diode_do214ac_sma_1n4007.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/led_0_led0805_led.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/antenna_1_sma_edge_antenna_opti.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/header2_header2-pitch3p96-b2p_.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/connjackpwr_conn_jack_dc_12vd.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/header5_header_5_jtagstsw.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/resistor0603_r0603_4k7.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/resistor0603_r0603_10k.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/resistor_0_r0603_47k_rc0603jr-.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/stm32f103c8t6_lqfp_48_stm32f103.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/max485_1_soic-8_max485.txt': written successfully.
+Device file 'D:/ElectricBK/iot_node/hw/iot_node_v1/pcb/crystal-4_0_cry3225_m_12m-18ppm.txt': written successfully.
+
+  Created device files: 52
+

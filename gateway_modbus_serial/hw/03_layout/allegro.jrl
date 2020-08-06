@@ -1,0 +1,539 @@
+\t (00:00:00) allegro 17.2 S052 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Jul 27 09:53:37 2020
+\t (00:00:00)         Host=NTT-ASUSROG User=NguyenThanhTam Pid=68 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe E:\LVTN\AccessControllerBoard\16_Controller\03_layout\controller.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+   (00:00:00) Searching for nsWare programs v2.78
+   (00:00:00) 	NsWare directory found: E:/CAD/pcbenv/nsWare/
+   (00:00:00) 	NsWare programs must reside in this directory!
+   (00:00:00) function AFn_OpenDesign redefined
+   (00:00:00) function PinVia_Overlap_FinishEnterFun redefined
+   (00:00:00) function Find_Point_On_Line_From_Distant redefined
+   (00:00:00) function Find_Point_Quadrature_Line redefined
+   (00:00:00) function Line_Line_Intersect redefined
+   (00:00:00) function _getPinsNet redefined
+   (00:00:00) function _getBranchs redefined
+   (00:00:00) function _getPaths redefined
+   (00:00:00) function _get2PointsPath redefined
+   (00:00:00) function _checkElementList redefined
+   (00:00:00) function _getSurroundPoints redefined
+   (00:00:00) function _getListPointsLPaths redefined
+   (00:00:00) function _checkPathPoint redefined
+   (00:00:00) function _deleteElementList redefined
+   (00:00:00) function _checkElementList redefined
+   (00:00:00) function _deleteElementList redefined
+   (00:00:00) function Find_Point_On_Line_From_Distant redefined
+   (00:00:00) function Find_Point_Quadrature_Line redefined
+   (00:00:00) function Is_Point_On_List redefined
+   (00:00:00) function Line_Line_Intersect redefined
+   (00:00:00) function Line_Line_Distant redefined
+\t (00:00:01) Opening existing design...
+\i (00:00:01) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged controller
+\d (00:00:01) Design opened: E:/LVTN/AccessControllerBoard/16_Controller/03_layout/controller.brd
+\t (00:00:02) Grids are drawn 1600.0, 1600.0 apart for enhanced viewing.
+\i (00:00:02) trapsize 120
+\i (00:00:02) trapsize 125
+\i (00:00:02) trapsize 107
+\i (00:00:02) trapsize 115
+\i (00:00:03) generaledit 
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out 3694.6 2619.9
+\i (00:00:03) trapsize 231
+\i (00:00:08) xrefdes J16 
+\i (00:00:08) xname_flush 
+\i (00:00:08) trapsize 138
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 1399.1 2787.0
+\i (00:00:09) trapsize 276
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 1399.1 2786.9
+\t (00:00:09) Grids are drawn 50.0, 50.0 apart for enhanced viewing.
+\i (00:00:09) trapsize 552
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 2150.4 2188.9
+\i (00:00:10) trapsize 276
+\i (00:00:10) pick grid 5956.0 2415.4
+\t (00:00:10) last pick:  5955.0 2415.0
+\i (00:00:11) roam x -96 
+\i (00:00:11) roam x -96
+\i (00:00:11) roam y 96 
+\i (00:00:11) roam y 96
+\e (00:00:11) Command not found: sa
+\i (00:00:11) roam x -96 
+\i (00:00:11) roam x -96
+\i (00:00:12) roam y 96 
+\i (00:00:12) roam y 96
+\i (00:00:12) roam x -96 
+\i (00:00:12) roam x -96
+\i (00:00:12) roam x -96 
+\i (00:00:12) roam x -96
+\i (00:00:12) roam x 96 
+\i (00:00:12) roam x 96
+\i (00:00:12) roam y -96 
+\i (00:00:12) roam y -96
+\i (00:00:12) roam x 96 
+\i (00:00:12) roam x 96
+\i (00:00:13) roam y -96 
+\i (00:00:13) roam y -96
+\i (00:00:13) roam x 96 
+\i (00:00:13) roam x 96
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 4440.1 2733.4
+\i (00:00:13) trapsize 138
+\i (00:00:13) roam x -96 
+\i (00:00:13) roam x -96
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 4001.1 2578.8
+\i (00:00:14) trapsize 276
+\i (00:00:14) roam x -96 
+\i (00:00:14) roam x -96
+\i (00:00:14) roam y 96 
+\i (00:00:14) roam y 96
+\i (00:00:14) roam x -96 
+\i (00:00:14) roam x -96
+\i (00:00:14) roam y 96 
+\i (00:00:14) roam y 96
+\i (00:00:14) roam y 96 
+\i (00:00:14) roam y 96
+\i (00:00:14) roam x -96 
+\i (00:00:14) roam x -96
+\i (00:00:14) roam x -96 
+\i (00:00:14) roam x -96
+\i (00:00:15) roam y 96 
+\i (00:00:15) roam y 96
+\i (00:00:16) roam y -96 
+\i (00:00:16) roam y -96
+\i (00:00:16) roam x 96 
+\i (00:00:16) roam x 96
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 1380.3 1120.7
+\i (00:00:16) trapsize 138
+\i (00:00:16) roam y -96 
+\i (00:00:16) roam y -96
+\i (00:00:17) roam x -96 
+\i (00:00:17) roam x -96
+\i (00:00:19) xdehilite 
+\i (00:00:19) xrefdes J16 
+\i (00:00:19) xname_flush 
+\i (00:00:19) done 
+\i (00:00:19) generaledit 
+\i (00:00:20) xrefdes Ed26 
+\i (00:00:20) xname_flush 
+\i (00:00:20) trapsize 51
+\i (00:00:24) xrefdes Ed26 
+\i (00:00:24) xname_flush 
+\i (00:00:24) trapsize 51
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out 1385.3 1263.3
+\i (00:00:43) trapsize 101
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out 1385.4 1263.4
+\i (00:00:43) trapsize 202
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out 1385.4 1263.3
+\i (00:00:43) trapsize 404
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out 2804.4 1352.3
+\t (00:00:43) Grids are drawn 100.0, 100.0 apart for enhanced viewing.
+\i (00:00:43) trapsize 735
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out 6617.6 852.9
+\i (00:00:43) trapsize 735
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out 6617.6 867.6
+\i (00:00:43) trapsize 735
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 1088.2 1647.1
+\t (00:00:44) Grids are drawn 50.0, 50.0 apart for enhanced viewing.
+\i (00:00:44) trapsize 368
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 1036.8 581.0
+\i (00:00:44) trapsize 184
+\i (00:00:45) pick grid 1169.2 717.0
+\t (00:00:45) last pick:  1170.0 715.0
+\i (00:00:46) roam x -96 
+\i (00:00:46) roam x -96
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in 1220.6 897.2
+\i (00:00:47) trapsize 92
+\i (00:00:47) roam x 96 
+\i (00:00:47) roam x 96
+\i (00:00:50) pick grid 1152.6 772.2
+\t (00:00:50) last pick:  1155.0 770.0
+\i (00:00:51) pick grid 1126.8 796.1
+\t (00:00:51) last pick:  1125.0 795.0
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in 1161.8 1132.5
+\i (00:00:52) trapsize 46
+\i (00:00:54) roam y -96 
+\i (00:00:54) roam y -96
+\i (00:00:55) roam y -96 
+\i (00:00:55) roam y -96
+\i (00:01:02) pick grid 1340.1 1265.5
+\t (00:01:02) last pick:  1340.0 1265.0
+\i (00:01:02) tab 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) mouse_pos 1340.1 1265.5
+\i (00:01:02) tab
+\i (00:01:05) pick grid 1032.2 1360.1
+\t (00:01:05) last pick:  1030.0 1360.0
+\i (00:01:06) setwindow form.find
+\i (00:01:06) FORM find all_off  
+\i (00:01:08) FORM find pins YES 
+\i (00:01:08) FORM find pins NO 
+\i (00:01:10) FORM find fingers YES 
+\i (00:01:10) FORM find fingers NO 
+\i (00:01:15) FORM find fingers YES 
+\i (00:01:16) FORM find fingers NO 
+\i (00:01:18) FORM find clines YES 
+\i (00:01:22) FORM find clines NO 
+\i (00:01:23) FORM find clines YES 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) pick grid 1334.6 1243.4
+\t (00:01:24) last pick:  1335.0 1245.0
+\i (00:01:24) tab 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) mouse_pos 1334.6 1243.4
+\i (00:01:24) tab
+\i (00:01:25) pick grid 1344.7 1193.8
+\t (00:01:25) last pick:  1345.0 1195.0
+\i (00:01:27) zoom in 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom in 1249.1 1338.1
+\i (00:01:27) trapsize 23
+\i (00:01:28) zoom in 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom in 1245.9 1333.9
+\i (00:01:28) trapsize 11
+\i (00:01:32) pick grid 1302.2 1339.9
+\t (00:01:32) last pick:  1300.0 1340.0
+\i (00:02:57) zoom out 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom out 1345.8 1307.3
+\i (00:02:57) trapsize 23
+\w (00:10:01) Save pending
+\i (00:11:43) zoom in 1 
+\i (00:11:43) setwindow pcb
+\i (00:11:43) zoom in 1242.5 1328.8
+\i (00:11:43) trapsize 11
+\i (00:55:32) xrefdes D42 
+\i (00:55:32) xrefdes Ed26 
+\i (00:55:32) xNet W_Txp 
+\i (00:55:32) xNet W_Rxp 
+\i (00:55:32) xNet W_Txn_Trans 
+\i (00:55:32) xrefdes D44 
+\i (00:55:32) xNet W_Txn 
+\i (00:55:32) xNet W_Rxn 
+\i (00:55:32) xNet W_Txp_Trans 
+\i (00:55:32) xrefdes R329 
+\i (00:55:32) xrefdes D43 
+\i (00:55:32) xrefdes R330 
+\i (00:55:32) xrefdes D41 
+\i (00:55:32) xrefdes R331 
+\i (00:55:32) xNet W_Rxp_Trans 
+\i (00:55:32) xNet W_Rxn_Trans 
+\i (00:55:32) xrefdes R328 
+\i (00:55:32) xname_flush 
+\i (00:55:32) trapsize 98
+\i (00:55:45) xrefdes R104 
+\i (00:55:45) xNet Gnd 
+\i (00:55:45) xrefdes R23 
+\i (00:55:45) xNet Vcc3v3 
+\i (00:55:45) xrefdes R17 
+\i (00:55:45) xNet Rmii_Rx_Err 
+\i (00:55:45) xrefdes R16 
+\i (00:55:45) xNet Rmii_Txen 
+\i (00:55:45) xrefdes C29 
+\i (00:55:45) xNet Rmii_Txd0 
+\i (00:55:45) xNet Rmii_Rxd1 
+\i (00:55:45) xrefdes R21 
+\i (00:55:45) xNet Rmii_Int 
+\i (00:55:45) xNet Rmii_Rst 
+\i (00:55:45) xNet Mpu_Rmii_Rst 
+\i (00:55:45) xNet Rmii_Rxd0 
+\i (00:55:45) xNet Rmii_Mdclk 
+\i (00:55:45) xrefdes R26 
+\i (00:55:45) xNet W_Rxp 
+\i (00:55:45) xrefdes R24 
+\i (00:55:45) xNet Rmii_Txd1 
+\i (00:55:45) xNet Rmii_Crs_Dvalid 
+\i (00:55:45) xname_flush 
+\i (00:55:48) xrefdes R104 
+\i (00:55:48) xNet Gnd 
+\i (00:55:48) xrefdes R23 
+\i (00:55:48) xNet Vcc3v3 
+\i (00:55:48) xrefdes R17 
+\i (00:55:48) xNet Rmii_Rx_Err 
+\i (00:55:48) xrefdes R16 
+\i (00:55:48) xrefdes C29 
+\i (00:55:48) xNet Rmii_Rxd1 
+\i (00:55:48) xrefdes R21 
+\i (00:55:48) xNet Mpu_Rmii_Rst 
+\i (00:55:48) xNet Rmii_Rxd0 
+\i (00:55:48) xNet Rmii_Rst 
+\i (00:55:48) xrefdes R26 
+\i (00:55:48) xrefdes R24 
+\i (00:55:48) xNet Rmii_Crs_Dvalid 
+\i (00:55:48) xNet Rmii_Int 
+\i (00:55:48) xname_flush 
+\i (00:55:48) trapsize 303
+\i (01:12:29) xrefdes D42 
+\i (01:12:29) xrefdes Ed26 
+\i (01:12:29) xNet W_Txp 
+\i (01:12:29) xNet W_Rxp 
+\i (01:12:29) xNet W_Txn_Trans 
+\i (01:12:29) xrefdes D44 
+\i (01:12:29) xNet W_Txn 
+\i (01:12:29) xNet W_Rxn 
+\i (01:12:29) xNet W_Txp_Trans 
+\i (01:12:29) xrefdes R329 
+\i (01:12:29) xrefdes D43 
+\i (01:12:29) xrefdes R330 
+\i (01:12:29) xrefdes D41 
+\i (01:12:29) xrefdes R331 
+\i (01:12:29) xNet W_Rxp_Trans 
+\i (01:12:29) xNet W_Rxn_Trans 
+\i (01:12:29) xrefdes R328 
+\i (01:12:29) xname_flush 
+\i (01:12:29) trapsize 98
+\i (01:12:31) xrefdes R104 
+\i (01:12:31) xNet Gnd 
+\i (01:12:31) xrefdes R23 
+\i (01:12:31) xNet Vcc3v3 
+\i (01:12:31) xrefdes R17 
+\i (01:12:31) xNet Rmii_Rx_Err 
+\i (01:12:31) xrefdes R16 
+\i (01:12:31) xrefdes C29 
+\i (01:12:31) xNet Rmii_Rxd1 
+\i (01:12:31) xrefdes R21 
+\i (01:12:31) xNet Mpu_Rmii_Rst 
+\i (01:12:31) xNet Rmii_Rxd0 
+\i (01:12:31) xNet Rmii_Rst 
+\i (01:12:31) xrefdes R26 
+\i (01:12:31) xrefdes R24 
+\i (01:12:31) xNet Rmii_Crs_Dvalid 
+\i (01:12:31) xNet Rmii_Int 
+\i (01:12:31) xname_flush 
+\i (01:12:31) trapsize 303
+\i (01:12:36) xrefdes D42 
+\i (01:12:36) xrefdes Ed26 
+\i (01:12:36) xNet W_Txp 
+\i (01:12:36) xNet W_Rxp 
+\i (01:12:36) xNet W_Txn_Trans 
+\i (01:12:36) xrefdes D44 
+\i (01:12:36) xNet W_Txn 
+\i (01:12:36) xNet W_Rxn 
+\i (01:12:36) xNet W_Txp_Trans 
+\i (01:12:36) xrefdes R329 
+\i (01:12:36) xrefdes D43 
+\i (01:12:36) xrefdes R330 
+\i (01:12:36) xrefdes D41 
+\i (01:12:36) xrefdes R331 
+\i (01:12:36) xNet W_Rxp_Trans 
+\i (01:12:36) xNet W_Rxn_Trans 
+\i (01:12:36) xrefdes R328 
+\i (01:12:36) xname_flush 
+\i (01:12:36) trapsize 98
+\i (01:12:48) xNet Rmii_33A 
+\i (01:12:48) xrefdes R9 
+\i (01:12:48) xNet W_Rxp_Trans 
+\i (01:12:48) xNet W_Txn_Trans 
+\i (01:12:48) xrefdes R12 
+\i (01:12:48) xrefdes R10 
+\i (01:12:48) xNet W_Txp_Trans 
+\i (01:12:48) xNet W_Rxn_Trans 
+\i (01:12:48) xrefdes R11 
+\i (01:12:48) xname_flush 
+\i (01:12:48) trapsize 95
+\i (01:12:50) xNet Rmii_33A 
+\i (01:12:50) xname_flush 
+\i (01:12:50) trapsize 93
+\i (01:12:55) xNet Gnd_Earth 
+\i (01:12:55) xNet Rmii_33A 
+\i (01:12:55) xrefdes C85 
+\i (01:12:55) xrefdes L16 
+\i (01:12:55) xrefdes R9 
+\i (01:12:55) xNet W_Rxp_Trans 
+\i (01:12:55) xNet W_Txn_Trans 
+\i (01:12:55) xNet Gnd 
+\i (01:12:55) xrefdes R12 
+\i (01:12:55) xrefdes J1 
+\i (01:12:55) xNet Gr- 
+\i (01:12:55) xNet Gr+ 
+\i (01:12:55) xrefdes R10 
+\i (01:12:55) xNet W_Txp_Trans 
+\i (01:12:55) xrefdes C86 
+\i (01:12:55) xrefdes C25 
+\i (01:12:55) xNet Ye+ 
+\i (01:12:55) xNet W_Rxn_Trans 
+\i (01:12:55) xNet Ye- 
+\i (01:12:55) xrefdes R11 
+\i (01:12:55) xname_flush 
+\i (01:12:55) trapsize 303
+\i (01:13:56) xrefdes L1 
+\i (01:13:56) xname_flush 
+\i (01:13:56) trapsize 47
+\i (01:17:11) xNet Gnd 
+\i (01:17:11) xrefdes R29 
+\i (01:17:11) xNet Vcc_12V 
+\i (01:17:11) xrefdes C33 
+\i (01:17:11) xrefdes C40 
+\i (01:17:11) xNet Vcc5v 
+\i (01:17:11) xNet N1927104 
+\i (01:17:11) xrefdes C31 
+\i (01:17:11) xrefdes C30 
+\i (01:17:11) xNet N1927148 
+\i (01:17:11) xrefdes C37 
+\i (01:17:11) xNet N1987547 
+\i (01:17:11) xrefdes C38 
+\i (01:17:11) xNet N1927076 
+\i (01:17:11) xrefdes C142 
+\i (01:17:11) xrefdes L10 
+\i (01:17:11) xrefdes C32 
+\i (01:17:11) xNet N1927124 
+\i (01:17:11) xrefdes L9 
+\i (01:17:11) xrefdes R30 
+\i (01:17:11) xrefdes R386 
+\i (01:17:11) xrefdes U12 
+\i (01:17:11) xrefdes D3 
+\i (01:17:11) xname_flush 
+\i (01:17:22) xrefdes U1 
+\i (01:17:22) xname_flush 
+\i (01:17:22) trapsize 138
+\i (01:17:28) xrefdes L11 
+\i (01:17:28) xrefdes C8 
+\i (01:17:28) xrefdes C9 
+\i (01:17:28) xNet Vdda 
+\i (01:17:28) xNet Vcc3v3 
+\i (01:17:28) xNet Gnd 
+\i (01:17:28) xname_flush 
+\i (01:17:28) trapsize 303
+\i (01:17:32) xrefdes U2 
+\i (01:17:32) xname_flush 
+\i (01:17:32) trapsize 33
+\i (01:17:35) xNet Vcc3v3 
+\i (01:17:35) xname_flush 
+\i (01:17:35) trapsize 258
+\i (01:17:38) xNet Nrst 
+\i (01:17:38) xNet 'Pa13_Jt Ms' 
+\i (01:17:38) xNet Gnd 
+\i (01:17:38) xNet Pa14_Jtck 
+\i (01:17:38) xrefdes J7 
+\i (01:17:38) xname_flush 
+\i (01:17:38) trapsize 303
+\i (01:18:13) xNet Gnd 
+\i (01:18:13) xrefdes R29 
+\i (01:18:13) xNet Vcc_12V 
+\i (01:18:13) xrefdes C33 
+\i (01:18:13) xrefdes C40 
+\i (01:18:13) xNet Vcc5v 
+\i (01:18:13) xNet N1927104 
+\i (01:18:13) xrefdes C31 
+\i (01:18:13) xrefdes C30 
+\i (01:18:13) xNet N1927148 
+\i (01:18:13) xrefdes C37 
+\i (01:18:13) xNet N1987547 
+\i (01:18:13) xrefdes C38 
+\i (01:18:13) xNet N1927076 
+\i (01:18:13) xrefdes C142 
+\i (01:18:13) xrefdes L10 
+\i (01:18:13) xrefdes C32 
+\i (01:18:13) xNet N1927124 
+\i (01:18:13) xrefdes L9 
+\i (01:18:13) xrefdes R30 
+\i (01:18:13) xrefdes R386 
+\i (01:18:13) xrefdes U12 
+\i (01:18:13) xrefdes D3 
+\i (01:18:13) xname_flush 
+\i (01:18:18) xNet Gnd 
+\i (01:18:18) xrefdes R96 
+\i (01:18:18) xrefdes D18 
+\i (01:18:18) xNet Vcc3v3 
+\i (01:18:18) xNet N1927532 
+\i (01:18:18) xname_flush 
+\i (01:18:18) trapsize 303
+\i (01:18:22) xNet Gnd 
+\i (01:18:22) xrefdes Dcin1 
+\i (01:18:22) xNet 16V 
+\i (01:18:22) xname_flush 
+\i (01:18:22) trapsize 303
+\i (01:19:21) xNet Gnd 
+\i (01:19:21) xrefdes Dcin1 
+\i (01:19:21) xNet 16V 
+\i (01:19:21) xname_flush 
+\i (01:19:21) trapsize 303
+\i (01:19:49) xNet Gnd 
+\i (01:19:49) xrefdes R29 
+\i (01:19:49) xNet Vcc_12V 
+\i (01:19:49) xrefdes C33 
+\i (01:19:49) xrefdes C40 
+\i (01:19:49) xNet Vcc5v 
+\i (01:19:49) xNet N1927104 
+\i (01:19:49) xrefdes C31 
+\i (01:19:49) xrefdes C30 
+\i (01:19:49) xNet N1927148 
+\i (01:19:49) xrefdes C37 
+\i (01:19:49) xNet N1987547 
+\i (01:19:49) xrefdes C38 
+\i (01:19:49) xNet N1927076 
+\i (01:19:49) xrefdes C142 
+\i (01:19:49) xrefdes L10 
+\i (01:19:49) xrefdes C32 
+\i (01:19:49) xNet N1927124 
+\i (01:19:49) xrefdes L9 
+\i (01:19:49) xrefdes R30 
+\i (01:19:49) xrefdes R386 
+\i (01:19:49) xrefdes U12 
+\i (01:19:49) xrefdes D3 
+\i (01:19:49) xname_flush 
+\i (01:28:18) xNet Vcc3v3 
+\i (01:28:18) xNet Vcc5v 
+\i (01:28:18) xNet Gnd 
+\i (01:28:18) xrefdes C41 
+\i (01:28:18) xrefdes C54 
+\i (01:28:18) xrefdes U6 
+\i (01:28:18) xrefdes C55 
+\i (01:28:18) xrefdes C43 
+\i (01:28:18) xrefdes C132 
+\i (01:28:18) xname_flush 
+\i (01:28:18) trapsize 303
+\i (01:28:19) xNet Vcc_12V 
+\i (01:28:19) xname_flush 
+\i (01:28:19) trapsize 303
+\i (01:28:20) xNet Vcc3v3 
+\i (01:28:20) xNet Vcc5v 
+\i (01:28:20) xNet Gnd 
+\i (01:28:20) xrefdes C41 
+\i (01:28:20) xrefdes C54 
+\i (01:28:20) xrefdes U6 
+\i (01:28:20) xrefdes C55 
+\i (01:28:20) xrefdes C43 
+\i (01:28:20) xrefdes C132 
+\i (01:28:20) xname_flush 
+\i (01:28:20) trapsize 303
+\i (01:29:35) pick grid 4992.5 1637.8
+\t (01:29:35) last pick:  4990.0 1640.0
+\t (01:29:35) Performing autosave...
+\t (01:29:36) Autosave successful
+\i (10:25:40) exit 
+\e (10:25:40) Do you want to save the changes you made to controller.brd?
+\i (10:25:44) fillin no 
+\t (10:25:44)     Journal end - Mon Jul 27 20:19:21 2020

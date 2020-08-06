@@ -1,0 +1,202 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.28.0.0
+Copyright (C) 2019 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Nguyen Tam, BKU, LIC=EXJHL-03VNN-3M89Q-NRDEC-X3RT3-PKMMD
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.28.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 6 (build 750)
+Assembler:       Armasm.exe V5.06 update 6 (build 750)
+Linker/Locator:  ArmLink.exe V5.06 update 6 (build 750)
+Library Manager: ArmAr.exe V5.06 update 6 (build 750)
+Hex Converter:   FromElf.exe V5.06 update 6 (build 750)
+CPU DLL:         SARMCM3.DLL V5.28.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.6.0
+Dialog DLL:      TCM.DLL V1.36.2.0
+ 
+<h2>Project:</h2>
+C:\GIT\STM32F103_ValveController\Firmware\Valve\Project\RVMDK - FreeRTOS\Project.uvprojx
+Project File Date:  06/10/2020
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Rebuild target 'STM32F103RC'
+compiling eeprom.c...
+..\inc\eeprom.h(16): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\src\eeprom.c: 1 warning, 0 errors
+compiling buttons.c...
+..\inc\hw_config.h(164): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\inc\eeprom.h(16): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\inc\Valve.h(67): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\src\buttons.c(40): warning:  #940-D: missing return statement at end of non-void function "switchState" 
+  }
+..\src\buttons.c(46): warning:  #550-D: variable "xStatus"  was set but never used
+      portBASE_TYPE xStatus;
+..\src\buttons.c(48): warning:  #177-D: variable "preVal"  was declared but never referenced
+     sw_t    preVal[3], currentVal[3];
+..\src\buttons.c(48): warning:  #177-D: variable "currentVal"  was declared but never referenced
+     sw_t    preVal[3], currentVal[3];
+..\src\buttons.c(307): warning:  #1-D: last line of file ends without a newline
+  //}
+..\src\buttons.c: 8 warnings, 0 errors
+compiling hw_config.c...
+..\inc\eeprom.h(16): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\inc\hw_config.h(164): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\inc\Valve.h(67): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\src\hw_config.c(55): warning:  #550-D: variable "EXTI_InitStructure"  was set but never used
+  	EXTI_InitTypeDef   EXTI_InitStructure;
+..\src\hw_config.c(244): warning:  #177-D: function "RTC_Init"  was declared but never referenced
+  static void RTC_Init(void)
+..\src\hw_config.c: 5 warnings, 0 errors
+compiling main.c...
+..\inc\eeprom.h(16): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\inc\hw_config.h(164): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\inc\valve.h(67): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\inc\zwave.h(30): warning:  #1-D: last line of file ends without a newline
+  #endif 
+..\src\main.c(128): warning:  #177-D: variable "xTicksToWait"  was declared but never referenced
+  	const portTickType xTicksToWait = 100 / portTICK_RATE_MS;
+..\src\main.c(138): warning:  #177-D: variable "invert"  was declared but never referenced
+  	bool invert[MAX_LED]; 
+..\src\main.c(219): warning:  #177-D: variable "pxValveHandles"  was declared but never referenced
+  	ValveHandles_t *pxValveHandles = (ValveHandles_t*) pvParameters;
+..\src\main.c(222): warning:  #177-D: variable "data"  was declared but never referenced
+  		char data= 0xff;
+..\src\main.c(217): warning:  #177-D: function "vTaskUART"  was declared but never referenced
+  static void vTaskUART(void *pvParameters)
+..\src\main.c(63): warning:  #177-D: function "vTaskZWAVE"  was declared but never referenced
+  static void vTaskZWAVE(void *pvParameters);
+..\src\main.c: 10 warnings, 0 errors
+compiling uart_command.c...
+..\inc\hw_config.h(164): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\src\uart_command.c: 1 warning, 0 errors
+compiling stm32f10x_it.c...
+..\inc\hw_config.h(164): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\inc\eeprom.h(16): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\inc\Valve.h(67): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\src\stm32f10x_it.c: 3 warnings, 0 errors
+compiling misc.c...
+compiling zwave.c...
+..\inc\zwave.h(30): warning:  #1-D: last line of file ends without a newline
+  #endif 
+..\inc\hw_config.h(164): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\inc\Valve.h(67): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\inc\eeprom.h(16): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\src\zwave.c(52): warning:  #177-D: variable "ZW_ready"  was declared but never referenced
+  	BOOL ZW_ready =FALSE;
+..\src\zwave.c(54): warning:  #177-D: variable "ZW_appversion_send"  was declared but never referenced
+    BOOL ZW_appversion_send = FALSE;
+..\src\zwave.c(55): warning:  #177-D: variable "ZW_getconnect_send"  was declared but never referenced
+    BOOL ZW_getconnect_send = FALSE;
+..\src\zwave.c(319): warning:  #177-D: variable "pxValveHandles"  was declared but never referenced
+  	ValveHandles_t *pxValveHandles = (ValveHandles_t*) pvParameters;
+..\src\zwave.c(321): warning:  #177-D: variable "uart_cmd"  was declared but never referenced
+      ZW_UART_COMMAND uart_cmd;
+..\src\zwave.c: 9 warnings, 0 errors
+compiling Valve.c...
+..\inc\zwave.h(30): warning:  #1-D: last line of file ends without a newline
+  #endif 
+..\inc\hw_config.h(164): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\inc\Valve.h(67): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\inc\eeprom.h(16): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\src\Valve.c(137): warning:  #9-D: nested comment is not allowed
+  		/*NVIC for StopSensor/*/
+..\src\Valve.c(138): warning:  #550-D: variable "EXTI_InitStructure"  was set but never used
+  			EXTI_InitTypeDef   EXTI_InitStructure;
+..\src\Valve.c(261): warning:  #188-D: enumerated type mixed with another type
+  						MotorState[motor_num] = (data_control.state ==0)?2:3;
+..\src\Valve.c(265): warning:  #188-D: enumerated type mixed with another type
+  						MotorState[data_control.motor_num] = (data_control.state ==0)?2:3;
+..\src\Valve.c(246): warning:  #177-D: variable "data_reponse"  was declared but never referenced
+  		Data_motor_t data_reponse;
+..\src\Valve.c(248): warning:  #177-D: variable "xTicksToWait"  was declared but never referenced
+      const portTickType xTicksToWait = 100 / portTICK_RATE_MS;
+..\src\Valve.c(250): warning:  #177-D: variable "buf"  was declared but never referenced
+  		uint8_t buf = 0;
+..\src\Valve.c(306): warning:  #177-D: variable "pxValveHandles"  was declared but never referenced
+  	ValveHandles_t *pxValveHandles = (ValveHandles_t*) pvParameters;
+..\src\Valve.c(394): warning:  #1-D: last line of file ends without a newline
+  	
+..\src\Valve.c(195): warning:  #177-D: function "Motor_Home"  was declared but never referenced
+  static void Motor_Home(uint8_t motor_num)
+..\src\Valve.c: 14 warnings, 0 errors
+compiling stm32f10x_adc.c...
+compiling stm32f10x_bkp.c...
+compiling stm32f10x_can.c...
+compiling stm32f10x_crc.c...
+compiling stm32f10x_dac.c...
+compiling stm32f10x_dbgmcu.c...
+compiling stm32f10x_dma.c...
+compiling stm32f10x_exti.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_fsmc.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_i2c.c...
+compiling stm32f10x_iwdg.c...
+compiling stm32f10x_pwr.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_rtc.c...
+compiling stm32f10x_sdio.c...
+compiling stm32f10x_spi.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_tim.c...
+compiling croutine.c...
+compiling stm32f10x_wwdg.c...
+compiling list.c...
+compiling queue.c...
+compiling tasks.c...
+compiling port.c...
+compiling event_groups.c...
+compiling stream_buffer.c...
+compiling timers.c...
+compiling heap_1.c...
+assembling startup_stm32f10x_hd.s...
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+linking...
+Program Size: Code=12424 RO-data=392 RW-data=176 ZI-data=18832  
+FromELF: creating hex file...
+".\Obj\STM32F103RC.axf" - 0 Error(s), 51 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F1xx_DFP.2.3.0.pack
+                Keil.STM32F1xx_DFP.2.3.0
+                STMicroelectronics STM32F1 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_STM32F103RC
+  C:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+Build Time Elapsed:  00:00:07
+</pre>
+</body>
+</html>

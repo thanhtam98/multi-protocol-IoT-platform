@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : cdrh127_ind.dra                               )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Wed Oct 16 17:13:49 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/TTTN/ValveController/Hardware/allegro
+    Name      = cdrh127_ind.psm
+    User      = NguyenThanhTam
+    Machine   = NTT-ASUSROG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

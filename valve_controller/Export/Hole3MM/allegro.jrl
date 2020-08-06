@@ -1,0 +1,48 @@
+\t (00:00:02) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:02)     Journal start - Fri Nov 15 14:36:03 2019
+\t (00:00:02)         Host=NTT-ASUSROG User=NguyenThanhTam Pid=22916 CPUs=4
+\t (00:00:02) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:03) Searching for nsWare programs v2.78
+   (00:00:03) 	NsWare directory found: E:/CAD/pcbenv/nsWare/
+   (00:00:03) 	NsWare programs must reside in this directory!
+   (00:00:03) Loading axlcore.cxt 
+   (00:00:03) function PinVia_Overlap_FinishEnterFun redefined
+   (00:00:03) function Find_Point_On_Line_From_Distant redefined
+   (00:00:03) function Find_Point_Quadrature_Line redefined
+   (00:00:03) function Line_Line_Intersect redefined
+   (00:00:03) function _getPinsNet redefined
+   (00:00:03) function _getBranchs redefined
+   (00:00:03) function _getPaths redefined
+   (00:00:03) function _get2PointsPath redefined
+   (00:00:03) function _checkElementList redefined
+   (00:00:03) function _getSurroundPoints redefined
+   (00:00:03) function _getListPointsLPaths redefined
+   (00:00:03) function _checkPathPoint redefined
+   (00:00:03) function _deleteElementList redefined
+   (00:00:03) function _checkElementList redefined
+   (00:00:03) function _deleteElementList redefined
+   (00:00:03) function Find_Point_On_Line_From_Distant redefined
+   (00:00:03) function Find_Point_Quadrature_Line redefined
+   (00:00:03) function Is_Point_On_List redefined
+   (00:00:03) function Line_Line_Intersect redefined
+   (00:00:03) function Line_Line_Distant redefined
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: E:/TTTN/ValveController/Export/Hole3MM/MH_3MM.dra
+\i (00:00:05) trapsize 206
+\i (00:00:05) trapsize 201
+\i (00:00:05) trapsize 207
+\i (00:00:06) trapsize 246
+\i (00:00:06) trapsize 246
+\i (00:00:07) generaledit 
+\i (00:00:09) new 
+\i (00:00:09) newdrawfillin "menu_cancel"
+\i (00:00:16) opencd E:/TTTN/ValveController/Hardware/allegro/VALVECONTROLLER.brd 
+\t (00:00:16) Opening existing design...
+\i (00:00:18) trapsize 4413
+\i (00:00:18) trapsize 4270
+\i (00:00:18) trapsize 4413
+\i (00:00:18) trapsize 4473
+\i (00:00:19) trapsize 4525
+\i (00:00:19) trapsize 4525
+\t (00:00:19)     Journal end - Fri Nov 15 14:36:20 2019

@@ -1,0 +1,131 @@
+(ExpressProject "stm32f103_rak4600_thesisnode"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "c:\git\thesislorawannode\hw\footprint_tam\4. library\library1.olb"
+        (Type "Schematic Library")
+        (DisplayName
+           "c:\git\thesislorawannode\hw\footprint_tam\4. library\library1.olb")))
+    (NoModify)
+    (File ".\stm32f103_rak4600_thesisnode.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\stm32f103_rak4600_thesisnode.dsn"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File"
+       "allegro\STM32F103_RAK4600_THESISNODE.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    ("Allegro Netlist Input Board File"
+       "C:\GIT\ThesisLorawanNode\HW\RAK4600_SM32Node\allegro\STM32F103_RAK4600_THESISNODE.brd"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (CON8
+      (FullPartName "CON8.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (RAK4600
+      (FullPartName "RAK4600.Normal")
+      (LibraryName
+         "C:\GIT\THESISLORAWANNODE\HW\FOOTPRINT_TAM\4. LIBRARY\LIBRARY1.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\stm32f103_rak4600_thesisnode.dsn")
+      (Path "Design Resources" ".\stm32f103_rak4600_thesisnode.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 278"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1356 26 347")
+        (Scroll "-78 46")
+        (Zoom "116")
+        (Occurrence "/"))
+      (Path
+         "D:\ELECTRICBK\IOT_NODE\HW\IOT_NODE_V2\SCHE\STM32F103_RAK4600_THESISNODE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "4.RAK4600"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1434 104 425")
+        (Scroll "0 204")
+        (Zoom "86")
+        (Occurrence "/"))
+      (Path
+         "D:\ELECTRICBK\IOT_NODE\HW\IOT_NODE_V2\SCHE\STM32F103_RAK4600_THESISNODE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "1.POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1460 130 451")
+        (Scroll "0 366")
+        (Zoom "86")
+        (Occurrence "/"))
+      (Path
+         "D:\ELECTRICBK\IOT_NODE\HW\IOT_NODE_V2\SCHE\STM32F103_RAK4600_THESISNODE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "2.MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1290 104 355")
+        (Scroll "0 288")
+        (Zoom "86")
+        (Occurrence "/"))
+      (Path
+         "D:\ELECTRICBK\IOT_NODE\HW\IOT_NODE_V2\SCHE\STM32F103_RAK4600_THESISNODE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "3.IO")))
+  (MPSSessionName "NguyenThanhTam")
+  (ISPCBBASICLICENSE "false"))

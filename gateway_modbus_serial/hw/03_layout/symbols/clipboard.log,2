@@ -1,0 +1,20 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Clipboard Paste Session                                          )
+(                                                                     )
+(    Drawing          : shiled_cw7_1.dra                              )
+(    Software Version : 16.6S016                                      )
+(    Date/Time        : Fri Jan 19 15:05:40 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Trying to paste the sub-design having units "mils" and accuracy 2 on to the desi
+gn having units "mils" and accuracy 1. Possibility of losing data accuracy.
+WARNING(SPMHUT-48): Scaled value has been rounded off.
+WARNING(SPMHUT-48): Scaled value has been rounded off.
+WARNING(SPMHUT-48): Scaled value has been rounded off.
+Text pasted without CLIP_DRAWING property.
+
+
+Clipboard Paste Session Completed at Jan 19 15:05:44 2018

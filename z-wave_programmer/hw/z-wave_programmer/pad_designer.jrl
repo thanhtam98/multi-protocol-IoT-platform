@@ -1,0 +1,9 @@
+\t (00:00:00) pad_designer 16.6 S007 (v16-6-112AC) Windows 32
+\t (00:00:00)     Journal start - Mon Mar 28 08:42:35 2016
+\t (00:00:00)         Host=PC2013031902YSJ User=Admin Pid=5116 CPUs=2
+\t (00:00:00) 
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) pse_open 
+\i (00:00:20) fillin "D:\01_working_allegro\Libraly_Footprint\LED-DIP-2-5mm\d035c080.pad"
+\i (00:00:20) cd "D:\01_working_allegro\Libraly_Footprint\LED-DIP-2-5mm"
+\t (00:00:20)     Journal end - Mon Mar 28 08:42:56 2016

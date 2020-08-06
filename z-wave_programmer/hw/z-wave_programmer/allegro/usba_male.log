@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : USBA_male.dra                                 )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Fri Aug 02 13:46:04 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/TTTN/Z-waveProgrammer/allegro
+    Name      = usba_male.psm
+    User      = NguyenThanhTam
+    Machine   = NTT-ASUSROG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

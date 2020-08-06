@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"SUPPLIER";"Vishay";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-09032015-131105";"";
+"PREFERRED_RS_NUMBER";"6840885";"";
+"DESIGN";"High Frequency Inductors SMD - 0603 Series - TFPT0603L1000FV";"";
+"TraceParts.InstanceId";"10-09032015-131105172CWG4DOIDK69P0KI70QLW1N";"";
+"TraceParts.PartTitle";"High Frequency Inductors SMD - 0603 Series - TFPT0603L1000FV";"";
+"TraceParts.PartStatusId";"";"";
+"REFERENCE";"TFPT0603L1000FV";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.ClassPath";"/F_RS_COMPONENTS/PSSS_432964/PSS_433012/PSF_433015/";"";

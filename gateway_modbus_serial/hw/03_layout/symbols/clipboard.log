@@ -1,0 +1,17 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Clipboard Paste Session                                          )
+(                                                                     )
+(    Drawing          : shiled_cw7_1.dra                              )
+(    Software Version : 16.6S016                                      )
+(    Date/Time        : Fri Jan 19 17:10:50 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Trying to paste the sub-design having units "mils" and accuracy 2 on to the desi
+gn having units "mils" and accuracy 1. Possibility of losing data accuracy.
+Text pasted without CLIP_DRAWING property.
+
+
+Clipboard Paste Session Completed at Jan 19 17:10:55 2018

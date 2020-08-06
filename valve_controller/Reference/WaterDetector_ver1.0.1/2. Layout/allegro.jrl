@@ -1,0 +1,44 @@
+\t (00:00:06) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:06)     Journal start - Fri Mar 22 09:48:44 2019
+\t (00:00:06)         Host=GORZERIC User=USER Pid=2420 CPUs=8
+\t (00:00:06) CmdLine= E:\1_Software\1_Cadence\Orcad 16.6\tools\pcb\bin\allegro.exe E:\New folder\1_Working\12. Water Detector\WaterDetector_ver1.0.1\2. Layout\WaterDetector_ver1.0.1.brd
+\t (00:00:06) 
+   (00:00:07) function PinVia_Overlap_FinishEnterFun redefined
+   (00:00:07) function Find_Point_On_Line_From_Distant redefined
+   (00:00:07) function Find_Point_Quadrature_Line redefined
+   (00:00:07) function Line_Line_Intersect redefined
+   (00:00:07) function _getPinsNet redefined
+   (00:00:07) function _getBranchs redefined
+   (00:00:07) function _getPaths redefined
+   (00:00:07) function _get2PointsPath redefined
+   (00:00:07) function _checkElementList redefined
+   (00:00:07) function _getSurroundPoints redefined
+   (00:00:07) function _getListPointsLPaths redefined
+   (00:00:07) function _checkPathPoint redefined
+   (00:00:07) function _deleteElementList redefined
+   (00:00:07) function _checkElementList redefined
+   (00:00:07) function _deleteElementList redefined
+   (00:00:07) function Find_Point_On_Line_From_Distant redefined
+   (00:00:07) function Find_Point_Quadrature_Line redefined
+   (00:00:07) function Is_Point_On_List redefined
+   (00:00:07) function Line_Line_Intersect redefined
+   (00:00:07) function Line_Line_Distant redefined
+\t (00:00:09) Opening existing design...
+\d (00:00:09) Design opened: E:/New folder/1_Working/12. Water Detector/WaterDetector_ver1.0.1/2. Layout/WaterDetector_ver1.0.1.brd
+\i (00:00:10) trapsize 80
+\i (00:00:10) trapsize 78
+\i (00:00:10) trapsize 80
+\i (00:00:10) trapsize 81
+\i (00:00:10) trapsize 84
+\i (00:00:11) generaledit 
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 312.2 1099.7
+\i (00:00:11) trapsize 168
+\i (00:00:14) 3d_viewer 
+\i (00:00:15) setwindow pcb3D
+\i (00:00:15) trapsize 168
+\i (00:00:15) setwindow pcb
+\i (00:00:15) generaledit 
+\i (00:00:27) exit 
+\t (00:00:28)     Journal end - Fri Mar 22 09:49:05 2019

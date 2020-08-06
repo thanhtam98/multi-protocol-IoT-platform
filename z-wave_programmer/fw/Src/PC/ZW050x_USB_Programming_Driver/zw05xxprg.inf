@@ -1,0 +1,228 @@
+;
+; Copyright (c) 2005-2013 Sigma Designs
+;
+; Zwave Programming interface setup information file
+;
+; This file supports:
+;     Windows XP         Windows XP x64 Edition
+;     Windows Vista      Windows Vista x64
+;     Windows 7          Windows 7 x64
+;     Windows 8          Windows 8 x64
+;
+
+;******************************************************************************
+; Version Section
+;------------------------------------------------------------------------------
+[Version]
+Signature="$Windows NT$"
+DriverVer=01/25/2013,2.11.0.0
+Provider=%S_Provider%
+CatalogFile=zw05xxprg.cat
+
+; ports
+ClassGUID={4d36e978-e325-11ce-bfc1-08002be10318}
+Class=Ports
+
+
+
+;******************************************************************************
+; Manufacturer
+;------------------------------------------------------------------------------
+[Manufacturer]
+%S_Mfg%=_Models, ntamd64
+
+
+;******************************************************************************
+; Models sections
+;------------------------------------------------------------------------------
+[_Models]
+"Sigma Designs ZWave programming interface"=_Install, USB\VID_0658&PID_0280
+
+
+[_Models.ntamd64]
+"Sigma Designs ZWave programming interface"=_Install, USB\VID_0658&PID_0280
+
+
+
+;******************************************************************************
+; Install Sections x86
+;------------------------------------------------------------------------------
+[_Install.ntx86]
+CopyFiles=_CopyFiles_sys_x86
+AddReg=_Common_AddReg
+
+[_Install.ntx86.HW]
+AddReg=_AddReg_Param
+
+[_Install.ntx86.Services]
+AddService = zw05xxprg, 0x00000002, _AddService_x86, _EventLog_x86
+
+[_AddService_x86]
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %12%\zw05xxprg.sys
+
+[_EventLog_x86]
+AddReg=_EventLogAddReg_x86
+
+[_EventLogAddReg_x86]
+HKR,,EventMessageFile,%REG_EXPAND_SZ%,"%%SystemRoot%%\System32\IoLogMsg.dll;%%SystemRoot%%\System32\drivers\zw05xxprg.sys"
+HKR,,TypesSupported,  %REG_DWORD%, 7
+
+
+;******************************************************************************
+; Install Sections x64
+;------------------------------------------------------------------------------
+[_Install.ntamd64]
+CopyFiles=_CopyFiles_sys_x64
+AddReg=_Common_AddReg
+
+[_Install.ntamd64.HW]
+AddReg=_AddReg_Param
+
+[_Install.ntamd64.Services]
+AddService = zw05xxprg_x64, 0x00000002, _AddService_x64, _EventLog_x64
+
+[_AddService_x64]
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %12%\zw05xxprg_x64.sys
+
+[_EventLog_x64]
+AddReg=_EventLogAddReg_x64
+
+[_EventLogAddReg_x64]
+HKR,,EventMessageFile,%REG_EXPAND_SZ%,"%%SystemRoot%%\System32\IoLogMsg.dll;%%SystemRoot%%\System32\drivers\zw05xxprg_x64.sys"
+HKR,,TypesSupported,  %REG_DWORD%, 7
+
+
+;******************************************************************************
+; Parameter sections
+;------------------------------------------------------------------------------
+[_AddReg_Param]
+HKR,,DriverUserInterfaceGuid,%REG_SZ%,"{E3286800-E4C8-4933-B974-0790704F35ED}"
+
+; *********************************************************************
+; *** the read buffer size grater than the FIFO size requires short ***
+; *** packets from the device, see documentation for details!       ***
+; *********************************************************************
+HKR,,ReadBufferSize,  %REG_DWORD%, 4096
+HKR,,WriteBufferSize, %REG_DWORD%, 4096
+HKR,,UseLogicBuffer,  %REG_DWORD%, 0
+HKR,,ReadBufferCount, %REG_DWORD%, 3
+HKR,,WriteBufferCount,%REG_DWORD%, 3
+
+HKR,,SendLineCoding,  %REG_DWORD%, 0
+HKR,,SendLineState,   %REG_DWORD%, 0
+HKR,,SendBreak,       %REG_DWORD%, 0
+; 0 - CDCACM, 1 - Bulk Only, 2 - Bulk special, 3 - automatic
+HKR,,OperationMode,%REG_DWORD%, 1
+; default serial line states reported in bulk only mode or 
+; if the device never updates the status values
+; use a or'ed value of: CTS=0x10, DSR=0x20, RI=0x40, DCD=0x80
+HKR,,DefaultLineState,%REG_DWORD%, 0x10
+
+; If your device is a Windows CE system with bulk only communication 
+; the following paramters are recommended instead of these above.
+; Delete correponding lines above in this case.
+;HKR,,SendLineCoding,  %REG_DWORD%, 0
+;HKR,,SendLineState,   %REG_DWORD%, 0
+;HKR,,SendBreak,       %REG_DWORD%, 0
+;HKR,,OperationMode,%REG_DWORD%,    1
+;HKR,,DefaultLineState,%REG_DWORD%, 0x30
+
+
+; set this to 0 to suppress the Clear Feature Endpoint Halt during Open and Wakeup
+; this does not work on Windows 2000!
+HKR,,ClearFeatureOnStart,%REG_DWORD%, 1
+HKR,,VendorPipeReset,%REG_DWORD%, 0
+HKR,,StaticDeviceObject,%REG_DWORD%,0
+HKR,,ClearRtsDtrOnClose,%REG_DWORD%,0
+
+; 0 - user timeout with STATUS_TIMEOUT, no bytes transferred
+; 1 - emulate send with transfer time, STATUS_SUCCESS, all bytes transferred
+HKR,,DisConWriteMode,%REG_DWORD%,0
+HKR,,IgnorePurgeTxClear,%REG_DWORD%,0
+
+; the default prefix for the device object
+HKR,,DeviceObjectName,%REG_SZ%,"thcdcacm"
+
+; set this to 1 to avoid any short packets in TX
+HKR,,DoNotSendShortPackets,%REG_DWORD%,0
+
+; set this to 1 to disable the COM port name 
+; use the DriverUserInterfaceGuid to open the driver
+; see documentation for details
+HKR,,DisableComLink,%REG_DWORD%,0
+
+
+[_Common_AddReg]
+; is a serial port
+HKR,,PortSubClass,1,01
+; property page, system default
+HKR,,EnumPropPages32,,"MsPorts.dll,SerialPortPropPageProvider"
+
+
+;******************************************************************************
+; Copy file sections
+;------------------------------------------------------------------------------
+; Note: No string variable possible in these sections !
+; We use COPYFLG_NOVERSIONCHECK to suppress pop-up dialogs if newer files are overwritten.
+[_CopyFiles_sys_x86]
+zw05xxprg.sys,,,0x00000004
+
+[_CopyFiles_sys_x64]
+zw05xxprg_x64.sys,,,0x00000004
+
+
+;******************************************************************************
+; Destination Directories
+;------------------------------------------------------------------------------
+[DestinationDirs]
+DefaultDestDir  = 12  ; %windir%\system32\drivers 
+_CopyFiles_sys_x86 = 12
+_CopyFiles_sys_x64 = 12
+
+;******************************************************************************
+; Disk Layout
+;------------------------------------------------------------------------------
+[SourceDisksNames.x86]
+1=%S_DiskName%,,0
+[SourceDisksNames.amd64]
+1=%S_DiskName%,,0
+
+[SourceDisksFiles.x86]
+zw05xxprg.sys=1
+[SourceDisksFiles.amd64]
+zw05xxprg_x64.sys=1
+
+
+
+;******************************************************************************
+; Text Strings
+;------------------------------------------------------------------------------
+[Strings]
+;
+; Non-Localizable Strings, DO NOT MODIFY!
+;
+REG_SZ         = 0x00000000
+REG_MULTI_SZ   = 0x00010000
+REG_EXPAND_SZ  = 0x00020000
+REG_BINARY     = 0x00000001
+REG_DWORD      = 0x00010001
+
+
+;
+; Localizable Strings, modify as required
+;
+; provider
+S_Provider="Sigma Designs"
+S_Mfg="Sigma Designs"
+
+; disk name
+S_DiskName="Zwave Programming interface driver disk"
+
+
+;;;;;;;;;;;;;;;;;;;;;; EOF ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

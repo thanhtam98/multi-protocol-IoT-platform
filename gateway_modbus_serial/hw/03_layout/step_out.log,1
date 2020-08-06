@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    STEP Export                                                      )
+(                                                                     )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Tue Mar 26 09:33:36 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Warning: Cannot find the mapped STEP file "ESE11MV13.step" for the symbol "TAMPERSW-ESE11MV1". The package definition was exported.
+
+
+STEP file: controller
+Design file: E:/04_Project/12_anhBao/02_RFID_NFC/16_Controller/03_layout/controller.brd
+Export units: Inch
+STEP protocol: AP-214
+Source identification: allegro_16.6S034
+Export selected and highlighted parts?: NO
+Export secondary parts?: NO
+Export parts with mapped STEP Models?: YES
+Export parts without mapped STEP Models?: YES
+Export assemblies and enclosures parts?: NO
+Export mechanical drills?: YES
+Export electrical through pin drills?: NO
+Export electrical through via drills?: NO
+Export bare board only?: NO
+Export external copper?: YES
+step_out complete.

@@ -1,0 +1,48 @@
+\t (00:00:05) allegro 17.2 S052 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Fri Jul 10 14:59:07 2020
+\t (00:00:05)         Host=NTT-ASUSROG User=NguyenThanhTam Pid=18316 CPUs=4
+\t (00:00:05) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+   (00:00:06) Searching for nsWare programs v2.78
+   (00:00:06) 	NsWare directory found: E:/CAD/pcbenv/nsWare/
+   (00:00:06) 	NsWare programs must reside in this directory!
+   (00:00:06) function AFn_OpenDesign redefined
+   (00:00:06) function PinVia_Overlap_FinishEnterFun redefined
+   (00:00:06) function Find_Point_On_Line_From_Distant redefined
+   (00:00:06) function Find_Point_Quadrature_Line redefined
+   (00:00:06) function Line_Line_Intersect redefined
+   (00:00:06) function _getPinsNet redefined
+   (00:00:06) function _getBranchs redefined
+   (00:00:06) function _getPaths redefined
+   (00:00:06) function _get2PointsPath redefined
+   (00:00:06) function _checkElementList redefined
+   (00:00:06) function _getSurroundPoints redefined
+   (00:00:06) function _getListPointsLPaths redefined
+   (00:00:06) function _checkPathPoint redefined
+   (00:00:06) function _deleteElementList redefined
+   (00:00:06) function _checkElementList redefined
+   (00:00:06) function _deleteElementList redefined
+   (00:00:06) function Find_Point_On_Line_From_Distant redefined
+   (00:00:06) function Find_Point_Quadrature_Line redefined
+   (00:00:06) function Is_Point_On_List redefined
+   (00:00:06) function Line_Line_Intersect redefined
+   (00:00:06) function Line_Line_Distant redefined
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged controller
+\d (00:00:07) Design opened: E:/LVTN/AccessControllerBoard/16_Controller/03_layout/controller.brd
+\t (00:00:08) Grids are drawn 1600.0, 1600.0 apart for enhanced viewing.
+\i (00:00:08) trapsize 87
+\i (00:00:08) trapsize 90
+\i (00:00:08) trapsize 78
+\i (00:00:08) trapsize 87
+\i (00:00:09) generaledit 
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 3851.4 2554.4
+\i (00:00:10) trapsize 173
+\i (00:00:17) opencd E:/Temp/RAK811_STM32Node/allegro/STM32F103_RAK811_THESISNODE.brd 
+\t (00:00:17) Opening existing design...
+\t (00:00:18) Grids are drawn 320.00, 320.00 apart for enhanced viewing.
+\i (00:00:18) trapsize 2207
+\t (00:00:18)     Journal end - Fri Jul 10 14:59:20 2020

@@ -1,0 +1,130 @@
+(ExpressProject "RAK833_RpiGateway"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "c:\git\thesislorawannode\hw\rak4600_sm32node\allegro\library1.olb"
+        (Type "Schematic Library")
+        (DisplayName
+           "c:\git\thesislorawannode\hw\rak4600_sm32node\allegro\library1.olb")))
+    (NoModify)
+    (File ".\rak833_rpigateway.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\rak833_rpigateway.dsn"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File" "allegro\RAK833_RPIGATEWAY.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (FLDSTUFF_Scope "0")
+    (FLDSTUFF_Action "0")
+    (FLDSTUFF_Report_File
+       "C:\GIT\ThesisLorawanNode\HW\RAK833_RPiGateway\rak833_rpigateway.RPT")
+    (FLDSTUFF_Update_File
+       "C:\GIT\ThesisLorawanNode\HW\RAK833_RPiGateway\rak833_rpigateway.UPD")
+    (FLDSTUFF__Uppercase_Result_Property "FALSE")
+    (FLDSTUFF_Uppercase_Update_Property "FALSE")
+    (FLDSTUFF_Uppercase_Unconditionally "FALSE")
+    (FLDSTUFF_Visibility "0")
+    (FLDSTUFF_inst_or_occurrence "0")
+    (FLDSTUFF_Create_Report_File "FALSE")
+    ("Allegro Netlist Input Board File"
+       "C:\GIT\ThesisLorawanNode\HW\RAK833_RPiGateway\allegro\RAK833_RPIGATEWAY.brd"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (MPSSessionName "NguyenThanhTam")
+  (PartMRUSelector
+    (RAK_PCIE
+      (FullPartName "RAK_PCIE.Normal")
+      (LibraryName
+         "C:\GIT\THESISLORAWANNODE\HW\RAK4600_SM32NODE\ALLEGRO\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (PCM3000/SO
+      (FullPartName "PCM3000/SO.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\MISC2.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 20X2"
+      (FullPartName "HEADER 20X2.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\rak833_rpigateway.dsn")
+      (Path "Design Resources" ".\rak833_rpigateway.dsn" "SCHEMATIC1")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 282"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1140 104 425")
+        (Scroll "95 64")
+        (Zoom "158")
+        (Occurrence "/"))
+      (Path "D:\ELECTRICBK\GATEWAY_LRWAN_Z-WAVE\HW\SCHE\RAK833_RPIGATEWAY.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "1.Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1166 130 451")
+        (Scroll "-111 0")
+        (Zoom "79")
+        (Occurrence "/"))
+      (Path "D:\ELECTRICBK\GATEWAY_LRWAN_Z-WAVE\HW\SCHE\RAK833_RPIGATEWAY.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "3.Zwave"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1088 52 373")
+        (Scroll "0 0")
+        (Zoom "158")
+        (Occurrence "/"))
+      (Path "D:\ELECTRICBK\GATEWAY_LRWAN_Z-WAVE\HW\SCHE\RAK833_RPIGATEWAY.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "2.Concentrator")))
+  (ISPCBBASICLICENSE "false"))

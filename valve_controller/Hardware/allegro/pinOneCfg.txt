@@ -1,0 +1,15 @@
+# Allegro uses the folowing pin numbers to determine the package pin one.
+
+1
+A1
+1A
+A
+POS
+P
+CATHODE
+SOURCE
+S
+BASE
+COM
+COMMON
+a

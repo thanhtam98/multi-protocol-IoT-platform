@@ -1,0 +1,63 @@
+\t (00:00:00) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:00)     Journal start - Fri Sep 27 13:39:12 2019
+\t (00:00:00)         Host=NTT-ASUSROG User=NguyenThanhTam Pid=13732 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe E:\TTTN\Z-ware_PirAnthena\Zwave_BoosterPack\Z_wave_ExtensionBoard\ZWAVE_BOOSTERPACK.brd
+\t (00:00:00) 
+   (00:00:01) Searching for nsWare programs v2.78
+   (00:00:01) 	NsWare directory found: E:/CAD/pcbenv/nsWare/
+   (00:00:01) 	NsWare programs must reside in this directory!
+   (00:00:01) Loading axlcore.cxt 
+   (00:00:01) function PinVia_Overlap_FinishEnterFun redefined
+   (00:00:01) function Find_Point_On_Line_From_Distant redefined
+   (00:00:01) function Find_Point_Quadrature_Line redefined
+   (00:00:01) function Line_Line_Intersect redefined
+   (00:00:01) function _getPinsNet redefined
+   (00:00:01) function _getBranchs redefined
+   (00:00:01) function _getPaths redefined
+   (00:00:01) function _get2PointsPath redefined
+   (00:00:01) function _checkElementList redefined
+   (00:00:01) function _getSurroundPoints redefined
+   (00:00:01) function _getListPointsLPaths redefined
+   (00:00:01) function _checkPathPoint redefined
+   (00:00:01) function _deleteElementList redefined
+   (00:00:01) function _checkElementList redefined
+   (00:00:01) function _deleteElementList redefined
+   (00:00:01) function Find_Point_On_Line_From_Distant redefined
+   (00:00:01) function Find_Point_Quadrature_Line redefined
+   (00:00:01) function Is_Point_On_List redefined
+   (00:00:01) function Line_Line_Intersect redefined
+   (00:00:01) function Line_Line_Distant redefined
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: E:/TTTN/Z-ware_PirAnthena/Zwave_BoosterPack/Z_wave_ExtensionBoard/ZWAVE_BOOSTERPACK.brd
+\i (00:00:03) trapsize 7060
+\i (00:00:03) trapsize 6895
+\i (00:00:03) trapsize 7088
+\i (00:00:03) trapsize 7168
+\i (00:00:03) trapsize 9050
+\i (00:00:03) trapsize 9050
+\i (00:00:05) generaledit 
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 404.607 -309.874
+\t (00:00:06) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:00:06) trapsize 18100
+\i (00:00:14) vis 
+\i (00:00:14) generaledit 
+\i (00:00:16) setwindow form.working_visible_form
+\i (00:00:16) FORM working_visible_form visible_all YES 
+\i (00:00:29) FORM working_visible_form visible_all NO 
+\i (00:00:29) FORM working_visible_form visible_all YES 
+\i (00:05:25) setwindow pcb
+\i (00:05:25) zoom out 1 
+\i (00:05:25) setwindow pcb
+\i (00:05:25) zoom out 223.602 -418.476
+\t (00:05:25) Grids are drawn 40.000, 40.000 apart for enhanced viewability.
+\i (00:05:25) trapsize 36201
+\i (02:19:52) xhilite 
+\i (02:19:53) xname_flush 
+\i (02:19:53) done 
+\i (02:19:53) generaledit 
+\i (02:19:54) exit 
+\e (02:19:54) Do you want to save the changes you made to ZWAVE_BOOSTERPACK.brd?
+\i (02:19:55) fillin no 
+\t (02:19:56)     Journal end - Fri Sep 27 15:59:08 2019

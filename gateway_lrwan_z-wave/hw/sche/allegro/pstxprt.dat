@@ -1,0 +1,490 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jun-17-2020 at 16:31:26 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='RAK833_RPIGATEWAY';
+ POST_TIME='Feb 18 2019 18:33:40';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_C0603_DISCRETE_10NF':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7996628@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7996628@discrete.\cap np.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page1_ins7996628@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_C0603_10U/35V':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS8000728@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins8000728@discrete.\cap np.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins8000728@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_C0603_10U/35V':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS8000650@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins8000650@discrete.\cap np.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins8000650@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_C0603_10U/35V':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS8000598@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins8000598@discrete.\cap np.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins8000598@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_C0603_10U/35V':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS8000624@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins8000624@discrete.\cap np.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins8000624@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_C0603_DISCRETE_0.1UF_':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7997760@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7997760@discrete.\cap np.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page3_ins7997760@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP_C0603_10UF_':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7997784@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7997784@discrete.\cap.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page3_ins7997784@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7998010@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7998010@discrete.\cap np.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page3_ins7998010@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'C-10PF/50V-SMD0805_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7998040@CAPACITOR.C-10PF/50V-SMD0805.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7998040@capacitor.\c-10pf/50v-smd0805.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page3_ins7998040@capacitor.\c-10pf/50v-smd0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'C-6PF/50V-SMD0805_C0603_6PF':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7998056@CAPACITOR.C-6PF/50V-SMD0805.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7998056@capacitor.\c-6pf/50v-smd0805.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page3_ins7998056@capacitor.\c-6pf/50v-smd0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7998372@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7998372@discrete.\cap np.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page3_ins7998372@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_CAP_AL_D_100UF/35V':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7996696@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7996696@discrete.\cap.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page1_ins7996696@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP 0603_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7996712@AUTOTALAB.CAP 0603.NORMAL(SCH_1)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7996712@autotalab.\cap 0603.normal\(sch_1)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page1_ins7996712@autotalab.\cap 0603.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_CAP_1210_10U/35V':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7996728@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7996728@discrete.\cap np.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page1_ins7996728@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_CAP_1210_22U/6.3V':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7996940@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7996940@discrete.\cap np.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page1_ins7996940@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_CAP_AL_D_220U/16V':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7996956@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7996956@discrete.\cap.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page1_ins7996956@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP 0603_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7996972@AUTOTALAB.CAP 0603.NORMAL(SCH_1)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7996972@autotalab.\cap 0603.normal\(sch_1)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page1_ins7996972@autotalab.\cap 0603.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_C0603_10U/35V':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS8000696@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins8000696@discrete.\cap np.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins8000696@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_C0603_10U/35V':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS8000712@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins8000712@discrete.\cap np.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins8000712@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'SS34_2_SOD123_1N5819':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7996824@STM32F4_CONTROLLER.SS34_2.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7996824@stm32f4_controller.\ss34_2.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page1_ins7996824@stm32f4_controller.\ss34_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LED0805_LED':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7998250@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7998250@discrete.\led.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page3_ins7998250@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ E1 'ANTENNA_0_HEADER_1_3MM_ANTENNA':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7997928@VALVES.ANTENNA_0.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7997928@valves.\antenna_0.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page3_ins7997928@valves.\antenna_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 20X2_HEADER40X2PITCH100M':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS102@CONNECTOR.HEADER 20X2.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins102@connector.\header 20x2.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins102@connector.\header 20x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'HEADER 3_HEADER3PITCH100MIL_Z_D':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS8088531@CONNECTOR.HEADER 3.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins8088531@connector.\header 3.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins8088531@connector.\header 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'USB MIN_6_CON5_MICROUSB_SKT_SM_':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7999761@RADXA_ROCK_PRO.USB MIN_6.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7999761@radxa_rock_pro.\usb min_6.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins7999761@radxa_rock_pro.\usb min_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 6_HEADER-6_ZW_JTAG':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7998198@CONNECTOR.HEADER 6.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7998198@connector.\header 6.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page3_ins7998198@connector.\header 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_IND_6X6MM_8.8UH/1.7A':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7996760@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7996760@discrete.\inductor.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page1_ins7996760@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'L-8.2NH-SMD0805_C0603_8.2NH':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7997942@INDUCTOR.L-8.2NH-SMD0805.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7997942@inductor.\l-8.2nh-smd0805.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page3_ins7997942@inductor.\l-8.2nh-smd0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH1 'MOUNTING HOLE_MH_3MM_1_HOLE 4MM':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS8003796@HUY_LIB.MOUNTING HOLE.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins8003796@huy_lib.\mounting hole.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins8003796@huy_lib.\mounting hole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH2 'MOUNTING HOLE_MH_3MM_1_HOLE 4MM':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS8003818@HUY_LIB.MOUNTING HOLE.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins8003818@huy_lib.\mounting hole.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins8003818@huy_lib.\mounting hole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH3 'MOUNTING HOLE_MH_3MM_1_HOLE 4MM':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS8003840@HUY_LIB.MOUNTING HOLE.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins8003840@huy_lib.\mounting hole.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins8003840@huy_lib.\mounting hole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH4 'MOUNTING HOLE_MH_3MM_1_HOLE 4MM':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS8003862@HUY_LIB.MOUNTING HOLE.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins8003862@huy_lib.\mounting hole.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins8003862@huy_lib.\mounting hole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RES-SM0402_0_R0603_DISCRETE_10K':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7996744@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7996744@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page1_ins7996744@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RES-SM0402_0_R0603_DISCRETE_22':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7997896@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7997896@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page3_ins7997896@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RES-SM0402_0_R0603_DISCRETE_360':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7998150@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7998150@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page3_ins7998150@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RES-SM0402_0_R0603_DISCRETE_10K':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7998226@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7998226@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page3_ins7998226@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RES-SM0402_0_R0603_DISCRETE_30K':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7996864@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7996864@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page1_ins7996864@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RES-SM0402_0_R0603_DISCRETE_10K':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7996924@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7996924@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page1_ins7996924@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_R0603_0R/NC':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS8000131@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins8000131@library1.\resistor.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins8000131@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RES-SM0402_0_R0603_DISCRETE_1R':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7998798@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7998798@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins7998798@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_R0603_0R/NC':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7999797@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7999797@library1.\resistor.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins7999797@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7999817@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7999817@library1.\resistor.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins7999817@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7999843@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7999843@library1.\resistor.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins7999843@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_R0603_0R/NC':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7999875@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7999875@library1.\resistor.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins7999875@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'PMIC_SOT23-6_SOT23-6_AP3211':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7996604@VLIB.PMIC_SOT23-6.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7996604@vlib.\pmic_sot23-6.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page1_ins7996604@vlib.\pmic_sot23-6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'RAK_PCIE_CONN_PCIE_52POS_RAK_PC':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS440@LIBRARY1.RAK_PCIE.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins440@library1.\rak_pcie.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page2_ins440@library1.\rak_pcie.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'ZM5202_ZM5202_A_ZM5202_ZM5202AU':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7997812@LIBRARY1.ZM5202.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7997812@library1.\zm5202.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page3_ins7997812@library1.\zm5202.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'CAT25C02_0_TSSOP-8_CAT25256':;
+
+SECTION_NUMBER 1
+ '@RAK833_RPIGATEWAY.SCHEMATIC1(SCH_1):INS7998300@STACKUP_BOARD.CAT25C02_0.NORMAL(CHIPS)':
+ C_PATH='@rak833_rpigateway.schematic1(sch_1):ins7998300@stackup_board.\cat25c02_0.normal\(chips)',
+ P_PATH='@rak833_rpigateway.schematic1(sch_1):page3_ins7998300@stackup_board.\cat25c02_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

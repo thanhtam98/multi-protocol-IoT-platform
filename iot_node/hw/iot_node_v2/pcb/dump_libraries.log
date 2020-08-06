@@ -1,0 +1,215 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Thu Aug 06 23:45:38 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: D:/ElectricBK/iot_node/hw/iot_node_v2/pcb/iot_node.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  TH_SQU_80_CIR_45 being dumped.
+
+  SMD_REC_3X3-75_MM being dumped.
+
+  SQ80_DRILL50 being dumped.
+
+  SMD_REC_1P8X0P7MM being dumped.
+
+  HOLE9X15REC-1 being dumped.
+
+  S_R170_53_M170_53_P170_53 being dumped.
+
+  PAD_102RECT26 being dumped.
+
+  CIR80_DRILL50 being dumped.
+
+  RD32D20P being dumped.
+
+  DRILL0P8_REC4P0X1P2 being dumped.
+
+  SMD50_25 being dumped.
+
+  SMD35_32 being dumped.
+
+  SMD45_50 being dumped.
+
+  T_N76_127_M127 being dumped.
+
+  T_Q76_127_M127 being dumped.
+
+  HOLE9X15 being dumped.
+
+  R0_8X1_7 being dumped.
+
+  PAD_SMD_60_150 being dumped.
+
+  SMD_REC_235X80 being dumped.
+
+  HOLE120_1 being dumped.
+
+  VIA044D024 being dumped.
+
+  SMT75RC25 being dumped.
+
+  T_N193_289_M289 being dumped.
+
+  HOLE100X55 being dumped.
+
+  HOLE9X15-1 being dumped.
+
+  SMD_REC_0-9X2-5_MM_R being dumped.
+
+  PAD80SQ35D being dumped.
+
+  SMD68REC12 being dumped.
+
+  REC1P2X0P3 being dumped.
+
+  REC4P0X1P2 being dumped.
+
+  PAD5 being dumped.
+
+  PAD6 being dumped.
+
+  PAD7 being dumped.
+
+  REC1P6X5P7 being dumped.
+
+  120X040SLOT being dumped.
+
+  SMD_REC_2X1P2MM being dumped.
+
+  140X040SLOT being dumped.
+
+  PAD80CIR35D being dumped.
+
+  PAD22 being dumped.
+
+  PAD40RECT22 being dumped.
+
+  HOLE100X55R being dumped.
+
+  PAD38 being dumped.
+
+  TH_CIR_162_OVAL_130X50 being dumped.
+
+  RX2_15Y1_70R0_10T being dumped.
+
+  HOLE9X15REC being dumped.
+
+  DRILL80_REC120X160 being dumped.
+
+  DRILL80_OBL120X160 being dumped.
+
+  TH_CIR_80_CIR_45 being dumped.
+
+  H_C325 being dumped.
+
+  R70_85 being dumped.
+
+  SMD2_8X1_2R being dumped.
+
+  ANTENA_PAD1 being dumped.
+
+  ANTENA_PAD2 being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  tr88x58x20 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  soic-8 being dumped.
+
+  soic16 being dumped.
+
+  led0805 being dumped.
+
+  header3pitch100mil being dumped.
+
+  rak4600 being dumped.
+
+  db9_fe being dumped.
+
+  header8pitch100mil being dumped.
+
+  header2-pitch3p96-b2p_vh being dumped.
+
+  sot-223 being dumped.
+
+  sot23-6 being dumped.
+
+  cap_1210 being dumped.
+
+  conn_jack_dc being dumped.
+
+  lqfp_48 being dumped.
+
+  b3u-1000p being dumped.
+
+  optosmd being dumped.
+
+  header_5 being dumped.
+
+  mh_3mm_1 being dumped.
+
+  sma_edge being dumped.
+
+  cap_al_d being dumped.
+
+  cry3225_m being dumped.
+
+  domino2_5 being dumped.
+
+  domino3_5 being dumped.
+
+  bat_cr1220 being dumped.
+
+  tact_switch_12x12x7mm_smd being dumped.
+
+  ind_6x6mm being dumped.
+
+  c0603 being dumped.
+
+  c0805 being dumped.
+
+  r0603 being dumped.
+
+  sod80 being dumped.
+
+  cryrtc32768 being dumped.
+
+  do214ac_sma being dumped.
+
+  so_14 being dumped.
+
+
+  *** Creating mechanical symbols (.dra and .bsm) ***
+
+  logobk_10x10mm being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               53
+Number of package symbols dumped:         32
+Number of mechanical symbols dumped:       1
+Number of flash symbols dumped:            1
+
+Total number of symbols dumped:           34
+*****************************************************
+

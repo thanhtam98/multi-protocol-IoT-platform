@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "device_def.h": "c",
+        "conhandle.h": "c",
+        "zwaveflash.h": "c"
+    }
+}

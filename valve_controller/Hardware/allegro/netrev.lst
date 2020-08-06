@@ -1,0 +1,94 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : VALVECONTROLLER.brd                           )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Thu Oct 31 14:56:12 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'E:\TTTN\VALVECONTROLLER\HARDWARE\allegro'
+Design Directory:            '.'
+Old design name:             'E:/TTTN/ValveController/Hardware/allegro/VALVECONTROLLER.brd'
+New design name:             'VALVECONTROLLER.brd'
+
+CmdLine: netrev.exe -y 1 -i E:\TTTN\VALVECONTROLLER\HARDWARE\allegro E:\TTTN\ValveController\Hardware\allegro\VALVECONTROLLER.brd E:\TTTN\VALVECONTROLLER\HARDWARE\allegro\VALVECONTROLLER.brd
+
+------ Preparing to read pst files ------
+
+Starting to read E:/TTTN/VALVECONTROLLER/HARDWARE/allegro/pstchip.dat 
+   Finished reading E:/TTTN/VALVECONTROLLER/HARDWARE/allegro/pstchip.dat (00:00:00.07)
+Starting to read E:/TTTN/VALVECONTROLLER/HARDWARE/allegro/pstxprt.dat 
+   Finished reading E:/TTTN/VALVECONTROLLER/HARDWARE/allegro/pstxprt.dat (00:00:00.00)
+Starting to read E:/TTTN/VALVECONTROLLER/HARDWARE/allegro/pstxnet.dat 
+   Finished reading E:/TTTN/VALVECONTROLLER/HARDWARE/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+           E:/TTTN/Orcad/lib/0_Lib/1_Footprint 
+
+PSMPATH =  E:/TTTN/Orcad/lib/0_Lib/1_Footprint 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           . 
+
+PADPATH =  E:/TTTN/Orcad/lib/0_Lib/1_Footprint 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Oct 31 14:56:12 2019
+   DESIGN NAME : 'VALVECONTROLLER'
+   PACKAGING ON Oct 15 2014 05:53:32
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:01:13
+elapsed time  0:00:01
+

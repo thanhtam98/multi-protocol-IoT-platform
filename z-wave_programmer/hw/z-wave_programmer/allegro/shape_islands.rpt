@@ -1,0 +1,30 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : Z-WAVE PROG.brd                               )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Wed Aug 07 11:10:48 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 11
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (636.502 -356.418)  Net: GND
+	Point on shape: (85.002 -700.000)  Net: GND
+	Point on shape: (-283.498 -364.998)  Net: GND
+	Point on shape: (15.950 -600.284)  Net: GND
+
+    Layer = BOTTOM
+	Point on shape: (2259.409 -964.999)  Net: GND
+	Point on shape: (2037.250 -182.498)  Net: GND
+	Point on shape: (841.628 -908.998)  Net: GND
+	Point on shape: (2229.789 -932.498)  Net: GND
+	Point on shape: (1496.002 -661.711)  Net: GND
+	Point on shape: (837.714 -723.998)  Net: GND
+	Point on shape: (2160.461 -902.170)  Net: GND

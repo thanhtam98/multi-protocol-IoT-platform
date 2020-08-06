@@ -1,0 +1,15 @@
+.\obj\mb.o: ..\..\Utilities\modbus\mb.c
+.\obj\mb.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\mb.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\mb.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\mb.o: ..\..\Utilities\modbus\port\port.h
+.\obj\mb.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\mb.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\obj\mb.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\mb.o: ..\..\Utilities\modbus\include\mb.h
+.\obj\mb.o: ..\..\Utilities\modbus\include\mbport.h
+.\obj\mb.o: ..\..\Utilities\modbus\include\mbproto.h
+.\obj\mb.o: ..\..\Utilities\modbus\include\mbconfig.h
+.\obj\mb.o: ..\..\Utilities\modbus\include\mbframe.h
+.\obj\mb.o: ..\..\Utilities\modbus\include\mbfunc.h
+.\obj\mb.o: ..\..\Utilities\modbus\rtu\mbrtu.h

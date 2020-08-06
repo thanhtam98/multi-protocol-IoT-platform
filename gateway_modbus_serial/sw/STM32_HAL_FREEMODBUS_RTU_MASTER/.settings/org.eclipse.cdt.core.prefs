@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+environment/project/fr.ac6.managedbuild.config.gnu.cross.exe.debug.1161782951/append=true
+environment/project/fr.ac6.managedbuild.config.gnu.cross.exe.debug.1161782951/appendContributed=true
+environment/project/fr.ac6.managedbuild.config.gnu.cross.exe.release.766314597/MODBUS/delimiter=;
+environment/project/fr.ac6.managedbuild.config.gnu.cross.exe.release.766314597/MODBUS/operation=append
+environment/project/fr.ac6.managedbuild.config.gnu.cross.exe.release.766314597/MODBUS/value=MOD${MODBUS}
+environment/project/fr.ac6.managedbuild.config.gnu.cross.exe.release.766314597/append=true
+environment/project/fr.ac6.managedbuild.config.gnu.cross.exe.release.766314597/appendContributed=true

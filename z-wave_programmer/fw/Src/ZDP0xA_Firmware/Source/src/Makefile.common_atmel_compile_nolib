@@ -1,0 +1,205 @@
+##******************************* Makefile.common_atmle_appl_nolib *************************
+##           #######
+##           ##  ##
+##           #  ##    ####   #####    #####  ##  ##   #####
+##             ##    ##  ##  ##  ##  ##      ##  ##  ##
+##            ##  #  ######  ##  ##   ####   ##  ##   ####
+##           ##  ##  ##      ##  ##      ##   #####      ##
+##          #######   ####   ##  ##  #####       ##  #####
+##                                           #####
+##          Z-Wave, the wireless language.
+##
+##              Copyright (c) 2001
+##              Zensys A/S
+##              Denmark
+##
+##              All Rights Reserved
+##
+##    This source file is subject to the terms and conditions of the
+##    Zensys Software License Agreement which restricts the manner
+##    in which it may be used.
+##
+##---------------------------------------------------------------------------
+##
+## Description:
+##    Common makefile for atmel libraries
+##    TARGET should be set before this file is included.
+##
+## Author:  Samer Seoud
+##
+## Last Changed By:  $Author: vvi $
+## Revision:         $Revision: 10051 $
+## Last Changed:     $Date: 2008-03-13 17:58:39 +0200 (Чт, 13 Бер 2008) $
+##
+##***************************************************************************/
+
+##########################
+# avr.gcc Program names  #
+##########################
+
+CC=$(WINAVRPATH)\\bin\\avr-gcc
+ASM=$(WINAVRPATH)\\bin\\avr-gcc
+LN=$(WINAVRPATH)\\bin\\avr-gcc
+CP=$(WINAVRPATH)\\bin\\avr-objcopy
+FL=$(WINAVRPATH)\\bin\\avr-objdump
+SZ=$(WINAVRPATH)\\bin\\avr-size
+
+
+
+# The command to make dependencies from the headerfiles
+# included by a file.
+INCDEP=python $(subst \,\\,$(TOOLSDIR)\IncDep\incdep.py)
+
+
+###############
+# Directories #
+###############
+# Find the current directory used as a base for all other paths.
+BASEDIR=$(shell cd)
+
+TARGETBASEDIR=$(BASEDIR)\..\build
+TARGETDIR=$(TARGETBASEDIR)\$(TARGET)
+RELSDIR=$(TARGETDIR)\Rels
+LISTDIR=$(TARGETDIR)\list
+
+EXTRAINCDIRS =
+
+######################
+# (flags and defines #
+######################
+
+
+# Optimization level, can be [0, 1, 2, 3, s]. 
+# 0 = turn off optimization. s = optimize for size.
+# (Note: 3 is not always the best optimization level. See avr-libc FAQ.)
+#OPT = s
+OPT = 2
+
+# Debugging format.
+# Native formats for AVR-GCC's -g are stabs [default], or dwarf-2.
+# AVR (extended) COFF requires stabs, plus an avr-objcopy run.
+DEBUG = stabs
+
+# List any extra directories to look for include files here.
+#     Each directory must be seperated by a space.
+EXTRAINCDIRS = $(subst \,\\,$(ZWLIBROOT)\include)
+
+
+# Compiler flag to set the C Standard level.
+# c89   - "ANSI" C
+# gnu89 - c89 plus GCC extensions
+# c99   - ISO C99 standard (not yet fully implemented)
+# gnu99 - c99 plus GCC extensions
+CSTANDARD = -std=gnu99
+
+# Place -I options here
+CINCS =
+
+
+# Compiler flags.
+#  -g*:          generate debugging information
+#  -O*:          optimization level
+#  -f...:        tuning, see GCC manual and avr-libc documentation
+#  -Wall...:     warning level
+#  -Wa,...:      tell GCC to pass this to the assembler.
+#    -adhlns...: create assembler listing
+#_CFLAGS = -g$(DEBUG)
+_CFLAGS += $(CINCS)
+_CFLAGS += -O$(OPT)
+_CFLAGS += -funsigned-char -funsigned-bitfields -fpack-struct -fshort-enums
+_CFLAGS += -mcall-prologues 
+#-mshort-calls
+_CFLAGS += -Wall -Wstrict-prototypes
+#_CFLAGS += -Wa,-adhlns=$(subst \,\\,$(LISTDIR)\$(<:.c=.lst))
+_CFLAGS += $(patsubst %,-I%,$(EXTRAINCDIRS))
+_CFLAGS += $(CSTANDARD)
+
+CPU_TYPE = -mmcu=$(CHIP)
+
+
+# Assembler flags.
+#  -Wa,...:   tell GCC to pass this to the assembler.
+#  -ahlms:    create listing
+#  -gstabs:   have the assembler create line number information; note that
+#             for use in COFF files, additional information about filenames
+#             and function names needs to be present in the assembler source
+#             files -- see avr-libc docs [FIXME: not yet described there]
+ASFLAGS = -Wa,-adhlns=$(subst \,\\,$(LISTDIR)\$(<:.s90=.lst)),-gstabs 
+
+
+CFLAGS+= $(CPU_TYPE) -I.  $(_CFLAGS) -Wp,-M,-MP,-MT,$@,-MF,$(subst \,\\,$(RELSDIR)\$(@:.r90=.d))
+AFLAGS+= -mmcu=$(CHIP) -I. -x assembler-with-cpp $(ASFLAGS)
+
+
+###################################
+# Where to look for prerequisites #
+###################################
+
+VPATH=$(ZWLIBROOT)\basis-src:$(ZWLIBROOT)\include:$(ZWLIBROOT)\basis-include:$(RELSDIR):$(WINAVRPATH)\avr\include:$(WINAVRPATH)\avr\include\avr
+
+#########
+# Rules #
+#########
+
+# When the rule supplies a source for the compilation (in the pseudo-variable $<)
+# it will sometimes (when the source is found in VPATH) the last directory separator
+# will be a /. By using the variable defined below instead of $< all directory separators
+# will be correct.
+RULESRC=$(subst /,\,$<)
+
+# The "subst" command found in most of the rules escapes the
+# backslases found in MS-DOS paths, by replacing all backspaces
+# by two backspaces. If this isn't done the backspaces would result
+# in controlcodes and not directory separators.
+
+# In the rules a "$<" refers to the right side of the rule (ie. the sourcefile)
+# and a "$@" refers to the left side (ie. the destination file).
+
+## How to compile C source files (two rules because a few of the files got
+# a capital C extension....)
+%.r90: %.c
+#	@echo Compiling $(RULESRC)
+	     @$(CC) $(CDEFINES) -c $(CFLAGS) $(subst \,\\,$(RULESRC)) -o $(subst \,\\,$(RELSDIR)\$@)
+#	@echo Generate List for $(RULESRC)        
+	     @$(FL) -h -S  $(subst \,\\,$(RELSDIR)\$@) >> $(subst \,\\,$(LISTDIR)\$(@:.r90=.lst))
+
+
+# How to assemble assembler source files
+%.r90 : %.s90
+#	@echo Compiling $(RULESRC)
+	@$(CC) $(ADEFINES) $(AFLAGS) -o $(subst \,\\,$(RELSDIR)\$@) $(subst \,\\,$(RULESRC))
+
+
+
+# How to generate the dependency files from the C and assembler source files.
+%.d : %.c $(RELSDIR) $(LISTDIR)
+	@$(INCDEP) $(subst \,\\,$(RULESRC)) $(subst \,\\,$(RELSDIR)\$(@:.d=.r90)) $(subst \,\\,$(RELSDIR)\$@)
+
+%.d : %.C $(RELSDIR) $(LISTDIR)
+	@$(INCDEP) $(subst \,\\,$(RULESRC)) $(subst \,\\,$(RELSDIR)\$(@:.d=.r90)) $(subst \,\\,$(RELSDIR)\$@)
+
+%.d : %.s90 $(RELSDIR) $(LISTDIR)
+	@$(INCDEP) $(subst \,\\,$(RULESRC)) $(subst \,\\,$(RELSDIR)\$(@:.d=.r90)) $(subst \,\\,$(RELSDIR)\$@)
+
+
+$(TARGETBASEDIR):
+	@if not exist $(TARGETBASEDIR)\NUL mkdir $(TARGETBASEDIR) > NUL
+
+$(RELSDIR): $(TARGETDIR)
+	@if not exist $(RELSDIR)\NUL mkdir $(RELSDIR) >NUL
+
+$(LISTDIR): $(TARGETDIR)
+	@if not exist $(LISTDIR)\NUL mkdir $(LISTDIR) >NUL
+
+$(TARGETDIR): $(TARGETBASEDIR)
+	@if not exist $(TARGETDIR)\NUL mkdir $(TARGETDIR) >NUL
+
+clean:
+ifeq ($(OS), Windows_NT)
+#  @cmd /c "if exist build\NUL rd build /s /q"
+else
+  @deltree /Y $(subst \,\\,build)
+endif
+
+.PHONY: dirs clean depend all default check
+

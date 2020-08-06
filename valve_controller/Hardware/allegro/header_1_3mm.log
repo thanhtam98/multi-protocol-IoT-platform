@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : HEADER_1_3mm.dra                              )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Fri Oct 18 15:53:19 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/TTTN/ValveController/Hardware/allegro
+    Name      = header_1_3mm.psm
+    User      = NguyenThanhTam
+    Machine   = NTT-ASUSROG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

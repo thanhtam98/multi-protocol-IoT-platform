@@ -1,0 +1,142 @@
+\t (00:15:05) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:15:05)     Journal start - Tue Aug 06 17:17:21 2019
+\t (00:15:05)         Host=NTT-ASUSROG User=NguyenThanhTam Pid=13088 CPUs=4
+\t (00:15:05) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe -mpssession NguyenThanhTam E:\TTTN\Z-WARE_PIRANTHENA\allegro\Z-WARE_PIRANTHENA.brd
+\t (00:15:05) 
+\d (00:15:05) Design opened: E:/TTTN/Z-waveProgrammer/Z-WAVE PROG.brd
+\i (00:15:05) generaledit 
+\i (00:15:06) zoom out 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom out 1845.616 -263.220
+\t (00:15:06) Grids are drawn 40.000, 40.000 apart for enhanced viewability.
+\i (00:15:06) trapsize 25144
+\i (00:15:07) roam x -96 
+\i (00:15:07) roam x -96
+\i (00:15:07) roam x -96 
+\i (00:15:07) roam x -96
+\i (00:15:08) roam x -96 
+\i (00:15:08) roam x -96
+\i (00:15:09) vis 
+\i (00:15:09) generaledit 
+\i (00:15:11) 3d_viewer 
+\i (00:15:13) setwindow pcb3D
+\i (00:15:13) trapsize 25144
+\i (00:15:13) setwindow pcb
+\i (00:15:13) generaledit 
+\i (00:15:16) pick grid 3025.503 -298.421
+\t (00:15:16) last pick:  3020.000 -300.000
+\i (00:15:17) 3d_viewer 
+\i (00:15:17) setwindow pcb3D
+\i (00:15:17) trapsize 25144
+\i (00:15:17) setwindow pcb
+\i (00:15:17) generaledit 
+\i (00:15:20) pick grid 3136.137 -137.499
+\t (00:15:20) last pick:  3140.000 -135.000
+\i (00:15:20) prepopup 3126.080 -137.499
+\i (00:15:20) pick grid 3121.051 -157.614
+\t (00:15:20) last pick:  3120.000 -160.000
+\i (00:15:20) pick grid dbl 3121.051 -157.614
+\t (00:15:20) last pick:  3120.000 -160.000
+\i (00:15:22) setwindow form.working_visible_form
+\i (00:15:22) FORM working_visible_form visible_all YES 
+\i (00:15:23) setwindow pcb
+\i (00:15:23) pick grid 3367.463 -197.844
+\t (00:15:23) last pick:  3360.000 -200.000
+\i (00:15:23) pick grid 2220.891 450.874
+\t (00:15:23) last pick:  2220.000 450.000
+\i (00:15:26) 3d_viewer 
+\i (00:15:26) setwindow pcb3D
+\i (00:15:26) trapsize 25144
+\i (00:15:26) setwindow pcb
+\i (00:15:26) generaledit 
+\i (00:15:36) pick grid 2940.013 -142.527
+\t (00:15:36) last pick:  2940.000 -145.000
+\i (00:15:36) zoom in 1 
+\i (00:15:36) setwindow pcb
+\i (00:15:36) zoom in 1833.671 -419.113
+\t (00:15:36) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:15:36) trapsize 12572
+\i (00:15:36) zoom in 1 
+\i (00:15:36) setwindow pcb
+\i (00:15:36) zoom in 1833.671 -419.112
+\t (00:15:36) Grids are drawn 20.000, 10.000 apart for enhanced viewability.
+\i (00:15:36) trapsize 6286
+\i (00:15:36) zoom in 1 
+\i (00:15:36) setwindow pcb
+\i (00:15:36) zoom in 1832.414 -419.112
+\i (00:15:36) trapsize 3143
+\i (00:15:36) zoom out 1 
+\i (00:15:36) setwindow pcb
+\i (00:15:36) zoom out 1894.018 -425.398
+\i (00:15:36) trapsize 6286
+\i (00:15:37) zoom out 1 
+\i (00:15:37) setwindow pcb
+\i (00:15:37) zoom out 1894.018 -425.398
+\t (00:15:37) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:15:37) trapsize 12572
+\i (00:15:37) zoom out 1 
+\i (00:15:37) setwindow pcb
+\i (00:15:37) zoom out 1894.017 -425.398
+\t (00:15:37) Grids are drawn 40.000, 40.000 apart for enhanced viewability.
+\i (00:15:37) trapsize 25144
+\i (00:15:37) pick grid 2950.071 132.803
+\t (00:15:37) last pick:  2960.000 135.000
+\i (00:15:37) pick grid dbl 2950.071 132.803
+\t (00:15:37) last pick:  2960.000 135.000
+\i (00:15:39) pick grid 3382.550 -234.302
+\t (00:15:39) last pick:  3380.000 -235.000
+\i (00:15:42) setwindow form.find
+\i (00:15:42) FORM find symbols YES 
+\i (00:15:42) setwindow pcb
+\i (00:15:42) zoom in 1 
+\i (00:15:42) setwindow pcb
+\i (00:15:42) zoom in 2442.159 -505.858
+\t (00:15:42) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:15:42) trapsize 12572
+\i (00:15:42) zoom in 1 
+\i (00:15:42) setwindow pcb
+\i (00:15:42) zoom in 2439.645 -505.858
+\t (00:15:42) Grids are drawn 20.000, 10.000 apart for enhanced viewability.
+\i (00:15:42) trapsize 6286
+\i (00:15:43) zoom out 1 
+\i (00:15:43) setwindow pcb
+\i (00:15:43) zoom out 2081.341 -436.712
+\t (00:15:43) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:15:43) trapsize 12572
+\i (00:15:44) pick grid 1787.154 -444.255
+\t (00:15:44) last pick:  1780.000 -445.000
+\i (00:15:44) drag_start grid 1782.126 -454.312
+\i (00:15:44) move 
+\t (00:15:45) last pick:  1780.000 -310.000
+\t (00:15:45) Moving Y1 / CRYSTAL_XTAL_ECS-250-20-4VX_CRY / XTAL_ECS-250-20-4VX.
+\t (00:15:45) Pick new location for the element(s).
+\i (00:15:45) drag_stop grid 1686.578 -449.283
+\i (00:15:45) generaledit 
+\i (00:15:46) 3d_viewer 
+\i (00:15:47) setwindow pcb3D
+\i (00:15:47) trapsize 12572
+\i (00:15:47) setwindow pcb
+\i (00:15:47) generaledit 
+\i (00:15:48) setwindow pcb3D
+\i (00:15:48) about 
+\i (00:15:51) setwindow pcb
+\i (00:15:51) pick grid 3059.448 -137.496
+\t (00:15:51) last pick:  3060.000 -135.000
+\i (00:15:52) 3d_viewer 
+\i (00:15:53) setwindow pcb3D
+\i (00:15:53) trapsize 12572
+\i (00:15:53) setwindow pcb
+\i (00:15:53) generaledit 
+\i (00:16:01) pick grid 2566.623 -378.880
+\t (00:16:01) last pick:  2560.000 -380.000
+\i (00:16:02) drag_start grid 1754.467 -414.082
+\i (00:16:02) move 
+\t (00:16:02) last pick:  1680.000 -450.000
+\t (00:16:02) Moving Y1 / CRYSTAL_XTAL_ECS-250-20-4VX_CRY / XTAL_ECS-250-20-4VX.
+\t (00:16:02) Pick new location for the element(s).
+\i (00:16:03) drag_stop grid 1945.562 -288.361
+\i (00:16:03) generaledit 
+\i (00:16:05) exit 
+\e (00:16:05) Do you want to save the changes you made to Z-WAVE PROG.brd?
+\i (00:16:06) fillin no 
+\t (00:16:06)     Journal end - Tue Aug 06 17:18:22 2019

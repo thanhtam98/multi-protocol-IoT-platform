@@ -1,0 +1,12 @@
+.\obj\lv_font_builtin.o: ..\..\Utilities\littlevgl\lvgl\lv_fonts\lv_font_builtin.c
+.\obj\lv_font_builtin.o: ..\..\Utilities\littlevgl\lvgl\lv_fonts\lv_font_builtin.h
+.\obj\lv_font_builtin.o: ..\..\Utilities\littlevgl\lvgl\lv_fonts\../../lv_conf.h
+.\obj\lv_font_builtin.o: ..\..\Utilities\littlevgl\lvgl\lv_fonts\../../lvgl/lv_conf_checker.h
+.\obj\lv_font_builtin.o: ..\..\Utilities\littlevgl\lvgl\lv_fonts\../lv_misc/lv_font.h
+.\obj\lv_font_builtin.o: ..\..\Utilities\littlevgl\lvgl\lv_fonts\../lv_misc/../../lv_conf.h
+.\obj\lv_font_builtin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\lv_font_builtin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\lv_font_builtin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\lv_font_builtin.o: ..\..\Utilities\littlevgl\lvgl\lv_fonts\../lv_misc/lv_symbol_def.h
+.\obj\lv_font_builtin.o: ..\..\Utilities\littlevgl\lvgl\lv_fonts\../lv_misc/../../lv_conf.h
+.\obj\lv_font_builtin.o: ..\..\Utilities\littlevgl\lvgl\lv_fonts\../lv_misc/../lv_fonts/lv_font_builtin.h

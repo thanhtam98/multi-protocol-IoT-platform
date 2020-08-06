@@ -1,0 +1,134 @@
+#***********************  Makefile.common_atmel_nolib  ********************
+#            ####### 
+#            ##  ## 
+#            #  ##    ####   #####    #####  ##  ##   ##### 
+#              ##    ##  ##  ##  ##  ##      ##  ##  ##     
+#             ##  #  ######  ##  ##   ####   ##  ##   ####  
+#            ##  ##  ##      ##  ##      ##   #####      ## 
+#           #######   ####   ##  ##  #####       ##  #####  
+#                                            #####
+#           Z-Wave, the wireless language.
+#                                            
+#               Copyright (c) 2001
+#               Zensys A/S
+#               Denmark
+# 
+#               All Rights Reserved
+# 
+#     This source file is subject to the terms and conditions of the
+#     Zensys Software License Agreement which restricts the manner
+#     in which it may be used.
+#
+#---------------------------------------------------------------------------
+#
+#  Description: Common make file for all ZW0102 Z-Wave controller applications
+#
+#  Author:   Peter Shorty
+# 
+#  Last Changed By:  $Author: sse $
+#  Revision:         $Revision: 7382 $
+#  Last Changed:     $Date: 2006-03-07 14:00:15 +0200 (Вв, 07 Бер 2006) $
+# 
+#****************************************************************************
+
+###############
+# Files       #
+###############
+
+# Z-Wave library file
+LIBFILE:=
+
+
+
+LDFLAGS = -Wl,-Map=$(subst \,\\,$(RELSDIR)\$(TARGET).map),--cref
+
+# 0xFC00*2=0x1F800 for ATmega128 1024 words Boot Size
+MT_BOOTLOADER_ADDRESS = 1F000
+#MT_BOOTLOADER_ADDRESS = 00000
+
+
+################## BOOTLOADER ######################
+# MT_BOOTLOADER_ADDRESS (=Start of Boot Loader section
+# in bytes - not words) is defined above.
+LDFLAGS += -Wl,--section-start=.text=$(MT_BOOTLOADER_ADDRESS)
+
+
+###############
+# Directories #
+###############
+VPATH:=$(VPATH)
+
+RELSDIR=$(TARGETDIR)\Rels
+LISTDIR=$(TARGETDIR)\list
+
+
+####################
+# Compiler options #
+####################
+
+ifeq ($(CDEFINES),)
+CDEFINES:=$(COMDEFINES)
+else
+ifeq "$(CDEFINES)" " "
+CDEFINES:=$(COMDEFINES)
+else
+CDEFINES:=$(COMDEFINES),\
+	  $(CDEFINES)
+endif
+endif
+
+ifeq ($(ADEFINES),)
+ADEFINES:=$(COMDEFINES)
+else
+ifeq "$(ADEFINES)" " "
+ADEFINES:=$(COMDEFINES)
+else
+ADEFINES:=$(COMDEFINES),\
+	  $(ADEFINES)
+endif
+endif
+
+CFLAGS+=
+AFLAGS+=
+
+##############
+# File lists #
+##############
+
+# Header dependency files
+DEPENDFILES=$(RELFILES:.r90=.d)
+
+# Relocatable files with complete path
+RELFILESpath = $(foreach file,$(RELFILES),$(TARGETDIR)\rels\$(file))
+
+# Header dependency files with complete path
+DEPENDFILESpath = $(foreach file,$(DEPENDFILES),$(TARGETDIR)\rels\$(file))
+
+#########
+# Rules #
+#########
+
+# If the goal is "depend" the files listed in the DEPENDFILES variable
+# should be build.
+depend: $(TARGETDIR) $(DEPENDFILES)
+
+# The header dependency files are not prerequisites for the 
+# "depend" and "clean" goals.
+ifneq ($(MAKECMDGOALS),depend)
+  ifneq ($(MAKECMDGOALS),clean)
+    include $(TARGETDIR)/Rels/*.d
+  endif
+endif
+
+# The Flash hexfile is build from the RELFILES plus the ZW_slave library.
+
+%.hex: $(RELFILES)
+	@echo Linking $@
+	      @$(CC) $(CFLAGS) $(subst \,\\,$(RELFILESpath)) -o $(subst \,\\,$(RELSDIR)\$(TARGET).elf) $(LDFLAGS)
+	@echo Generate size report of $@	      
+	      @$(SZ) -t $(subst \,\\,$(RELFILESpath))  >> $(subst \,\\,$(RELSDIR)\$(TARGET).sz)
+	@echo Generate hexfile $@	      
+	      @$(CP) -O ihex -R .eeprom $(subst \,\\,$(RELSDIR)\$(TARGET).elf) $(subst \,\\,$(TARGETDIR)\$(TARGET).hex)
+
+	      
+

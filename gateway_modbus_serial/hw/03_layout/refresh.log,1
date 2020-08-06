@@ -1,0 +1,387 @@
+Tue Mar 26 09:38:51 2019				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Tue Mar 26 09:38:51 2019
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : controller.brd                                )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Tue Mar 26 09:38:51 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Tue Mar 26 09:38:51 2019				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design = 'E:/04_Project/12_anhBao/02_RFID_NFC/16_Controller/03_layout/controller.brd'
+Output design = ''
+Update mechanical symbols = 'NO'
+Update format symbols = 'NO'
+Update package symbols = 'NO'
+Update shape/flash symbols = 'NO'
+Update symbol padstacks = 'YES'
+Reset symbol text and size locations = 'NO'
+Reset Pin Escapes (fanouts) = 'NO'
+Ripup Etch = 'NO'
+Reset custom drill data = 'NO'
+Symbol list file = 'C:/Users/TUANNG~1/AppData/Local/Temp/#Taaaaaq00268.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           ./symbols 
+           E:/01_working_allegro/Library_Footprint/LQFP_48/ 
+           E:/01_working_allegro/Library_Footprint/SSOP28/ 
+           E:/01_working_allegro/Library_Footprint/PVQFN_N32/ 
+           E:/01_working_allegro/Library_Footprint/Header 2/ 
+           E:/01_working_allegro/Library_Footprint/Header 3/ 
+           E:/01_working_allegro/Library_Footprint/Header 4/ 
+           E:/01_working_allegro/Library_Footprint/Header 5/ 
+           E:/01_working_allegro/Library_Footprint/Header 5x2/ 
+           E:/01_working_allegro/Library_Footprint/C0402/ 
+           E:/01_working_allegro/Library_Footprint/R0402/ 
+           E:/01_working_allegro/Library_Footprint/C0603/ 
+           E:/01_working_allegro/Library_Footprint/R0603/ 
+           E:/01_working_allegro/Library_Footprint/R0805/ 
+           E:/01_working_allegro/Library_Footprint/C0805/ 
+           E:/01_working_allegro/Library_Footprint/Jac DC 2mm/ 
+           E:/01_working_allegro/Library_Footprint/HC49S SMD Crystal/ 
+           E:/01_working_allegro/Library_Footprint/USB_Mini_Type_B/ 
+           E:/01_working_allegro/Library_Footprint/Led 0805/ 
+           E:/01_working_allegro/Library_Footprint/SOT223/ 
+           E:/01_working_allegro/Library_Footprint/DO-214AC/ 
+           E:/01_working_allegro/Library_Footprint/SMD6032/ 
+           E:/01_working_allegro/Library_Footprint/SMD3216/ 
+           E:/01_working_allegro/Library_Footprint/SMD_Tact_Switch_6x6/ 
+           E:/01_working_allegro/Library_Footprint/SMD Tact Switch 2pin 6.0x3.6x2.5mm/ 
+           E:/01_working_allegro/Library_Footprint/LQFP_64/ 
+           E:/01_working_allegro/Library_Footprint/TSSOP_20/ 
+           E:/01_working_allegro/Library_Footprint/DFN6/ 
+           E:/01_working_allegro/Library_Footprint/HSOP8/ 
+           E:/01_working_allegro/Library_Footprint/Sot23/ 
+           E:/01_working_allegro/Library_Footprint/FID-040/ 
+           E:/01_working_allegro/Library_Footprint/Sot23-5/ 
+           E:/01_working_allegro/Library_Footprint/CSTCE/ 
+           E:/01_working_allegro/Library_Footprint/SMD1812/ 
+           E:/01_working_allegro/Library_Footprint/Header 6/ 
+           E:/01_working_allegro/Library_Footprint/Header 8/ 
+           E:/01_working_allegro/Library_Footprint/Header 10/ 
+           E:/01_working_allegro/Library_Footprint/Header 3x2/ 
+           E:/01_working_allegro/Library_Footprint/Cap_AL_D/ 
+           E:/01_working_allegro/Library_Footprint/TQFP32/ 
+           E:/01_working_allegro/Library_Footprint/SMD1206/ 
+           E:/01_working_allegro/Library_Footprint/SOIC8/ 
+           E:/01_working_allegro/Library_Footprint/via018/ 
+           E:/01_working_allegro/Library_Footprint/Lo_khoan_3mm/ 
+           E:/01_working_allegro/Library_Footprint/Cap_AL_b/ 
+           E:/01_working_allegro/Library_Footprint/Cap_AL_G/ 
+           E:/01_working_allegro/Library_Footprint/SOD80/ 
+           E:/01_working_allegro/Library_Footprint/SOD80C/ 
+           E:/01_working_allegro/Library_Footprint/L127H/ 
+           E:/01_working_allegro/Library_Footprint/Tact_Switch_6x6/ 
+           E:/01_working_allegro/Library_Footprint/LED-DIP-2-5mm/ 
+           E:/01_working_allegro/Library_Footprint/Dip 3 Switch/ 
+           E:/01_working_allegro/Library_Footprint/BUZZER DIP/ 
+           E:/01_working_allegro/Library_Footprint/SO24/ 
+           E:/01_working_allegro/Library_Footprint/MUDULE_SPBTLE/ 
+           E:/01_working_allegro/Library_Footprint/PushSW8x8L/ 
+           E:/01_working_allegro/Library_Footprint/Lo_khoan_2mm/ 
+           E:/01_working_allegro/Library_Footprint/Rfid_atn_coil/ 
+           E:/01_working_allegro/Library_Footprint/Power_fanled/ 
+           E:/01_working_allegro/Library_Footprint/RA1206/ 
+           E:/01_working_allegro/Library_Footprint/Socket_fanled/ 
+           E:/01_working_allegro/Library_Footprint/SOD-323/ 
+           E:/01_working_allegro/Library_Footprint/USB_Micro_type_B/ 
+           E:/01_working_allegro/Library_Footprint/HARTING_12P/ 
+           E:/01_working_allegro/Library_Footprint/ind_hex/ 
+           E:/01_working_allegro/Library_Footprint/capp_taj_d/ 
+           E:/01_working_allegro/Library_Footprint/cap_1210/ 
+           E:/01_working_allegro/Library_Footprint/Button_fsm/ 
+           E:/01_working_allegro/Library_Footprint/SOIC8E/ 
+           E:/01_working_allegro/Library_Footprint/Led_GRB_Dip/ 
+           E:/01_working_allegro/Library_Footprint/BUZZER_SMD/ 
+           E:/01_working_allegro/Library_Footprint/IDER1501CR95/ 
+           E:/01_working_allegro/Library_Footprint/Soic16/ 
+           E:/01_working_allegro/Library_Footprint/L0805/ 
+           E:/01_working_allegro/Library_Footprint/Header 9/ 
+           E:/01_working_allegro/Library_Footprint/J0805/ 
+           E:/01_working_allegro/Library_Footprint/Antenal_430nH/ 
+           E:/01_working_allegro/Library_Footprint/LQFP_100/ 
+           E:/01_working_allegro/Library_Footprint/POE/ 
+           E:/01_working_allegro/Library_Footprint/rj45-vertical/ 
+           E:/01_working_allegro/Library_Footprint/trc41604nl/ 
+           E:/01_working_allegro/Library_Footprint/TO-269AA/ 
+           E:/01_working_allegro/Library_Footprint/BUZZER DIP 2/ 
+           E:/01_working_allegro/Library_Footprint/C1206/ 
+           E:/01_working_allegro/Library_Footprint/HCMOS/ 
+           E:/01_working_allegro/Library_Footprint/Cryrtc32768/ 
+           E:/01_working_allegro/Library_Footprint/B3U-1000P/ 
+           E:/01_working_allegro/Library_Footprint/symbols/ 
+           E:/01_working_allegro/Library_Footprint/Led_RGB/ 
+           E:/01_working_allegro/Library_Footprint/HARTING_10P/ 
+           E:/01_working_allegro/Library_Footprint/cry3225_m/ 
+           E:/01_working_allegro/Library_Footprint/HCMOS5x32/ 
+           E:/01_working_allegro/Library_Footprint/CR95HF_muodule/ 
+           E:/01_working_allegro/Library_Footprint/Header 10x2/ 
+           E:/01_working_allegro/Library_Footprint/Opto-smd/ 
+           E:/01_working_allegro/Library_Footprint/TSSOP48/ 
+           E:/01_working_allegro/Library_Footprint/SSOP48/ 
+           E:/01_working_allegro/Library_Footprint/Led7seg-0d56/ 
+           E:/01_working_allegro/Library_Footprint/BUTTON4DIP6x6x8/ 
+           E:/01_working_allegro/Library_Footprint/DB9-fe/ 
+           E:/01_working_allegro/Library_Footprint/D2PAK/ 
+           E:/01_working_allegro/Library_Footprint/SO16/ 
+           E:/01_working_allegro/Library_Footprint/R0603x4/ 
+           E:/01_working_allegro/Library_Footprint/Lo_khoan_4mm/ 
+           E:/01_working_allegro/Library_Footprint/Relay 5 pin/ 
+           E:/01_working_allegro/Library_Footprint/HB9500-8P/ 
+           E:/01_working_allegro/Library_Footprint/USB TYPE B/ 
+           E:/01_working_allegro/Library_Footprint/Xtal dip2/ 
+           E:/01_working_allegro/Library_Footprint/DIP40/ 
+           E:/01_working_allegro/Library_Footprint/Header 17/ 
+           E:/01_working_allegro/Library_Footprint/TO-220/ 
+           E:/01_working_allegro/Library_Footprint/Cap_AL_a/ 
+           E:/01_working_allegro/Library_Footprint/TO-92/ 
+           E:/01_working_allegro/Library_Footprint/HB9500-5P/ 
+           E:/01_working_allegro/Library_Footprint/HB9500-3P/ 
+           E:/01_working_allegro/Library_Footprint/Header_2_pitch1p25mm/ 
+           E:/01_working_allegro/Library_Footprint/Header_4_pitch1p25mm/ 
+           E:/01_working_allegro/Library_Footprint/Dip8/ 
+           E:/01_working_allegro/Library_Footprint/Opto-dip/ 
+           E:/01_working_allegro/Library_Footprint/Transformer-3coil/ 
+           E:/01_working_allegro/Library_Footprint/SMD-8/ 
+           E:/01_working_allegro/Library_Footprint/SMD-6/ 
+           E:/01_working_allegro/Library_Footprint/cap-104/ 
+           E:/01_working_allegro/Library_Footprint/Super_cap/ 
+           E:/01_working_allegro/Library_Footprint/Led7seg_0d28/ 
+           E:/01_working_allegro/Library_Footprint/Header 4x2/ 
+           E:/01_working_allegro/Library_Footprint/xbee_socket/ 
+           E:/01_working_allegro/Library_Footprint/HM10-socket/ 
+           E:/01_working_allegro/Library_Footprint/cap-400v/ 
+           E:/01_working_allegro/Library_Footprint/cap-dip-10mm/ 
+           E:/01_working_allegro/Library_Footprint/Sod123/ 
+           E:/01_working_allegro/Library_Footprint/Fuse-2p/ 
+           E:/01_working_allegro/Library_Footprint/SOD-323F/ 
+           E:/01_working_allegro/Library_Footprint/R1210/ 
+           E:/01_working_allegro/Library_Footprint/F93_b/ 
+           E:/01_working_allegro/Library_Footprint/HB9500-2P/ 
+           E:/01_working_allegro/Library_Footprint/HB9500-4P/ 
+           E:/01_working_allegro/Library_Footprint/R-Dip/ 
+           E:/01_working_allegro/Library_Footprint/Domino2.5/ 
+           E:/01_working_allegro/Library_Footprint/QRE1113-4smd/ 
+           E:/01_working_allegro/Library_Footprint/C1411/ 
+           E:/01_working_allegro/Library_Footprint/in4d_5x5/ 
+           E:/01_working_allegro/Library_Footprint/fpc-23-0p7/ 
+           E:/01_working_allegro/Library_Footprint/R1206/ 
+           E:/01_working_allegro/Library_Footprint/QFN-24/ 
+           E:/01_working_allegro/Library_Footprint/rj45-vertical-smd/ 
+           E:/01_working_allegro/Library_Footprint/TXC-5x3p2 CRYSTAL/ 
+           E:/01_working_allegro/Library_Footprint/Fuditial/ 
+           E:/01_working_allegro/Library_Footprint/HDT0001/ 
+           E:/01_working_allegro/Library_Footprint/BM10NB-16-Header/ 
+           E:/01_working_allegro/Library_Footprint/sot-25/ 
+           E:/01_working_allegro/Library_Footprint/Fpc05p24/ 
+           E:/01_working_allegro/Library_Footprint/TZB4/ 
+           E:/01_working_allegro/Library_Footprint/Htssop 20/ 
+           E:/01_working_allegro/Library_Footprint/CAPP_AE_D/ 
+           E:/01_working_allegro/Library_Footprint/PWR_DI5/ 
+           E:/01_working_allegro/Library_Footprint/DPAK/ 
+           E:/01_working_allegro/Library_Footprint/C0805_X2Y/ 
+           E:/01_working_allegro/Library_Footprint/C1206_X2Y/ 
+           E:/01_working_allegro/Library_Footprint/pad/ 
+
+PADPATH =  . 
+           ./symbols 
+           E:/01_working_allegro/Library_Footprint/LQFP_48/ 
+           E:/01_working_allegro/Library_Footprint/SSOP28/ 
+           E:/01_working_allegro/Library_Footprint/PVQFN_N32/ 
+           E:/01_working_allegro/Library_Footprint/Header 2/ 
+           E:/01_working_allegro/Library_Footprint/Header 3/ 
+           E:/01_working_allegro/Library_Footprint/Header 4/ 
+           E:/01_working_allegro/Library_Footprint/Header 5/ 
+           E:/01_working_allegro/Library_Footprint/Header 5x2/ 
+           E:/01_working_allegro/Library_Footprint/C0402/ 
+           E:/01_working_allegro/Library_Footprint/R0402/ 
+           E:/01_working_allegro/Library_Footprint/C0603/ 
+           E:/01_working_allegro/Library_Footprint/R0603/ 
+           E:/01_working_allegro/Library_Footprint/R0805/ 
+           E:/01_working_allegro/Library_Footprint/C0805/ 
+           E:/01_working_allegro/Library_Footprint/Jac DC 2mm/ 
+           E:/01_working_allegro/Library_Footprint/HC49S SMD Crystal/ 
+           E:/01_working_allegro/Library_Footprint/USB_Mini_Type_B/ 
+           E:/01_working_allegro/Library_Footprint/Led 0805/ 
+           E:/01_working_allegro/Library_Footprint/SOT223/ 
+           E:/01_working_allegro/Library_Footprint/DO-214AC/ 
+           E:/01_working_allegro/Library_Footprint/SMD6032/ 
+           E:/01_working_allegro/Library_Footprint/SMD3216/ 
+           E:/01_working_allegro/Library_Footprint/SMD_Tact_Switch_6x6/ 
+           E:/01_working_allegro/Library_Footprint/SMD Tact Switch 2pin 6.0x3.6x2.5mm/ 
+           E:/01_working_allegro/Library_Footprint/LQFP_64/ 
+           E:/01_working_allegro/Library_Footprint/TSSOP_20/ 
+           E:/01_working_allegro/Library_Footprint/DFN6/ 
+           E:/01_working_allegro/Library_Footprint/HSOP8/ 
+           E:/01_working_allegro/Library_Footprint/Sot23/ 
+           E:/01_working_allegro/Library_Footprint/FID-040/ 
+           E:/01_working_allegro/Library_Footprint/Sot23-5/ 
+           E:/01_working_allegro/Library_Footprint/CSTCE/ 
+           E:/01_working_allegro/Library_Footprint/SMD1812/ 
+           E:/01_working_allegro/Library_Footprint/Header 6/ 
+           E:/01_working_allegro/Library_Footprint/Header 8/ 
+           E:/01_working_allegro/Library_Footprint/Header 10/ 
+           E:/01_working_allegro/Library_Footprint/Header 3x2/ 
+           E:/01_working_allegro/Library_Footprint/Cap_AL_D/ 
+           E:/01_working_allegro/Library_Footprint/TQFP32/ 
+           E:/01_working_allegro/Library_Footprint/SMD1206/ 
+           E:/01_working_allegro/Library_Footprint/SOIC8/ 
+           E:/01_working_allegro/Library_Footprint/via018/ 
+           E:/01_working_allegro/Library_Footprint/Lo_khoan_3mm/ 
+           E:/01_working_allegro/Library_Footprint/Cap_AL_b/ 
+           E:/01_working_allegro/Library_Footprint/Cap_AL_G/ 
+           E:/01_working_allegro/Library_Footprint/SOD80/ 
+           E:/01_working_allegro/Library_Footprint/SOD80C/ 
+           E:/01_working_allegro/Library_Footprint/L127H/ 
+           E:/01_working_allegro/Library_Footprint/Tact_Switch_6x6/ 
+           E:/01_working_allegro/Library_Footprint/LED-DIP-2-5mm/ 
+           E:/01_working_allegro/Library_Footprint/Dip 3 Switch/ 
+           E:/01_working_allegro/Library_Footprint/BUZZER DIP/ 
+           E:/01_working_allegro/Library_Footprint/SO24/ 
+           E:/01_working_allegro/Library_Footprint/MUDULE_SPBTLE/ 
+           E:/01_working_allegro/Library_Footprint/PushSW8x8L/ 
+           E:/01_working_allegro/Library_Footprint/Lo_khoan_2mm/ 
+           E:/01_working_allegro/Library_Footprint/Rfid_atn_coil/ 
+           E:/01_working_allegro/Library_Footprint/Power_fanled/ 
+           E:/01_working_allegro/Library_Footprint/RA1206/ 
+           E:/01_working_allegro/Library_Footprint/Socket_fanled/ 
+           E:/01_working_allegro/Library_Footprint/SOD-323/ 
+           E:/01_working_allegro/Library_Footprint/USB_Micro_type_B/ 
+           E:/01_working_allegro/Library_Footprint/HARTING_12P/ 
+           E:/01_working_allegro/Library_Footprint/ind_hex/ 
+           E:/01_working_allegro/Library_Footprint/capp_taj_d/ 
+           E:/01_working_allegro/Library_Footprint/cap_1210/ 
+           E:/01_working_allegro/Library_Footprint/Button_fsm/ 
+           E:/01_working_allegro/Library_Footprint/SOIC8E/ 
+           E:/01_working_allegro/Library_Footprint/Led_GRB_Dip/ 
+           E:/01_working_allegro/Library_Footprint/BUZZER_SMD/ 
+           E:/01_working_allegro/Library_Footprint/IDER1501CR95/ 
+           E:/01_working_allegro/Library_Footprint/Soic16/ 
+           E:/01_working_allegro/Library_Footprint/L0805/ 
+           E:/01_working_allegro/Library_Footprint/Header 9/ 
+           E:/01_working_allegro/Library_Footprint/J0805/ 
+           E:/01_working_allegro/Library_Footprint/Antenal_430nH/ 
+           E:/01_working_allegro/Library_Footprint/LQFP_100/ 
+           E:/01_working_allegro/Library_Footprint/POE/ 
+           E:/01_working_allegro/Library_Footprint/rj45-vertical/ 
+           E:/01_working_allegro/Library_Footprint/trc41604nl/ 
+           E:/01_working_allegro/Library_Footprint/TO-269AA/ 
+           E:/01_working_allegro/Library_Footprint/BUZZER DIP 2/ 
+           E:/01_working_allegro/Library_Footprint/C1206/ 
+           E:/01_working_allegro/Library_Footprint/HCMOS/ 
+           E:/01_working_allegro/Library_Footprint/Cryrtc32768/ 
+           E:/01_working_allegro/Library_Footprint/B3U-1000P/ 
+           E:/01_working_allegro/Library_Footprint/symbols/ 
+           E:/01_working_allegro/Library_Footprint/Led_RGB/ 
+           E:/01_working_allegro/Library_Footprint/HARTING_10P/ 
+           E:/01_working_allegro/Library_Footprint/cry3225_m/ 
+           E:/01_working_allegro/Library_Footprint/HCMOS5x32/ 
+           E:/01_working_allegro/Library_Footprint/CR95HF_muodule/ 
+           E:/01_working_allegro/Library_Footprint/Header 10x2/ 
+           E:/01_working_allegro/Library_Footprint/Opto-smd/ 
+           E:/01_working_allegro/Library_Footprint/TSSOP48/ 
+           E:/01_working_allegro/Library_Footprint/SSOP48/ 
+           E:/01_working_allegro/Library_Footprint/Led7seg-0d56/ 
+           E:/01_working_allegro/Library_Footprint/BUTTON4DIP6x6x8/ 
+           E:/01_working_allegro/Library_Footprint/DB9-fe/ 
+           E:/01_working_allegro/Library_Footprint/D2PAK/ 
+           E:/01_working_allegro/Library_Footprint/SO16/ 
+           E:/01_working_allegro/Library_Footprint/R0603x4/ 
+           E:/01_working_allegro/Library_Footprint/Lo_khoan_4mm/ 
+           E:/01_working_allegro/Library_Footprint/Relay 5 pin/ 
+           E:/01_working_allegro/Library_Footprint/HB9500-8P/ 
+           E:/01_working_allegro/Library_Footprint/USB TYPE B/ 
+           E:/01_working_allegro/Library_Footprint/Xtal dip2/ 
+           E:/01_working_allegro/Library_Footprint/DIP40/ 
+           E:/01_working_allegro/Library_Footprint/Header 17/ 
+           E:/01_working_allegro/Library_Footprint/TO-220/ 
+           E:/01_working_allegro/Library_Footprint/Cap_AL_a/ 
+           E:/01_working_allegro/Library_Footprint/TO-92/ 
+           E:/01_working_allegro/Library_Footprint/HB9500-5P/ 
+           E:/01_working_allegro/Library_Footprint/HB9500-3P/ 
+           E:/01_working_allegro/Library_Footprint/Header_2_pitch1p25mm/ 
+           E:/01_working_allegro/Library_Footprint/Header_4_pitch1p25mm/ 
+           E:/01_working_allegro/Library_Footprint/Dip8/ 
+           E:/01_working_allegro/Library_Footprint/Opto-dip/ 
+           E:/01_working_allegro/Library_Footprint/Transformer-3coil/ 
+           E:/01_working_allegro/Library_Footprint/SMD-8/ 
+           E:/01_working_allegro/Library_Footprint/SMD-6/ 
+           E:/01_working_allegro/Library_Footprint/cap-104/ 
+           E:/01_working_allegro/Library_Footprint/Super_cap/ 
+           E:/01_working_allegro/Library_Footprint/Led7seg_0d28/ 
+           E:/01_working_allegro/Library_Footprint/Header 4x2/ 
+           E:/01_working_allegro/Library_Footprint/xbee_socket/ 
+           E:/01_working_allegro/Library_Footprint/HM10-socket/ 
+           E:/01_working_allegro/Library_Footprint/cap-400v/ 
+           E:/01_working_allegro/Library_Footprint/cap-dip-10mm/ 
+           E:/01_working_allegro/Library_Footprint/Sod123/ 
+           E:/01_working_allegro/Library_Footprint/Fuse-2p/ 
+           E:/01_working_allegro/Library_Footprint/SOD-323F/ 
+           E:/01_working_allegro/Library_Footprint/R1210/ 
+           E:/01_working_allegro/Library_Footprint/F93_b/ 
+           E:/01_working_allegro/Library_Footprint/HB9500-2P/ 
+           E:/01_working_allegro/Library_Footprint/HB9500-4P/ 
+           E:/01_working_allegro/Library_Footprint/R-Dip/ 
+           E:/01_working_allegro/Library_Footprint/Domino2.5/ 
+           E:/01_working_allegro/Library_Footprint/QRE1113-4smd/ 
+           E:/01_working_allegro/Library_Footprint/C1411/ 
+           E:/01_working_allegro/Library_Footprint/in4d_5x5/ 
+           E:/01_working_allegro/Library_Footprint/fpc-23-0p7/ 
+           E:/01_working_allegro/Library_Footprint/R1206/ 
+           E:/01_working_allegro/Library_Footprint/QFN-24/ 
+           E:/01_working_allegro/Library_Footprint/rj45-vertical-smd/ 
+           E:/01_working_allegro/Library_Footprint/TXC-5x3p2 CRYSTAL/ 
+           E:/01_working_allegro/Library_Footprint/Fuditial/ 
+           E:/01_working_allegro/Library_Footprint/HDT0001/ 
+           E:/01_working_allegro/Library_Footprint/BM10NB-16-Header/ 
+           E:/01_working_allegro/Library_Footprint/sot-25/ 
+           E:/01_working_allegro/Library_Footprint/Fpc05p24/ 
+           E:/01_working_allegro/Library_Footprint/TZB4/ 
+           E:/01_working_allegro/Library_Footprint/Htssop 20/ 
+           E:/01_working_allegro/Library_Footprint/CAPP_AE_D/ 
+           E:/01_working_allegro/Library_Footprint/PWR_DI5/ 
+           E:/01_working_allegro/Library_Footprint/DPAK/ 
+           E:/01_working_allegro/Library_Footprint/C0805_X2Y/ 
+           E:/01_working_allegro/Library_Footprint/C1206_X2Y/ 
+           E:/01_working_allegro/Library_Footprint/pad/ 
+
+
+------ Symbol Refresh Messages ------
+
+'TAMPERSW-ESE11MV1'  symbol refreshed successfully.
+
+
+------ Pad Stack Refresh Messages ------
+
+'SQ1P4'  pad stack refreshed successfully.
+'DRILL1P3_NOPAD'  pad stack refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 1 out 1
+    Design updated.
+

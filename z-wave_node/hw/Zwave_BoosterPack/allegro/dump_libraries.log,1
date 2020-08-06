@@ -1,0 +1,32 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Wed Sep 11 01:28:38 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: E:/TTTN/Z-ware_PirAnthena/Zwave_BoosterPack/allegro/HEADER-2.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  PAD_80CIR_50D_MILS being dumped.
+
+  PAD80SQ35D being dumped.
+
+  PAD80CIR35D being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                3
+
+Total number of symbols dumped:            0
+*****************************************************
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : MH_3MM.dra                                    )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Thu Nov 14 10:12:42 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = E:/TTTN/ValveController/Export/Hole3MM
+    Name      = mh_3mm.bsm
+    User      = NguyenThanhTam
+    Machine   = NTT-ASUSROG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

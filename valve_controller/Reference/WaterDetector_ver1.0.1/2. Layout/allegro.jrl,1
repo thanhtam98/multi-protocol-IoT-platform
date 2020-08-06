@@ -1,0 +1,78 @@
+\t (00:00:01) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:01)     Journal start - Tue Dec 25 16:39:34 2018
+\t (00:00:01)         Host=GORZERIC User=USER Pid=14296 CPUs=8
+\t (00:00:01) CmdLine= E:\1_Software\1_Cadence\Orcad 16.6\tools\pcb\bin\allegro.exe E:\New folder\1_Working\12. Water Detector\WaterDetector_ver1.0.1\2. Layout\WaterDetector_ver1.0.0.brd
+\t (00:00:01) 
+   (00:00:01) function PinVia_Overlap_FinishEnterFun redefined
+   (00:00:01) function Find_Point_On_Line_From_Distant redefined
+   (00:00:01) function Find_Point_Quadrature_Line redefined
+   (00:00:01) function Line_Line_Intersect redefined
+   (00:00:01) function _getPinsNet redefined
+   (00:00:01) function _getBranchs redefined
+   (00:00:01) function _getPaths redefined
+   (00:00:01) function _get2PointsPath redefined
+   (00:00:01) function _checkElementList redefined
+   (00:00:01) function _getSurroundPoints redefined
+   (00:00:01) function _getListPointsLPaths redefined
+   (00:00:01) function _checkPathPoint redefined
+   (00:00:01) function _deleteElementList redefined
+   (00:00:01) function _checkElementList redefined
+   (00:00:01) function _deleteElementList redefined
+   (00:00:01) function Find_Point_On_Line_From_Distant redefined
+   (00:00:01) function Find_Point_Quadrature_Line redefined
+   (00:00:01) function Is_Point_On_List redefined
+   (00:00:01) function Line_Line_Intersect redefined
+   (00:00:01) function Line_Line_Distant redefined
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: E:/New folder/1_Working/12. Water Detector/WaterDetector_ver1.0.1/2. Layout/WaterDetector_ver1.0.0.brd
+\i (00:00:02) trapsize 488
+\i (00:00:02) trapsize 477
+\i (00:00:02) trapsize 490
+\i (00:00:02) trapsize 496
+\i (00:00:02) trapsize 527
+\i (00:00:02) generaledit 
+\i (00:00:03) pick grid 2398.7 1209.4
+\t (00:00:03) last pick:  2400.0 1210.0
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -245.6 967.1
+\i (00:00:03) trapsize 263
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -13.8 977.7
+\i (00:00:03) trapsize 132
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -13.8 977.7
+\i (00:00:03) trapsize 66
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 23.1 985.7
+\i (00:00:04) trapsize 132
+\i (00:01:00) artwork 
+\i (00:01:16) setwindow form.film_control
+\i (00:01:16) FORM film_control general_parameters  
+\i (00:01:18) FORM film_control film_control  
+\i (00:01:19) FORM film_control select_all  
+\i (00:01:24) FORM film_control filmtree popup 'Save All Checked' SMASK_TOP 
+\i (00:01:38) FORM film_control cancel  
+\i (00:01:38) setwindow pcb
+\i (00:01:38) generaledit 
+\i (00:12:22) pick grid 1371.6 893.5
+\t (00:12:22) last pick:  1370.0 895.0
+\i (00:13:34) xhilite 
+\i (00:13:34) xname_flush 
+\i (00:13:34) done 
+\i (00:13:35) generaledit 
+\i (00:13:37) xdehilite 
+\i (00:13:37) xname_flush 
+\i (00:13:37) done 
+\i (00:13:37) generaledit 
+\i (01:21:30) xhilite 
+\i (01:21:30) xname_flush 
+\i (01:21:30) done 
+\i (01:21:30) generaledit 
+\i (01:21:36) exit 
+\e (01:21:36) Do you want to save the changes you made to WaterDetector_ver1.0.0.brd?
+\i (01:21:38) fillin no 
+\t (01:21:38)     Journal end - Tue Dec 25 18:01:11 2018

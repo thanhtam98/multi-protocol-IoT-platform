@@ -1,0 +1,63 @@
+#*************  Makefile.ATMega128_demo_common  *****************
+#            #######
+#            ##  ##
+#            #  ##    ####   #####    #####  ##  ##   #####
+#              ##    ##  ##  ##  ##  ##      ##  ##  ##
+#             ##  #  ######  ##  ##   ####   ##  ##   ####
+#            ##  ##  ##      ##  ##      ##   #####      ##
+#           #######   ####   ##  ##  #####       ##  #####
+#                                            #####
+#           Z-Wave, the wireless language.
+#
+#               Copyright (c) 2001
+#               Zensys A/S
+#               Denmark
+#
+#               All Rights Reserved
+#
+#     This source file is subject to the terms and conditions of the
+#     Zensys Software License Agreement which restricts the manner
+#     in which it may be used.
+#
+#---------------------------------------------------------------------------
+#
+#  Description: Common makefile for Atmel mega 128 demo appl.
+#
+#  Author:   Samer Seoud
+#
+#  Last Changed By:  $Author: vvi $
+#  Revision:         $Revision: 15722 $
+#  Last Changed:     $Date: 2009-11-24 16:12:33 +0200 (Вв, 24 Лис 2009) $
+#
+#****************************************************************************
+
+# Target name
+TARGET:=ZWaveProgrammer_FW
+
+all: $(TARGET).hex
+
+include Makefile.common_atmel_compile_nolib
+
+RELFILES=ZWaveFlash.r90\
+	conhandle.r90\
+	UART_buf_io.r90\
+	nvm.r90\
+	nvm_m25pe40.r90\
+  nvm_at25128.r90\
+	ATMega_spi.r90\
+	lowlevel.r90
+
+
+
+
+COMDEFINES:=-DMEGA128\
+	-DENABLE_BIT_DEFINITIONS\
+	-DnoENABLE_ERROR_HANDLER\
+	-DDEBUG\
+	-DZWAVE_PROGRAMMER
+	
+CDEFINES+=
+ADEFINES+=
+
+include Makefile.common_atmel_link_nolib
+

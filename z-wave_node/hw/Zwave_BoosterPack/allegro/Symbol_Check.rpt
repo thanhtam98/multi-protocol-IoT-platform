@@ -1,0 +1,28 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : ZWAVE_BOOSTERPACK.brd                         )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Sat Sep 21 22:56:49 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	E:/TTTN/Orcad/lib/0_Lib/1_Footprint
+	.
+	symbols
+	..
+	../symbols
+	C:/Cadence/SPB_16.6/share/local/pcb/symbols
+	C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+	C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols
+
+
+All Symbols Found
+
+Total symbols placed:      33 out of 34
+
+
+Symbol Found:  C2	- E:/TTTN/Orcad/lib/0_Lib/1_Footprint/cap_1210.psm

@@ -1,0 +1,93 @@
+Tue Sep 17 17:06:37 2019				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Tue Sep 17 17:06:37 2019
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : ZWAVE_BOOSTERPACK.brd                         )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Tue Sep 17 17:06:38 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Tue Sep 17 17:06:38 2019				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'E:/TTTN/Z-ware_PirAnthena/Zwave_BoosterPack/allegro/ZWAVE_BOOSTERPACK.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'YES'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'YES'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  E:/TTTN/Orcad/lib/0_Lib/1_Footprint 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+PADPATH =  E:/TTTN/Orcad/lib/0_Lib/1_Footprint 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+
+------ Symbol Refresh Messages ------
+
+'MH_4MM'  symbol refreshed successfully.
+'HEADER_1_3MM'  symbol refreshed successfully.
+'LED0805'  symbol refreshed successfully.
+'CAP_1210'  symbol refreshed successfully.
+'HEADER3PITCH100MIL'  symbol refreshed successfully.
+'HEADER-2'  symbol refreshed successfully.
+'TO-92'  symbol refreshed successfully.
+'HEADER-6'  symbol refreshed successfully.
+'SOT-223'  symbol refreshed successfully.
+'R0603'  symbol refreshed successfully.
+'C0603'  symbol refreshed successfully.
+'DOMINO2_5'  symbol refreshed successfully.
+'DOMINO3_35'  symbol refreshed successfully.
+'HEADER4PITCH100MIL'  symbol refreshed successfully.
+'RELAY_5PIN'  symbol refreshed successfully.
+'DIODE_DO-41'  symbol refreshed successfully.
+'TSSOP-8'  symbol refreshed successfully.
+'ZM5202_D'  symbol refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 18 out 18
+    Design updated.
+

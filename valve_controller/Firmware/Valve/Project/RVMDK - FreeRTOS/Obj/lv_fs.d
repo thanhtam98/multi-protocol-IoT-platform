@@ -1,0 +1,15 @@
+.\obj\lv_fs.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_fs.c
+.\obj\lv_fs.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_fs.h
+.\obj\lv_fs.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../../lv_conf.h
+.\obj\lv_fs.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../../lvgl/lv_conf_checker.h
+.\obj\lv_fs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\lv_fs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\lv_fs.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_mem.h
+.\obj\lv_fs.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../../lv_conf.h
+.\obj\lv_fs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\lv_fs.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_log.h
+.\obj\lv_fs.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../../lv_conf.h
+.\obj\lv_fs.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_ll.h
+.\obj\lv_fs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\lv_fs.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_gc.h
+.\obj\lv_fs.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../../lv_conf.h

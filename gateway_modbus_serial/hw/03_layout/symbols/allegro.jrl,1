@@ -1,0 +1,201 @@
+\t (00:00:04) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:04)     Journal start - Thu May 16 14:39:54 2019
+\t (00:00:04)         Host=DESKTOP-IDKG8B7 User=Tuan Nguyen Pid=9828 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe E:\04_Project\12_anhBao\02_RFID_NFC\16_Controller\03_layout\symbols\hr911105B.dra
+\t (00:00:04) 
+   (00:00:04) function PinVia_Overlap_FinishEnterFun redefined
+   (00:00:04) function Find_Point_On_Line_From_Distant redefined
+   (00:00:04) function Find_Point_Quadrature_Line redefined
+   (00:00:04) function Line_Line_Intersect redefined
+   (00:00:04) function _getPinsNet redefined
+   (00:00:04) function _getBranchs redefined
+   (00:00:04) function _getPaths redefined
+   (00:00:04) function _get2PointsPath redefined
+   (00:00:04) function _checkElementList redefined
+   (00:00:04) function _getSurroundPoints redefined
+   (00:00:04) function _getListPointsLPaths redefined
+   (00:00:04) function _checkPathPoint redefined
+   (00:00:04) function _deleteElementList redefined
+   (00:00:04) function _checkElementList redefined
+   (00:00:04) function _deleteElementList redefined
+   (00:00:04) function Find_Point_On_Line_From_Distant redefined
+   (00:00:04) function Find_Point_Quadrature_Line redefined
+   (00:00:04) function Is_Point_On_List redefined
+   (00:00:04) function Line_Line_Intersect redefined
+   (00:00:04) function Line_Line_Distant redefined
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: E:/04_Project/12_anhBao/02_RFID_NFC/16_Controller/03_layout/symbols/hr911105B.dra
+\t (00:00:04) Grids are drawn 8.00, 8.00 apart for enhanced viewability.
+\i (00:00:04) trapsize 729
+\i (00:00:04) trapsize 716
+\i (00:00:04) trapsize 731
+\t (00:00:05) Grids are drawn 8.00, 8.00 apart for enhanced viewability.
+\i (00:00:05) trapsize 731
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 345.79 311.95
+\t (00:00:08) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:00:08) trapsize 365
+\i (00:00:10) roam start
+\i (00:00:10) roam x 112
+\i (00:00:10) roam y 64
+\i (00:00:10) roam end
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 504.41 256.62
+\t (00:00:11) Grids are drawn 2.00, 2.00 apart for enhanced viewability.
+\i (00:00:11) trapsize 183
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 504.41 256.62
+\t (00:00:11) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:00:11) trapsize 365
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 504.40 256.63
+\t (00:00:11) Grids are drawn 8.00, 8.00 apart for enhanced viewability.
+\i (00:00:11) trapsize 731
+\i (00:00:13) delete 
+\i (00:00:14) pick grid 471.55 262.48
+\t (00:00:14) last pick:  472.00 262.00
+\t (00:00:14) Pin "Pad70cir45d, 12"
+\i (00:00:15) pick grid 486.17 160.14
+\t (00:00:15) last pick:  486.00 160.00
+\t (00:00:15) Pin "Pad70cir45d, 11"
+\i (00:00:16) pick grid 492.02 -162.95
+\t (00:00:16) last pick:  492.00 -163.00
+\t (00:00:16) Pin "Pad70cir45d, 10"
+\i (00:00:17) pick grid 486.17 -255.05
+\t (00:00:17) last pick:  486.00 -255.00
+\t (00:00:17) Pin "Pad70cir45d, 9"
+\t (00:00:18) last pick:  1277.08 37.34
+\w (00:00:18) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:00:18) prepopup 1193.75 110.43
+\i (00:00:19) done 
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 170.39 274.17
+\t (00:00:20) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:00:20) trapsize 365
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 174.05 309.26
+\t (00:00:21) Grids are drawn 2.00, 2.00 apart for enhanced viewability.
+\i (00:00:22) trapsize 183
+\i (00:00:26) grid toggle 
+\i (00:00:27) grid toggle 
+\i (00:00:28) replay g525 #replace to define grid or use scriptmode +continue 
+\i (00:00:29) version 13.6 
+\t (00:00:29) Script version: 13.6
+\i (00:00:29) setwindow pcb 
+\i (00:00:29) define grid 
+\t (00:00:29) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:00:29) setwindow form.grid 
+\i (00:00:29) FORM grid non_etch non_etch_x_grids 25.00 
+\i (00:00:29) FORM grid non_etch non_etch_y_grids 25.00 
+\i (00:00:29) FORM grid top subclass_x_grids 25.00 
+\i (00:00:29) FORM grid top subclass_x_grids 25.00 
+\i (00:00:29) FORM grid all_etch all_etch_x_grids '5 5 5 5 5' 
+\i (00:00:29) FORM grid all_etch all_etch_y_grids '5 5 5 5 5' 
+\i (00:00:29) FORM grid done 
+\i (00:00:29) trapsize 183
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 129.83 227.76
+\i (00:00:29) trapsize 365
+\i (00:02:47) roam start
+\i (00:02:47) roam x -64
+\i (00:02:47) roam y -32
+\i (00:02:48) roam end
+\i (00:02:48) zoom in 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom in 310.00 337.79
+\i (00:02:48) trapsize 183
+\i (00:03:22) roam start
+\i (00:03:22) roam x -160
+\i (00:03:22) roam y -16
+\i (00:03:22) roam x -96
+\i (00:03:22) roam end
+\i (00:03:25) show measure 
+\i (00:03:27) pick grid 178.42 311.82
+\t (00:03:27) last pick:  180.00 310.00
+\i (00:03:28) roam start
+\i (00:03:28) roam x -160
+\i (00:03:28) roam y -16
+\i (00:03:28) roam x -160
+\i (00:03:28) roam end
+\i (00:03:32) pick grid -108.85 318.77
+\t (00:03:32) last pick:  -110.00 320.00
+\i (00:04:03) prepopup 158.32 379.44
+\i (00:04:04) done 
+\i (00:04:05) move 
+\t (00:04:06) Select element(s) to move.
+\i (00:04:08) setwindow form.find
+\i (00:04:08) FORM find pins YES 
+\i (00:04:13) setwindow pcb
+\i (00:04:13) pick grid 181.71 311.10
+\t (00:04:13) last pick:  180.00 310.00
+\t (00:04:13) last pick:  180.00 310.00
+\t (00:04:13) Pick new location for the element(s).
+\i (00:04:22) ipick 261 
+\t (00:04:22) last pick:  441.00 310.00
+\i (00:04:23) zoom out 1 
+\i (00:04:23) setwindow pcb
+\i (00:04:23) zoom out 180.98 307.81
+\i (00:04:23) trapsize 365
+\i (00:04:24) roam start
+\i (00:04:24) roam x 192
+\i (00:04:24) roam y 48
+\i (00:04:24) roam x 432
+\i (00:04:24) roam y 224
+\i (00:04:24) roam end
+\i (00:04:25) roam start
+\i (00:04:25) roam x -128
+\i (00:04:25) roam y 208
+\i (00:04:25) roam end
+\i (00:04:27) pick grid 174.04 -306.20
+\t (00:04:27) last pick:  175.00 -305.00
+\t (00:04:27) last pick:  180.00 -310.00
+\t (00:04:27) Pick new location for the element(s).
+\i (00:04:35) ipick 261 
+\t (00:04:35) last pick:  441.00 -310.00
+\i (00:04:36) prepopup 265.41 -187.06
+\i (00:04:37) done 
+\i (00:04:37) zoom out 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom out 249.33 -187.79
+\i (00:04:37) trapsize 731
+\i (00:04:39) zoom in 1 
+\i (00:04:39) setwindow pcb
+\i (00:04:39) zoom in 411.61 -367.60
+\i (00:04:39) trapsize 365
+\i (00:04:42) roam start
+\i (00:04:42) roam x -128
+\i (00:04:42) roam y -96
+\i (00:04:42) roam x -80
+\i (00:04:42) roam y -144
+\i (00:04:42) roam y -80
+\i (00:04:42) roam end
+\i (00:04:45) save 
+\i (00:04:46) fillin yes 
+\t (00:04:49) Symbol 'hr911105b.psm' created.
+\i (00:05:33) zoom out 1 
+\i (00:05:33) setwindow pcb
+\i (00:05:33) zoom out 472.28 87.06
+\i (00:05:33) trapsize 731
+\i (00:05:33) roam start
+\i (00:05:34) roam y 48
+\i (00:05:34) roam end
+\i (00:05:36) save 
+\i (00:05:37) fillin yes 
+\t (00:05:38) Symbol 'hr911105b.psm' created.
+\i (00:06:15) zoom in 1 
+\i (00:06:15) setwindow pcb
+\i (00:06:15) zoom in 307.81 -37.21
+\i (00:06:15) trapsize 365
+\i (00:06:17) zoom out 1 
+\i (00:06:17) setwindow pcb
+\i (00:06:17) zoom out 307.82 -37.21
+\i (00:06:17) trapsize 731
+\i (06:00:24) exit 
+\t (06:00:25)     Journal end - Thu May 16 20:40:15 2019

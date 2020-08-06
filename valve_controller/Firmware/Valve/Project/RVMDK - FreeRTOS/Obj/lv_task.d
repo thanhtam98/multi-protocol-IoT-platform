@@ -1,0 +1,16 @@
+.\obj\lv_task.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_task.c
+.\obj\lv_task.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\lv_task.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_task.h
+.\obj\lv_task.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../../lv_conf.h
+.\obj\lv_task.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../../lvgl/lv_conf_checker.h
+.\obj\lv_task.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\lv_task.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\lv_task.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_mem.h
+.\obj\lv_task.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../../lv_conf.h
+.\obj\lv_task.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_log.h
+.\obj\lv_task.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../../lv_conf.h
+.\obj\lv_task.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_ll.h
+.\obj\lv_task.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../lv_hal/lv_hal_tick.h
+.\obj\lv_task.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../lv_hal/../../lv_conf.h
+.\obj\lv_task.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\lv_gc.h
+.\obj\lv_task.o: ..\..\Utilities\littlevgl\lvgl\lv_misc\../../lv_conf.h

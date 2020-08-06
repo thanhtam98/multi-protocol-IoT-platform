@@ -1,0 +1,120 @@
+BLCHECK1:Not Execute
+BLCHECK2:Not Execute
+BOR_ON:Brownout reset off
+BOR_TH:Threshold 0
+DMA:Frozen when stopped
+HSESTB:1 cycle
+I2C:Frozen when stopped
+IWDG_HALT:Running
+IWDG_HW:Software
+LSESTB:1 cycle
+ROP:Read-out protection disabled
+RTC:Frozen when stopped
+Timer1:Frozen when stopped
+Timer2:Frozen when stopped
+Timer3:Frozen when stopped
+Timer4:Frozen when stopped
+UBC_bit0:0
+UBC_bit1:0
+UBC_bit2:0
+UBC_bit3:0
+UBC_bit4:0
+UBC_bit5:0
+UBC_bit6:0
+UBC_bit7:0
+WWDG_HALT:No Reset
+WWDG_HW:Software
+
+
+
+
+#######################################################################################
+#
+# List of available option byte settings:
+# =======================================
+#
+# 
+# BLCHECK1:Execute
+# BLCHECK1:Not Execute
+# 
+# BLCHECK2:Execute
+# BLCHECK2:Not Execute
+# 
+# BOR_ON:Brownout reset off
+# BOR_ON:Brownout reset on
+# 
+# BOR_TH:Threshold 0
+# BOR_TH:Threshold 1
+# BOR_TH:Threshold 2
+# BOR_TH:Threshold 3
+# BOR_TH:Threshold 4
+# 
+# DMA:Frozen when stopped
+# DMA:Running
+# 
+# HSESTB:1 cycle
+# HSESTB:16 cycles
+# HSESTB:512 cycles
+# HSESTB:4096 cycles
+# 
+# I2C:Frozen when stopped
+# I2C:Running
+# 
+# IWDG_HALT:Running
+# IWDG_HALT:Stopped
+# 
+# IWDG_HW:Software
+# IWDG_HW:Hardware
+# 
+# LSESTB:1 cycle
+# LSESTB:16 cycles
+# LSESTB:512 cycles
+# LSESTB:4096 cycles
+# 
+# ROP:Read-out protection disabled
+# ROP:Read-out protection enabled
+# 
+# RTC:Frozen when stopped
+# RTC:Running
+# 
+# Timer1:Frozen when stopped
+# Timer1:Running
+# 
+# Timer2:Frozen when stopped
+# Timer2:Running
+# 
+# Timer3:Frozen when stopped
+# Timer3:Running
+# 
+# Timer4:Frozen when stopped
+# Timer4:Running
+# 
+# UBC_bit0:0
+# UBC_bit0:1
+# 
+# UBC_bit1:0
+# UBC_bit1:1
+# 
+# UBC_bit2:0
+# UBC_bit2:1
+# 
+# UBC_bit3:0
+# UBC_bit3:1
+# 
+# UBC_bit4:0
+# UBC_bit4:1
+# 
+# UBC_bit5:0
+# UBC_bit5:1
+# 
+# UBC_bit6:0
+# UBC_bit6:1
+# 
+# UBC_bit7:0
+# UBC_bit7:1
+# 
+# WWDG_HALT:No Reset
+# WWDG_HALT:Reset
+# 
+# WWDG_HW:Software
+# WWDG_HW:Hardware

@@ -1,0 +1,30 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Wed Jul 31 13:00:14 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: E:/TTTN/Z-waveProgrammer/QFN50P500X500X100-29N.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  S_R325_325_M325_325 being dumped.
+
+  S_R81_26_M81_26_P81_26 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                2
+
+Total number of symbols dumped:            0
+*****************************************************
+

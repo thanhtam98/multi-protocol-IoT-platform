@@ -1,0 +1,20 @@
+{ Using PSTWRITER 16.6.0 d001Oct-31-2019 at 13:50:16 }
+
+#1 WARNING(ORCAP-36006): Part Name "HEADER 4_HEADER4PITCH100MIL_HEADER 4" is renamed to "HEADER 4_HEADER4PITCH100MIL_HEA".
+#2 WARNING(ORCAP-36006): Part Name "RELAY SPDT_0_RELAY_5PIN_RELAY SPDT" is renamed to "RELAY SPDT_0_RELAY_5PIN_RELAY S".
+#3 WARNING(ORCAP-36006): Part Name "ZM5202_ZM5202_D_ZM5202_ZM5202AU-CME3R" is renamed to "ZM5202_ZM5202_D_ZM5202_ZM5202AU".
+#4 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package ZM5202 , U2: SCHEMATIC1, PAGE1 (5.70, 2.20).
+#5 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#6" as visible power pin of same name already exists in Package ZM5202 , U2: SCHEMATIC1, PAGE1 (5.70, 2.20).
+#6 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#12" as visible power pin of same name already exists in Package ZM5202 , U2: SCHEMATIC1, PAGE1 (5.70, 2.20).
+#7 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#16" as visible power pin of same name already exists in Package ZM5202 , U2: SCHEMATIC1, PAGE1 (5.70, 2.20).
+#8 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#17" as visible power pin of same name already exists in Package ZM5202 , U2: SCHEMATIC1, PAGE1 (5.70, 2.20).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... E:\TTTN\Z-WARE_PIRANTHENA\ZWAVE_BOOSTERPACK\ALLEGRO/pstchip.dat
+
+Loading... E:\TTTN\Z-WARE_PIRANTHENA\ZWAVE_BOOSTERPACK\ALLEGRO/pstchip.dat
+
+Loading... E:\TTTN\Z-WARE_PIRANTHENA\ZWAVE_BOOSTERPACK\ALLEGRO/pstxprt.dat
+
+Loading... E:\TTTN\Z-WARE_PIRANTHENA\ZWAVE_BOOSTERPACK\ALLEGRO/pstxnet.dat
+packaging the design view...

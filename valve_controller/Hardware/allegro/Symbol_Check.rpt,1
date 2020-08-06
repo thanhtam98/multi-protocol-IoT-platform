@@ -1,0 +1,28 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : VALVECONTROLLER.brd                           )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Fri Oct 18 15:55:22 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	E:/TTTN/Orcad/lib/0_Lib/1_Footprint
+	.
+	symbols
+	..
+	../symbols
+	C:/Cadence/SPB_16.6/share/local/pcb/symbols
+	C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+	C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols
+
+
+All Symbols Found
+
+Total symbols placed:      111 out of 112
+
+
+Symbol Found:  C22	- E:/TTTN/Orcad/lib/0_Lib/1_Footprint/c0603.psm

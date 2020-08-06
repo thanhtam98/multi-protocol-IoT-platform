@@ -1,0 +1,32 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Wed Jul 31 15:03:23 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: E:/TTTN/Z-waveProgrammer/USBA.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  T_N92_142_M142 being dumped.
+
+  T_Q92_142_M142 being dumped.
+
+  T_N229_331_M331 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                3
+
+Total number of symbols dumped:            0
+*****************************************************
+

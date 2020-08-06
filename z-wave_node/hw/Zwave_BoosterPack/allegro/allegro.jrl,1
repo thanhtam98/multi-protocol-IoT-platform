@@ -1,0 +1,42 @@
+\t (00:00:04) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:04)     Journal start - Fri Nov 01 09:12:09 2019
+\t (00:00:04)         Host=NTT-ASUSROG User=NguyenThanhTam Pid=6608 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:05) Searching for nsWare programs v2.78
+   (00:00:05) 	NsWare directory found: E:/CAD/pcbenv/nsWare/
+   (00:00:05) 	NsWare programs must reside in this directory!
+   (00:00:05) Loading axlcore.cxt 
+   (00:00:05) function PinVia_Overlap_FinishEnterFun redefined
+   (00:00:05) function Find_Point_On_Line_From_Distant redefined
+   (00:00:05) function Find_Point_Quadrature_Line redefined
+   (00:00:05) function Line_Line_Intersect redefined
+   (00:00:05) function _getPinsNet redefined
+   (00:00:05) function _getBranchs redefined
+   (00:00:05) function _getPaths redefined
+   (00:00:05) function _get2PointsPath redefined
+   (00:00:05) function _checkElementList redefined
+   (00:00:05) function _getSurroundPoints redefined
+   (00:00:05) function _getListPointsLPaths redefined
+   (00:00:05) function _checkPathPoint redefined
+   (00:00:05) function _deleteElementList redefined
+   (00:00:05) function _checkElementList redefined
+   (00:00:05) function _deleteElementList redefined
+   (00:00:05) function Find_Point_On_Line_From_Distant redefined
+   (00:00:05) function Find_Point_Quadrature_Line redefined
+   (00:00:05) function Is_Point_On_List redefined
+   (00:00:05) function Line_Line_Intersect redefined
+   (00:00:05) function Line_Line_Distant redefined
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: E:/TTTN/Z-ware_PirAnthena/Zwave_BoosterPack/allegro/ZWAVE_BOOSTERPACK.brd
+\i (00:00:07) trapsize 7117
+\i (00:00:07) trapsize 6951
+\i (00:00:07) trapsize 7146
+\i (00:00:07) trapsize 7227
+\i (00:00:08) trapsize 8740
+\i (00:00:08) trapsize 8896
+\t (00:00:08) Grids are drawn 40.000, 40.000 apart for enhanced viewability.
+\i (00:00:08) trapsize 36224
+\i (00:00:09) generaledit 
+\i (00:00:12) exit 
+\t (00:00:12)     Journal end - Fri Nov 01 09:12:17 2019

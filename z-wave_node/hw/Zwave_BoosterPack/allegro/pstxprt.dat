@@ -1,0 +1,360 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Oct-31-2019 at 13:50:18 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ZWAVE_BOOSTERPACK';
+ POST_TIME='Oct 15 2014 05:53:32';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_C0603_DISCRETE_104_':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS2070509@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins2070509@discrete.\cap np.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins2070509@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_CAP_1210_10UF_':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS7878369@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins7878369@discrete.\cap.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins7878369@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_CAP_1210_10UF_':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS7880680@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins7880680@discrete.\cap.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins7880680@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_C0603_DISCRETE_0.1UF_':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS1830815@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins1830815@discrete.\cap np.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins1830815@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_CAP_1210_10UF_':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS7874102@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins7874102@discrete.\cap.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins7874102@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C-10PF/50V-SMD0805_C0603_NC':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS1831103@CAPACITOR.C-10PF/50V-SMD0805.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins1831103@capacitor.\c-10pf/50v-smd0805.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins1831103@capacitor.\c-10pf/50v-smd0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C-6PF/50V-SMD0805_C0603_NC':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS1831087@CAPACITOR.C-6PF/50V-SMD0805.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins1831087@capacitor.\c-6pf/50v-smd0805.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins1831087@capacitor.\c-6pf/50v-smd0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP 0603_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS1831181@AUTOTALAB.CAP 0603.NORMAL(SCH_1)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins1831181@autotalab.\cap 0603.normal\(sch_1)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins1831181@autotalab.\cap 0603.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS1831251@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins1831251@discrete.\cap np.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins1831251@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LED0805_LED':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS7868504@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins7868504@discrete.\led.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins7868504@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_DIODE_DO-41_DIODE':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS2070710@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins2070710@discrete.\diode.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins2070710@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 2_DOMINO2_5_DC12V':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS1851732@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins1851732@connector.\header 2.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins1851732@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER 4_HEADER4PITCH100MIL_HEA':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS7861867@CONNECTOR.HEADER 4.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins7861867@connector.\header 4.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins7861867@connector.\header 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 2_HEADER-2_3V3':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS7864070@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins7864070@connector.\header 2.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins7864070@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'HEADER 4_HEADER4PITCH100MIL_IO':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS7883441@CONNECTOR.HEADER 4.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins7883441@connector.\header 4.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins7883441@connector.\header 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'HEADER 1_HEADER_1_3MM_HEADER 1':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS7880456@CONNECTOR.HEADER 1.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins7880456@connector.\header 1.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins7880456@connector.\header 1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'HEADER 3_DOMINO3_5MM_HEADER 3':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS7875347@CONNECTOR.HEADER 3.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins7875347@connector.\header 3.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins7875347@connector.\header 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'HEADER 6_HEADER-6_ISP':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS1831005@CONNECTOR.HEADER 6.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins1831005@connector.\header 6.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins1831005@connector.\header 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'L-8.2NH-SMD0805_C0603_22NH':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS1831123@INDUCTOR.L-8.2NH-SMD0805.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins1831123@inductor.\l-8.2nh-smd0805.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins1831123@inductor.\l-8.2nh-smd0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LS1 'RELAY SPDT_0_RELAY_5PIN_RELAY S':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS1831941@ZWAVE_BOOSTERPACK.RELAY SPDT_0.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins1831941@zwave_boosterpack.\relay spdt_0.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins1831941@zwave_boosterpack.\relay spdt_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH1 'MOUNTING HOLE_MH_4MM_HOLE 4MM':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS7875100@HUY_LIB.MOUNTING HOLE.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins7875100@huy_lib.\mounting hole.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins7875100@huy_lib.\mounting hole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH2 'MOUNTING HOLE_MH_4MM_HOLE 4MM':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS7888637@HUY_LIB.MOUNTING HOLE.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins7888637@huy_lib.\mounting hole.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins7888637@huy_lib.\mounting hole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 '2N1208_0_SOT23_C1815':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS1851354@VALVES.2N1208_0.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins1851354@valves.\2n1208_0.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins1851354@valves.\2n1208_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 '2N1208_0_SOT23_C1815':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS7882375@VALVES.2N1208_0.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins7882375@valves.\2n1208_0.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins7882375@valves.\2n1208_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR 0603_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS7868425@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins7868425@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins7868425@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR 0603_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS1831161@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins1831161@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins1831161@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_R0603_4K7':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS2073877@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins2073877@discrete.\r.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins2073877@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS7885801@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins7885801@discrete.\r.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins7885801@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RES-SM0402_0_R0603_DISCRETE_10K':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS1831341@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins1831341@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins1831341@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS7882439@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins7882439@discrete.\r.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins7882439@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_R0603_4K7':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS7882403@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins7882403@discrete.\r.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins7882403@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS7886146@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins7886146@discrete.\r.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins7886146@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'AMS1117/LM1117_1_SOT-223_LM1117':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS2070569@Z-WAVE PROG.AMS1117/LM1117_1.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins2070569@\z-wave prog\.\ams1117/lm1117_1.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins2070569@\z-wave prog\.\ams1117/lm1117_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'ZM5202_ZM5202_D_ZM5202_ZM5202AU':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS1830853@LIBRARY1.ZM5202.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins1830853@library1.\zm5202.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins1830853@library1.\zm5202.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'CAT25C02_0_TSSOP-8_CAT25256':;
+
+SECTION_NUMBER 1
+ '@ZWAVE_BOOSTERPACK.SCHEMATIC1(SCH_1):INS1831223@STACKUP_BOARD.CAT25C02_0.NORMAL(CHIPS)':
+ C_PATH='@zwave_boosterpack.schematic1(sch_1):ins1831223@stackup_board.\cat25c02_0.normal\(chips)',
+ P_PATH='@zwave_boosterpack.schematic1(sch_1):page1_ins1831223@stackup_board.\cat25c02_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

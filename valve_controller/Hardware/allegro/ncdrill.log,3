@@ -1,0 +1,72 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : VALVECONTROLLER.brd                           )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Fri Nov 01 09:15:51 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-360): Design precision is greater than that of the drill output file data.
+ WARNING(SPMHMF-361): Data rounding errors are very possible.
+
+
+ Drill files being output to directory 'E:/TTTN/ValveController/Hardware/allegro' ...
+
+
+
+     'VALVECONTROLLER-1-2.drl' created for holes connecting TOP and BOTTOM
+     ---------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  12.0000    0.0000/ 12.0000      PLATED        347
+            2.  20.0000    3.0000/  3.0000      PLATED          2
+            3.  29.5280    0.0000/  0.0000      PLATED         32
+            4.  30.0000    0.0000/  0.0000      PLATED          8
+            5.  35.0000    0.0000/  0.0000      PLATED         10
+            6.  38.0000    3.0000/  3.0000      PLATED          8
+            7.  39.3700    0.0000/  0.0000      PLATED          8
+            8.  40.0000    3.0000/  3.0000      PLATED         30
+            9.  40.0000    5.0000/  0.0000      PLATED          1
+           10.  47.2440    0.0000/  0.0000      PLATED          1
+           11.  50.0000    0.0000/  0.0000      PLATED          5
+           12.  55.0000    0.0000/  0.0000      PLATED         38
+           13.  76.0000    0.0000/  0.0000      PLATED          2
+           14. 120.0000    0.0000/  0.0000      PLATED          4
+           15.  47.0000    0.0000/  0.0000  NON_PLATED          1
+           16.  51.0000    0.0000/  0.0000  NON_PLATED          1
+           17. 128.0000    0.0000/  0.0000  NON_PLATED          2
+
+     ---- Total holes:                                        500
+
+     ---- Total head travel:              18.20 feet (5.55 meters)
+

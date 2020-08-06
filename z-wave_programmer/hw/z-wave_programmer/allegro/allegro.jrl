@@ -1,0 +1,77 @@
+\t (00:00:04) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:04)     Journal start - Sat Aug 17 15:58:54 2019
+\t (00:00:04)         Host=NTT-ASUSROG User=NguyenThanhTam Pid=12448 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe E:\TTTN\Z-waveProgrammer\allegro\USBA_male.dra
+\t (00:00:04) 
+   (00:00:05) Searching for nsWare programs v2.78
+   (00:00:05) 	NsWare directory found: E:/CAD/pcbenv/nsWare/
+   (00:00:05) 	NsWare programs must reside in this directory!
+   (00:00:05) Loading axlcore.cxt 
+   (00:00:05) function PinVia_Overlap_FinishEnterFun redefined
+   (00:00:05) function Find_Point_On_Line_From_Distant redefined
+   (00:00:05) function Find_Point_Quadrature_Line redefined
+   (00:00:05) function Line_Line_Intersect redefined
+   (00:00:05) function _getPinsNet redefined
+   (00:00:05) function _getBranchs redefined
+   (00:00:05) function _getPaths redefined
+   (00:00:05) function _get2PointsPath redefined
+   (00:00:05) function _checkElementList redefined
+   (00:00:05) function _getSurroundPoints redefined
+   (00:00:05) function _getListPointsLPaths redefined
+   (00:00:05) function _checkPathPoint redefined
+   (00:00:05) function _deleteElementList redefined
+   (00:00:05) function _checkElementList redefined
+   (00:00:05) function _deleteElementList redefined
+   (00:00:05) function Find_Point_On_Line_From_Distant redefined
+   (00:00:05) function Find_Point_Quadrature_Line redefined
+   (00:00:05) function Is_Point_On_List redefined
+   (00:00:05) function Line_Line_Intersect redefined
+   (00:00:05) function Line_Line_Distant redefined
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: E:/TTTN/Z-waveProgrammer/allegro/USBA_male.dra
+\i (00:00:07) trapsize 2241
+\i (00:00:07) trapsize 2188
+\i (00:00:07) trapsize 2250
+\i (00:00:07) trapsize 2683
+\i (00:00:07) trapsize 2683
+\i (00:00:08) generaledit 
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -2.8472 1.5922
+\i (00:00:10) trapsize 1342
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -2.5252 1.7264
+\i (00:00:10) trapsize 671
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -2.5252 1.7264
+\i (00:00:11) trapsize 1342
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out -2.5252 1.7264
+\i (00:00:12) trapsize 2683
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in -2.5253 1.7264
+\i (00:00:15) trapsize 1342
+\i (00:00:20) pick grid -1.0227 1.0824
+\t (00:00:20) last pick:  -1.0000 1.0000
+\i (00:00:21) pick grid 0.7481 1.0019
+\t (00:00:21) last pick:  0.7500 1.0000
+\i (00:35:44) exit 
+\t (00:35:45)     Journal end - Sat Aug 17 16:34:34 2019
+6.4892 -1.8555
+\t (00:00:21) last pick:  -6.3500 -1.9050
+\i (00:00:24) setwindow text
+\i (00:00:24) close 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) redraw 
+\i (00:01:30) redraw 
+\i (00:01:31) 3d_viewer 
+\i (00:01:32) setwindow pcb3D
+\i (00:01:32) trapsize 1628
+\i (00:01:32) setwindow pcb
+\i (00:01:32) generaledit 
+\i (00:35:04) exit 
+\t (00:35:05)     Journal end - Sat Aug 17 16:34:34 2019

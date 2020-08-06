@@ -1,0 +1,262 @@
+; Allegro sub-drawing file
+; Created by Allegro PCB Designer (was Performance L); version= 16.6 S016
+
+_clp_lay_drw = axlDesignType(nil)
+_clp_sym = nil
+_clp_pbuf  = nil
+_clp_cinfo = make_clp_coord_info()
+_clp_cinfo->f_rotation = 0.0
+_clp_cinfo->l_origin = '(0.0 0.0)
+_clp_text_orient = make_axlTextOrientation()
+_clp_pin_text = make_axlPinText()
+_clp_cinfo->t_from_units = "mils"
+_clp_cinfo->t_to_units = car(axlDBGetDesignUnits())
+_clp_cinfo->preserve_shape_net = nil
+_clp_cinfo->preserve_via_net = nil
+_clp_cinfo->snapToObject = nil
+_clp_group_info = make_clp_group_info()
+_clp_cinfo->group_info = _clp_group_info
+_clp_accuracy =2
+_clpCheckAccuracy(_clp_accuracy _clp_cinfo->t_from_units	 	_clp_cinfo->t_to_units)
+(putprop _clp_cinfo (list (_clpAdjustPt 1650:825 _clp_cinfo)	
+	(_clpAdjustPt 2735:2470 _clp_cinfo)) 'l_extents)
+(putprop _clp_cinfo (_clpAdjustPt '(0.0 0.0) _clp_cinfo) 'l_zeropt)
+(unless (_clpSelectRotOrg _clp_cinfo)
+	(error "CANCEL"))
+_clp_clip_prop_value = _clpGetClipPropValue()
+
+printf(" 10 percent completed")
+newline()
+
+printf(" 20 percent completed")
+newline()
+
+printf(" 30 percent completed")
+newline()
+
+printf(" 40 percent completed")
+newline()
+
+printf(" 50 percent completed")
+newline()
+
+printf(" 60 percent completed")
+newline()
+
+printf(" 70 percent completed")
+newline()
+
+printf(" 80 percent completed")
+newline()
+
+printf(" 90 percent completed")
+newline()
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 2170:2470 _clp_cinfo))
+	(_clpMKSConvert 0.000000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2170:2425 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2415:2425 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2415:2470 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2170:2470 _clp_cinfo))
+_clp_dbid = _clpDBCreateOpenShape(_clp_path  t "PACKAGE GEOMETRY/SOLDERMASK_TOP" nil _clp_sym)
+
+_clp_dbid = _clpDBCreateCloseShape(_clp_dbid)
+
+_clp_dbid = car(_clp_dbid)
+when(_clp_dbid _clpDBAddProp( _clp_dbid list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))))
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 1650:2325 _clp_cinfo))
+	(_clpMKSConvert 0.000000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1650:2470 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2110:2470 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2110:2425 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1696:2425 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1696:2325 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1650:2325 _clp_cinfo))
+_clp_dbid = _clpDBCreateOpenShape(_clp_path  t "PACKAGE GEOMETRY/SOLDERMASK_TOP" nil _clp_sym)
+
+_clp_dbid = _clpDBCreateCloseShape(_clp_dbid)
+
+_clp_dbid = car(_clp_dbid)
+when(_clp_dbid _clpDBAddProp( _clp_dbid list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))))
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 1650:2000 _clp_cinfo))
+	(_clpMKSConvert 0.000000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1696:2000 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1696:2280 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1650:2280 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1650:2000 _clp_cinfo))
+_clp_dbid = _clpDBCreateOpenShape(_clp_path  t "PACKAGE GEOMETRY/SOLDERMASK_TOP" nil _clp_sym)
+
+_clp_dbid = _clpDBCreateCloseShape(_clp_dbid)
+
+_clp_dbid = car(_clp_dbid)
+when(_clp_dbid _clpDBAddProp( _clp_dbid list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))))
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 1650:1725 _clp_cinfo))
+	(_clpMKSConvert 0.000000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1696:1725 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1696:1950 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1650:1950 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1650:1725 _clp_cinfo))
+_clp_dbid = _clpDBCreateOpenShape(_clp_path  t "PACKAGE GEOMETRY/SOLDERMASK_TOP" nil _clp_sym)
+
+_clp_dbid = _clpDBCreateCloseShape(_clp_dbid)
+
+_clp_dbid = car(_clp_dbid)
+when(_clp_dbid _clpDBAddProp( _clp_dbid list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))))
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 1650:1307 _clp_cinfo))
+	(_clpMKSConvert 0.000000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1652:1305 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1696:1305 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1696:1660 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1650:1660 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1650:1307 _clp_cinfo))
+_clp_dbid = _clpDBCreateOpenShape(_clp_path  t "PACKAGE GEOMETRY/SOLDERMASK_TOP" nil _clp_sym)
+
+_clp_dbid = _clpDBCreateCloseShape(_clp_dbid)
+
+_clp_dbid = car(_clp_dbid)
+when(_clp_dbid _clpDBAddProp( _clp_dbid list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))))
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 1650:1085 _clp_cinfo))
+	(_clpMKSConvert 0.000000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1696:1085 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1696:1195 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1650:1195 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1650:1085 _clp_cinfo))
+_clp_dbid = _clpDBCreateOpenShape(_clp_path  t "PACKAGE GEOMETRY/SOLDERMASK_TOP" nil _clp_sym)
+
+_clp_dbid = _clpDBCreateCloseShape(_clp_dbid)
+
+_clp_dbid = car(_clp_dbid)
+when(_clp_dbid _clpDBAddProp( _clp_dbid list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))))
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 1650:825 _clp_cinfo))
+	(_clpMKSConvert 0.000000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1650:950 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1696:950 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1696:871 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1790:871 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1790:825 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 1650:825 _clp_cinfo))
+_clp_dbid = _clpDBCreateOpenShape(_clp_path  t "PACKAGE GEOMETRY/SOLDERMASK_TOP" nil _clp_sym)
+
+_clp_dbid = _clpDBCreateCloseShape(_clp_dbid)
+
+_clp_dbid = car(_clp_dbid)
+when(_clp_dbid _clpDBAddProp( _clp_dbid list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))))
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 2268:825 _clp_cinfo))
+	(_clpMKSConvert 0.000000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2268:871 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2136:871 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2125:860 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2125:825 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2268:825 _clp_cinfo))
+_clp_dbid = _clpDBCreateOpenShape(_clp_path  t "PACKAGE GEOMETRY/SOLDERMASK_TOP" nil _clp_sym)
+
+_clp_dbid = _clpDBCreateCloseShape(_clp_dbid)
+
+_clp_dbid = car(_clp_dbid)
+when(_clp_dbid _clpDBAddProp( _clp_dbid list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))))
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 2430:825 _clp_cinfo))
+	(_clpMKSConvert 0.000000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2430:850 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2440:860 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2535:860 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2546:871 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2689:871 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2689:900 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2735:900 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2735:825 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2430:825 _clp_cinfo))
+_clp_dbid = _clpDBCreateOpenShape(_clp_path  t "PACKAGE GEOMETRY/SOLDERMASK_TOP" nil _clp_sym)
+
+_clp_dbid = _clpDBCreateCloseShape(_clp_dbid)
+
+_clp_dbid = car(_clp_dbid)
+when(_clp_dbid _clpDBAddProp( _clp_dbid list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))))
+
+_clp_path  = (_clpPathStart (list (_clpAdjustPt 2625:2470 _clp_cinfo))
+	(_clpMKSConvert 0.000000 _clp_cinfo->t_from_units _clp_cinfo->t_to_units))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2580:2470 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2580:1875 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2625:1875 _clp_cinfo))
+_clp_path  = (_clpPathLine _clp_path (_clpMKSConvert 0.000000 _clp_cinfo->t_from_units
+	_clp_cinfo->t_to_units) (_clpAdjustPt 2625:2470 _clp_cinfo))
+_clp_dbid = _clpDBCreateOpenShape(_clp_path  t "PACKAGE GEOMETRY/SOLDERMASK_TOP" nil _clp_sym)
+
+_clp_dbid = _clpDBCreateCloseShape(_clp_dbid)
+
+_clp_dbid = car(_clp_dbid)
+when(_clp_dbid _clpDBAddProp( _clp_dbid list(
+	list("CLIP_DRAWING" _clp_clip_prop_value))))
+
+printf(" 100 percent completed")
+newline()
+
+if(_clpPinText then axlMsgPut(list("Text pasted without CLIP_DRAWING property." _clpAxlMsg.classWarn))
+_clpDisplayMessage())
+axlFlushDisplay()

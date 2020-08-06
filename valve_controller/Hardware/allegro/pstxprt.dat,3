@@ -1,0 +1,1200 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Oct-31-2019 at 14:55:49 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='VALVECONTROLLER';
+ POST_TIME='Oct 15 2014 05:53:32';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ B1 'SW PUSHBUTTON-SPST-2_0_B3U-1000':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7875480@STM32F407_MAINBOARD.SW PUSHBUTTON-SPST-2_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7875480@stm32f407_mainboard.\sw pushbutton-spst-2_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7875480@stm32f407_mainboard.\sw pushbutton-spst-2_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'CAP NP_C0805_DISCRETE_10NF/25V':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7951197@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7951197@discrete.\cap np.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7951197@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_CAP_1210_22U/6.3V':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7972153@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7972153@discrete.\cap np.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7972153@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP_CAP_AL_D_220U/16V':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7972057@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7972057@discrete.\cap.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7972057@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP 0603_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7972121@AUTOTALAB.CAP 0603.NORMAL(SCH_1)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7972121@autotalab.\cap 0603.normal\(sch_1)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7972121@autotalab.\cap 0603.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP 0603_C0805_10UF_CC0603KRX7R':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7858875@AUTOTALAB.CAP 0603.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7858875@autotalab.\cap 0603.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7858875@autotalab.\cap 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_C0603_DISCRETE_100NF_C06':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7858683@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7858683@discrete.\cap np.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7858683@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP 0603_C0603_1UF_CC0603KRX7R9':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7858939@AUTOTALAB.CAP 0603.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7858939@autotalab.\cap 0603.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7858939@autotalab.\cap 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_C0603_DISCRETE_100NF_C06':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7858795@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7858795@discrete.\cap np.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7858795@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP_CAP_AL_D_220UF/10V_87510524':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7858747@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7858747@discrete.\cap.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7858747@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_0_C0603_18PF_CL10C180JB8':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7869558@STM32F407_MAINBOARD.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7869558@stm32f407_mainboard.\cap np_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7869558@stm32f407_mainboard.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_0_C0603_18PF_CL10C180JB8':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7869584@STM32F407_MAINBOARD.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7869584@stm32f407_mainboard.\cap np_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7869584@stm32f407_mainboard.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_CAP_AL_D_100UF/35V':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7951387@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7951387@discrete.\cap.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7951387@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_0_C0603_18PF_CL10C180JB8':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7856599@STM32F407_MAINBOARD.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7856599@stm32f407_mainboard.\cap np_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7856599@stm32f407_mainboard.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_0_C0603_18PF_CL10C180JB8':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7856579@STM32F407_MAINBOARD.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7856579@stm32f407_mainboard.\cap np_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7856579@stm32f407_mainboard.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_0_C0603_0.1UF/6.3V_C0603':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7875051@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7875051@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7875051@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_0_C0603_0.1UF/6.3V_C0603':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7875035@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7875035@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7875035@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_0_C0603_0.1UF/6.3V_C0603':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7875019@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7875019@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7875019@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_0_C0603_0.1UF/6.3V_C0603':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7874999@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7874999@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7874999@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_0_C0603_0.1UF/6.3V_C0603':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7874979@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7874979@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7874979@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_0_C0603_0.1UF_C0603C104K':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7874915@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7874915@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7874915@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_0_C0603_0.1UF_C0603C104K':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7936371@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7936371@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7936371@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_0_C0603_0.1UF/6.3V_C0603':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7888289@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7888289@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7888289@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_USER_C0805_100NF/25V':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7950909@HUY_LIB.CAP_USER.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7950909@huy_lib.\cap_user.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7950909@huy_lib.\cap_user.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_0_C0603_0.1UF/6.3V_C0603':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7888237@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7888237@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7888237@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_0_C0603_0.1UF/6.3V_C0603':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7888305@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7888305@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7888305@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_0_C0603_0.1UF/6.3V_C0603':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7875446@STM32F407_MAINBOARD.CAP NP_0.NORMAL(SCH_1)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7875446@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7875446@stm32f407_mainboard.\cap np_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP_C0805_100UF':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7910796@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7910796@discrete.\cap.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page3_ins7910796@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP 0603_C0805_100NF':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7910853@AUTOTALAB.CAP 0603.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7910853@autotalab.\cap 0603.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page3_ins7910853@autotalab.\cap 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP 0603_C0805_100NF':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7910837@AUTOTALAB.CAP 0603.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7910837@autotalab.\cap 0603.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page3_ins7910837@autotalab.\cap 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7910812@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7910812@discrete.\cap.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page3_ins7910812@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP_C0603_10UF_':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7861774@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7861774@discrete.\cap.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page4_ins7861774@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP NP_C0603_DISCRETE_0.1UF_':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7861630@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7861630@discrete.\cap np.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page4_ins7861630@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7862202@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7862202@discrete.\cap np.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page4_ins7862202@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_USER_C0805_100NF/25V':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7951265@HUY_LIB.CAP_USER.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7951265@huy_lib.\cap_user.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7951265@huy_lib.\cap_user.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'C-10PF/50V-SMD0805_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7861898@CAPACITOR.C-10PF/50V-SMD0805.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7861898@capacitor.\c-10pf/50v-smd0805.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page4_ins7861898@capacitor.\c-10pf/50v-smd0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'C-6PF/50V-SMD0805_C0603_6PF':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7861878@CAPACITOR.C-6PF/50V-SMD0805.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7861878@capacitor.\c-6pf/50v-smd0805.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page4_ins7861878@capacitor.\c-6pf/50v-smd0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7861992@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7861992@discrete.\cap np.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page4_ins7861992@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP NP_C0805_DISCRETE_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7886090@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7886090@discrete.\cap np.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page5_ins7886090@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP NP_C0805_DISCRETE_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7961645@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7961645@discrete.\cap np.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page5_ins7961645@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_CAPSMD_D6P3MM_100UF/25V':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7951293@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7951293@discrete.\cap.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7951293@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_C0603_DISCRETE_10NF':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7972089@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7972089@discrete.\cap np.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7972089@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_CAP_AL_D_100UF/35V':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7972137@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7972137@discrete.\cap.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7972137@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP 0603_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7972217@AUTOTALAB.CAP 0603.NORMAL(SCH_1)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7972217@autotalab.\cap 0603.normal\(sch_1)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7972217@autotalab.\cap 0603.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_CAP_1210_10U/35V':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7972233@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7972233@discrete.\cap np.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7972233@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_DO214AC_SMA_1N4007':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7951329@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7951329@discrete.\diode.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7951329@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'LED_LED0805_LED':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7958801@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7958801@discrete.\led.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page4_ins7958801@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'SS34_0_SOD123_1N5819':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7951153@IOM.SS34_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7951153@iom.\ss34_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7951153@iom.\ss34_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'SS34_2_SOD123_1N5819':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7972105@STM32F4_CONTROLLER.SS34_2.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7972105@stm32f4_controller.\ss34_2.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7972105@stm32f4_controller.\ss34_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_0_LED0805_LED':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7858923@STM32F4_CONTROLLER.LED_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7858923@stm32f4_controller.\led_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7858923@stm32f4_controller.\led_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_0_LED0805_LED':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7976025@STM32F4_CONTROLLER.LED_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7976025@stm32f4_controller.\led_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7976025@stm32f4_controller.\led_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'LED_0_LED0805_LED':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7976231@STM32F4_CONTROLLER.LED_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7976231@stm32f4_controller.\led_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7976231@stm32f4_controller.\led_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'LED_0_LED0805_LED':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7976829@STM32F4_CONTROLLER.LED_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7976829@stm32f4_controller.\led_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7976829@stm32f4_controller.\led_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'LED_LED0805_LED':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7889127@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7889127@discrete.\led.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7889127@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'LED_LED0805_LED':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7975304@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7975304@discrete.\led.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7975304@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ E1 'ANTENNA_0_HEADER_1_3MM_ANTENNA':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7862144@VALVES.ANTENNA_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7862144@valves.\antenna_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page4_ins7862144@valves.\antenna_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN JACK PWR_CONN_JACK_DC_16VD':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7951361@CONNECTOR.CONN JACK PWR.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7951361@connector.\conn jack pwr.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7951361@connector.\conn jack pwr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'RJ45-8N4-B_TE_RJ45-8N4-B_RJ45-8':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7914012@RJ45.RJ45-8N4-B.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7914012@rj45.\rj45-8n4-b.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page5_ins7914012@rj45.\rj45-8n4-b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 'HEADER 5_HEADER_5_GSM':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7975732@CONNECTOR.HEADER 5.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7975732@connector.\header 5.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page5_ins7975732@connector.\header 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER 2_DOMINO2_5_HEADER 2':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7952262@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7952262@connector.\header 2.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7952262@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 5_HEADER_5_JTAG/STSW':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7977523@CONNECTOR.HEADER 5.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7977523@connector.\header 5.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7977523@connector.\header 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'USB MIN_6_CON5_MICROUSB_SKT_SM_':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7870456@RADXA_ROCK_PRO.USB MIN_6.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7870456@radxa_rock_pro.\usb min_6.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7870456@radxa_rock_pro.\usb min_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'HEADER 6_DOMINO6-3_5_HEADER 6':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7924827@CONNECTOR.HEADER 6.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7924827@connector.\header 6.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page3_ins7924827@connector.\header 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'HEADER 6_DOMINO6-3_5_HEADER 6':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7924971@CONNECTOR.HEADER 6.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7924971@connector.\header 6.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page3_ins7924971@connector.\header 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'HEADER 6_DOMINO6-3_5_HEADER 6':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7925013@CONNECTOR.HEADER 6.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7925013@connector.\header 6.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page3_ins7925013@connector.\header 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'HEADER 6_DOMINO6-3_5_HEADER 6':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7925055@CONNECTOR.HEADER 6.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7925055@connector.\header 6.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page3_ins7925055@connector.\header 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'HEADER 6_HEADER-6_ZW_JTAG':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7861798@CONNECTOR.HEADER 6.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7861798@connector.\header 6.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page4_ins7861798@connector.\header 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JR1 'CONN FB 8-R_HEADER_4X2_ESP8266':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7878547@CONNECTOR.CONN FB 8-R.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7878547@connector.\conn fb 8-r.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page5_ins7878547@connector.\conn fb 8-r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_IND_6X6MM_8.8UH/1.7A':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7951173@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7951173@discrete.\inductor.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7951173@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_IND_6X6MM_8.8UH/1.7A':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7972289@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7972289@discrete.\inductor.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7972289@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'L-8.2NH-SMD0805_C0603_8.2NH':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7861920@INDUCTOR.L-8.2NH-SMD0805.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7861920@inductor.\l-8.2nh-smd0805.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page4_ins7861920@inductor.\l-8.2nh-smd0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH1 'MOUNTING HOLE_MH_3MM_1_HOLE 4MM':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7995625@HUY_LIB.MOUNTING HOLE.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7995625@huy_lib.\mounting hole.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7995625@huy_lib.\mounting hole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_R0805_10K':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7951249@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7951249@discrete.\resistor.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7951249@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR 0603_R0603_4K7':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7976247@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7976247@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7976247@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR 0603_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7976845@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7976845@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7976845@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR_0_R0603_4.7K_RC0603JR-':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7856495@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7856495@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7856495@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RESISTOR_R0603_0R/NC':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7938786@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7938786@library1.\resistor.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7938786@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RESISTOR_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7873530@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7873530@library1.\resistor.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7873530@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'RESISTOR_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7873556@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7873556@library1.\resistor.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7873556@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RESISTOR_R0603_0R/NC':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7870520@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7870520@library1.\resistor.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7870520@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RESISTOR 0603_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7935672@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7935672@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7935672@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'RESISTOR 0603_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7935708@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7935708@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7935708@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'RESISTOR_0_R0603_4.7K_RC0603JR-':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7875430@STM32F407_MAINBOARD.RESISTOR_0.NORMAL(SCH_1)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7875430@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7875430@stm32f407_mainboard.\resistor_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_0_R0805_330K':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7950925@FPGA.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7950925@fpga.\resistor_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7950925@fpga.\resistor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'RESISTOR 0603_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7888253@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7888253@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7888253@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'RESISTOR 0603_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7888221@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7888221@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7888221@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'RESISTOR 0603_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7888321@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7888321@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7888321@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'RES-SM0402_0_R0603_DISCRETE_360':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7889151@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7889151@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7889151@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'RES-SM0402_0_R0603_DISCRETE_360':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7975320@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7975320@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7975320@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'RESISTOR_RES_DIP_0R/NC':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7939462@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7939462@library1.\resistor.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page3_ins7939462@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'RESISTOR_RES_DIP_0R/NC':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7939434@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7939434@library1.\resistor.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page3_ins7939434@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'RESISTOR_RES_DIP_0R/NC':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7939549@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7939549@library1.\resistor.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page3_ins7939549@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'RESISTOR_RES_DIP_0R/NC':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7939521@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7939521@library1.\resistor.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page3_ins7939521@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'RES-SM0402_0_R0603_DISCRETE_22':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7862182@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7862182@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page4_ins7862182@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_0_R0805_10K':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7951057@FPGA.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7951057@fpga.\resistor_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7951057@fpga.\resistor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'RES-SM0402_0_R0603_DISCRETE_360':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7958782@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7958782@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page4_ins7958782@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'RES-SM0402_0_R0603_DISCRETE_10K':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7862074@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7862074@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page4_ins7862074@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_0_R0805_20K':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7950941@FPGA.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7950941@fpga.\resistor_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7950941@fpga.\resistor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RES-SM0402_0_R0603_DISCRETE_10K':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7972273@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7972273@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7972273@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RES-SM0402_0_R0603_DISCRETE_49.':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7972169@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7972169@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7972169@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RES-SM0402_0_R0603_DISCRETE_10K':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7972073@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7972073@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7972073@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR 0603_R0603_470':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7859011@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7859011@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7859011@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR 0603_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7976041@AUTOTALAB.RESISTOR 0603.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7976041@autotalab.\resistor 0603.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7976041@autotalab.\resistor 0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW PUSHBUTTON-SPST-2_TACT_SWITC':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7888337@DISCRETE.SW PUSHBUTTON-SPST-2.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7888337@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7888337@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW PUSHBUTTON-SPST-2_TACT_SWITC':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7888269@DISCRETE.SW PUSHBUTTON-SPST-2.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7888269@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7888269@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'SW PUSHBUTTON-SPST-2_TACT_SWITC':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7888357@DISCRETE.SW PUSHBUTTON-SPST-2.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7888357@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7888357@discrete.\sw pushbutton-spst-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'PMIC_SOT23-6_SOT23-6_AP3211':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7951221@VLIB.PMIC_SOT23-6.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7951221@vlib.\pmic_sot23-6.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7951221@vlib.\pmic_sot23-6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'CAT25C02_0_TSSOP-8_CAT25256':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7861960@STACKUP_BOARD.CAT25C02_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7861960@stackup_board.\cat25c02_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page4_ins7861960@stackup_board.\cat25c02_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'MAX485_1_SOIC-8_MAX485':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7906257@VALVECONTROLLER.MAX485_1.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7906257@valvecontroller.\max485_1.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page5_ins7906257@valvecontroller.\max485_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'PMIC_SOT23-6_SOT23-6_AP3211':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7972249@VLIB.PMIC_SOT23-6.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7972249@vlib.\pmic_sot23-6.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7972249@vlib.\pmic_sot23-6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'RT9193-33GB_1_SOT-223_LM1117 3.':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7859027@STM32F407_MAINBOARD_V2.0.RT9193-33GB_1.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7859027@\stm32f407_mainboard_v2.0\.\rt9193-33gb_1.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page1_ins7859027@\stm32f407_mainboard_v2.0\.\rt9193-33gb_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'STM32-64P_0_LQFP-64_LQFP64':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7856223@VALVECONTROLLER.STM32-64P_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7856223@valvecontroller.\stm32-64p_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7856223@valvecontroller.\stm32-64p_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'CR2302_1_BAT_CR1220_3V':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7903308@VALVECONTROLLER.CR2302_1.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7903308@valvecontroller.\cr2302_1.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7903308@valvecontroller.\cr2302_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'AT2401A/SO_1_SOIC-8_AT2401A/SO':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7933460@VALVECONTROLLER.AT2401A/SO_1.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7933460@valvecontroller.\at2401a/so_1.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7933460@valvecontroller.\at2401a/so_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'L293D_2_DIP16_L293D':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7908018@VALVECONTROLLER.L293D_2.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7908018@valvecontroller.\l293d_2.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page3_ins7908018@valvecontroller.\l293d_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'L293D_1_DIP16_L293D':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7908068@VALVECONTROLLER.L293D_1.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7908068@valvecontroller.\l293d_1.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page3_ins7908068@valvecontroller.\l293d_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'ZM5202_ZM5202_A_ZM5202_ZM5202AU':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7861646@LIBRARY1.ZM5202.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7861646@library1.\zm5202.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page4_ins7861646@library1.\zm5202.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_XTAL_2P_TH_1P1MMP_CRYST':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7869516@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7869516@discrete.\crystal.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7869516@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'CRYSTAL-4_0_CRY3225_M_12M-18PPM':;
+
+SECTION_NUMBER 1
+ '@VALVECONTROLLER.SCHEMATIC1(SCH_1):INS7856615@STM32F407_MAINBOARD.CRYSTAL-4_0.NORMAL(CHIPS)':
+ C_PATH='@valvecontroller.schematic1(sch_1):ins7856615@stm32f407_mainboard.\crystal-4_0.normal\(chips)',
+ P_PATH='@valvecontroller.schematic1(sch_1):page2_ins7856615@stm32f407_mainboard.\crystal-4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dynamic Shape Status                                             )
+(                                                                     )
+(    Drawing          : VALVECONTROLLER.brd                           )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Tue Oct 29 22:53:02 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Dynamic shapes out of date: 3 out of 16
+  Current fill mode         : DISABLED
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+       State: Out of date  Point on shape: (12125.000 10295.000)  Net: GND
+
+    Layer = BOTTOM
+       State: Out of date  Point on shape: (10110.000 11930.000)  Net: VCC3.3V
+       State: Out of date  Point on shape: (8140.000 10290.000)  Net: GND

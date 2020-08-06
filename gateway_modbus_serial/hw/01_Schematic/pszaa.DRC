@@ -1,0 +1,91 @@
+Date and Time : 02/18/19 13:56:14
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict U5,R1OUT  Output Connected to Bidirectional
+                    SCHEMATIC1, 03_IO  (6.60, 7.10) 
+WARNING(ORCAP-1831): Unconnected pin U5,R2IN 
+                    SCHEMATIC1, 03_IO  (5.20, 7.20) 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections 3 
+                    SCHEMATIC1, 02_Power  (1.20, 1.40) 
+
+Checking For Unconnected Bus Nets
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Entire Design: STM32F4_CONTROLLER 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U25,IN  IN  16V
+                    SCHEMATIC1, 02_Power  (2.70, 0.60) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U1,VSS  VSS  GND
+                    SCHEMATIC1, 01_MCU  (6.20, 6.30) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U1,VSSA  VSSA  GND
+                    SCHEMATIC1, 01_MCU  (6.30, 6.30) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U1,VSS  VSS  GND
+                    SCHEMATIC1, 01_MCU  (6.40, 6.30) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U1,VSS  VSS  GND
+                    SCHEMATIC1, 01_MCU  (6.50, 6.30) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U1,VSS  VSS  GND
+                    SCHEMATIC1, 01_MCU  (6.60, 6.30) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? Y3,VCC  VCC  VCC3V3
+                    SCHEMATIC1, 04_Ethernet  (9.00, 0.60) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U1,VDD  VDD  VCC3V3
+                    SCHEMATIC1, 01_MCU  (4.40, 6.30) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U1,VDD  VDD  VCC3V3
+                    SCHEMATIC1, 01_MCU  (4.50, 6.30) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U1,VDD  VDD  VCC3V3
+                    SCHEMATIC1, 01_MCU  (4.80, 6.30) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U1,VDD  VDD  VCC3V3
+                    SCHEMATIC1, 01_MCU  (4.90, 6.30) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U1,VDD  VDD  VCC3V3
+                    SCHEMATIC1, 01_MCU  (5.00, 6.30) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U1,VDD  VDD  VCC3V3
+                    SCHEMATIC1, 01_MCU  (5.10, 6.30) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U21,VCC  VCC  VCC3V3
+                    SCHEMATIC1, 03_IO  (10.10, 0.80) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U22,VCC  VCC  VCC3V3
+                    SCHEMATIC1, 03_IO  (10.10, 2.50) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,VCC  VCC  VCC3V3
+                    SCHEMATIC1, 03_IO  (10.10, 4.40) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U5,VCC  VCC  VCC3V3
+                    SCHEMATIC1, 03_IO  (5.80, 6.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U24,VCC  VCC  VCC3V3
+                    SCHEMATIC1, 03_IO  (10.10, 6.50) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U26,VCC  VCC  VCC5V_B
+                    SCHEMATIC1, 02_Power  (4.20, 6.90) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------

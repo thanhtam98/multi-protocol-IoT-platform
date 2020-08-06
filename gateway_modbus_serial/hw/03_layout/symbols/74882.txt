@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"Kemet";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"8410777";"";
+"REVISION";"A";"";
+"DESIGN";"Capacitor MLCC FT-CAP 1210 3300pF 500V";"";
+"TraceParts.InstanceId";"10-07092016-11232539F6BN4XMOUQXH65UJNVSZT4A";"";
+"TraceParts.PartTitle";"Capacitor MLCC FT-CAP 1210 3300pF 500V";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.PartNumber";"10-07092016-112325";"";
+"REFERENCE";"C1210X332JCGACTU";"";
+"TIMESTAMP";"01/08/2016 14:34";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.ClassPath";"";"";

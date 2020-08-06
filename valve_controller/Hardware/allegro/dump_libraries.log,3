@@ -1,0 +1,32 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Thu Oct 31 13:35:28 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: E:/TTTN/ValveController/Hardware/allegro/hole4mm.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  VIA_KT being dumped.
+
+  HOLE3MM being dumped.
+
+  HOLE4MM being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                3
+
+Total number of symbols dumped:            0
+*****************************************************
+

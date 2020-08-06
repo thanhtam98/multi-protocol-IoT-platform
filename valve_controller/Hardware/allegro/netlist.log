@@ -1,0 +1,50 @@
+{ Using PSTWRITER 16.6.0 d001Oct-31-2019 at 14:56:09 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U4.38" ignored for U4: SCHEMATIC1, 2.MCU (5.40, 1.70). Connecting pin to net "DBG_LED_1".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U4.39" ignored for U4: SCHEMATIC1, 2.MCU (5.40, 1.70). Connecting pin to net "DBG_LED_2".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U4.37" ignored for U4: SCHEMATIC1, 2.MCU (5.40, 1.70). Connecting pin to net "GSM_RST".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U9.3" ignored for U9: SCHEMATIC1, 4.ZWave (3.10, 1.50). Connecting pin to net "ZM_INT0".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "J4.4" ignored for J4: SCHEMATIC1, 2.MCU (0.60, 4.40). Connecting pin to net "N7870518".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U9.4" ignored for U9: SCHEMATIC1, 4.ZWave (3.10, 1.50). Connecting pin to net "ZM_INT1".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "B1.2" ignored for B1: SCHEMATIC1, 2.MCU (2.76, 7.20). Connecting pin to net "GND".
+#8 WARNING(ORCAP-36006): Part Name "SW PUSHBUTTON-SPST-2_0_B3U-1000P_RESET_B3U-1000P" is renamed to "SW PUSHBUTTON-SPST-2_0_B3U-1000".
+#9 WARNING(ORCAP-36006): Part Name "CAP 0603_C0805_10UF_CC0603KRX7R9BB103" is renamed to "CAP 0603_C0805_10UF_CC0603KRX7R".
+#10 WARNING(ORCAP-36006): Part Name "CAP NP_C0603_DISCRETE_100NF_C0603C104K8RACTU" is renamed to "CAP NP_C0603_DISCRETE_100NF_C06".
+#11 WARNING(ORCAP-36006): Part Name "CAP 0603_C0603_1UF_CC0603KRX7R9BB103" is renamed to "CAP 0603_C0603_1UF_CC0603KRX7R9".
+#12 WARNING(ORCAP-36006): Part Name "CAP_CAP_AL_D_220UF/10V_875105244013" is renamed to "CAP_CAP_AL_D_220UF/10V_87510524".
+#13 WARNING(ORCAP-36006): Part Name "CAP NP_0_C0603_18PF_CL10C180JB8NNNC" is renamed to "CAP NP_0_C0603_18PF_CL10C180JB8".
+#14 WARNING(ORCAP-36006): Part Name "CAP NP_0_C0603_0.1UF/6.3V_C0603C104K8RACTU" is renamed to "CAP NP_0_C0603_0.1UF/6.3V_C0603".
+#15 WARNING(ORCAP-36006): Part Name "CAP NP_0_C0603_0.1UF_C0603C104K8RACTU" is renamed to "CAP NP_0_C0603_0.1UF_C0603C104K".
+#16 WARNING(ORCAP-36006): Part Name "CONN JACK PWR_CONN_JACK_DC_16VDC" is renamed to "CONN JACK PWR_CONN_JACK_DC_16VD".
+#17 WARNING(ORCAP-36006): Part Name "RJ45-8N4-B_TE_RJ45-8N4-B_RJ45-8N4-B" is renamed to "RJ45-8N4-B_TE_RJ45-8N4-B_RJ45-8".
+#18 WARNING(ORCAP-36006): Part Name "USB MIN_6_CON5_MICROUSB_SKT_SM_HUM011D-5-S" is renamed to "USB MIN_6_CON5_MICROUSB_SKT_SM_".
+#19 WARNING(ORCAP-36006): Part Name "RESISTOR_0_R0603_4.7K_RC0603JR-074K7L" is renamed to "RESISTOR_0_R0603_4.7K_RC0603JR-".
+#20 WARNING(ORCAP-36006): Part Name "RES-SM0402_0_R0603_DISCRETE_49.9K" is renamed to "RES-SM0402_0_R0603_DISCRETE_49.".
+#21 WARNING(ORCAP-36006): Part Name "SW PUSHBUTTON-SPST-2_TACT_SWITCH_12X12X7MM_DIP_DETECT SW" is renamed to "SW PUSHBUTTON-SPST-2_TACT_SWITC".
+#22 WARNING(ORCAP-36006): Part Name "RT9193-33GB_1_SOT-223_LM1117 3.3V_LM1117MPX-3.3/NOPB" is renamed to "RT9193-33GB_1_SOT-223_LM1117 3.".
+#23 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package L293D_2 , U7: SCHEMATIC1, 3.HBridge (3.20, 3.50).
+#24 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#5" as visible power pin of same name already exists in Package L293D_2 , U7: SCHEMATIC1, 3.HBridge (3.20, 3.50).
+#25 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#13" as visible power pin of same name already exists in Package L293D_2 , U7: SCHEMATIC1, 3.HBridge (3.20, 3.50).
+#26 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#12" as visible power pin of same name already exists in Package L293D_2 , U7: SCHEMATIC1, 3.HBridge (3.20, 3.50).
+#27 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package L293D_1 , U8: SCHEMATIC1, 3.HBridge (3.30, 5.30).
+#28 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#5" as visible power pin of same name already exists in Package L293D_1 , U8: SCHEMATIC1, 3.HBridge (3.30, 5.30).
+#29 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#13" as visible power pin of same name already exists in Package L293D_1 , U8: SCHEMATIC1, 3.HBridge (3.30, 5.30).
+#30 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#12" as visible power pin of same name already exists in Package L293D_1 , U8: SCHEMATIC1, 3.HBridge (3.30, 5.30).
+#31 WARNING(ORCAP-36006): Part Name "ZM5202_ZM5202_A_ZM5202_ZM5202AU-CME3R" is renamed to "ZM5202_ZM5202_A_ZM5202_ZM5202AU".
+#32 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package ZM5202 , U9: SCHEMATIC1, 4.ZWave (3.10, 1.50).
+#33 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#6" as visible power pin of same name already exists in Package ZM5202 , U9: SCHEMATIC1, 4.ZWave (3.10, 1.50).
+#34 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#12" as visible power pin of same name already exists in Package ZM5202 , U9: SCHEMATIC1, 4.ZWave (3.10, 1.50).
+#35 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#16" as visible power pin of same name already exists in Package ZM5202 , U9: SCHEMATIC1, 4.ZWave (3.10, 1.50).
+#36 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#17" as visible power pin of same name already exists in Package ZM5202 , U9: SCHEMATIC1, 4.ZWave (3.10, 1.50).
+#37 WARNING(ORCAP-36006): Part Name "CRYSTAL_XTAL_2P_TH_1P1MMP_CRYSTAL" is renamed to "CRYSTAL_XTAL_2P_TH_1P1MMP_CRYST".
+#38 WARNING(ORCAP-36006): Part Name "CRYSTAL-4_0_CRY3225_M_12M-18PPM_ABM8-12.000MHZ-B2-T" is renamed to "CRYSTAL-4_0_CRY3225_M_12M-18PPM".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... E:\TTTN\VALVECONTROLLER\HARDWARE\allegro/pstchip.dat
+
+Loading... E:\TTTN\VALVECONTROLLER\HARDWARE\allegro/pstchip.dat
+
+Loading... E:\TTTN\VALVECONTROLLER\HARDWARE\allegro/pstxprt.dat
+
+Loading... E:\TTTN\VALVECONTROLLER\HARDWARE\allegro/pstxnet.dat
+packaging the design view...

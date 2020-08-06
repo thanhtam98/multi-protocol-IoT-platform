@@ -1,0 +1,32 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  E:/1_Working/12. Water Detector/2. Layout/WaterDetector_ver1.0.0.brd*
+G04 Film Name:    WaterDetector_ver1.0.0_PANEL*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 16.6-S049*
+G04 Origin Date:  Mon Mar 05 09:41:51 2018*
+G04 *
+G04 Layer:  DRAWING FORMAT/OUTLINE*
+G04 Layer:  BOARD GEOMETRY/OUTLINE*
+G04 *
+G04 Offset:    (0.0 0.0)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     5.0*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX25Y25*MOIN*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,.005*%
+G75*
+%LPD*%
+G75*
+G54D10*
+G01X107500Y0D02*
+X-107500D01*
+G02X-123000Y26000I218J17750D01*
+G01X-15000Y213000D01*
+G02X15000I15000J-8750D01*
+G01X123000Y26000D01*
+G02X107500Y0I-15730J-8243D01*
+M02*

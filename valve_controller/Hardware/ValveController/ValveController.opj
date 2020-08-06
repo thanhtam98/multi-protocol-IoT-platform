@@ -1,0 +1,194 @@
+(ExpressProject "ValveController"
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\orcad\lib\snapeda\stm32f103c8t6.olb"
+        (Type "Schematic Library"))
+      (File ".\library1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\valvecontroller.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File" "allegro\VALVECONTROLLER.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    ("Allegro Netlist Input Board File"
+       "E:\TTTN\ValveController\Hardware\allegro\VALVECONTROLLER.brd"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (HS574A
+      (FullPartName "HS574A.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\ATOD.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 2"
+      (FullPartName "HEADER 2.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (AT2401A/SO
+      (FullPartName "AT2401A/SO.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\PROM.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 6"
+      (FullPartName "HEADER 6.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("PNP BCE"
+      (FullPartName "PNP BCE.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (LM2596
+      (FullPartName "LM2596.Normal")
+      (LibraryName "E:\TTTN\VALVECONTROLLER\HARDWARE\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (RJ45-8N4-B
+      (FullPartName "RJ45-8N4-B.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\RJ45.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 5"
+      (FullPartName "HEADER 5.Normal")
+      (LibraryName "D:\CADENCE\SPB_166\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("Cap 0603"
+      (FullPartName "Cap 0603.Normal")
+      (LibraryName "D:\02_PROJECT\10_AUTOTALAB\01_LIB\AUTOTALAB.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MAX485
+      (FullPartName "MAX485.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\LINEDRIVERRECEIVER.OLB")
+      (DeviceIndex "0"))
+    (CR2302
+      (FullPartName "CR2302.Normal")
+      (LibraryName "E:\TTTN\VALVECONTROLLER\HARDWARE\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("CONN JACK PWR"
+      (FullPartName "CONN JACK PWR.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (TP4056
+      (FullPartName "TP4056.Normal")
+      (LibraryName "E:\TTTN\VALVECONTROLLER\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (STM32F103C8T6
+      (FullPartName "STM32F103C8T6.Normal")
+      (LibraryName "E:\TTTN\ORCAD\LIB\SNAPEDA\STM32F103C8T6.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "e:\tttn\valvecontroller\hardware\valvecontroller.dsn")
+      (Path "Design Resources"
+         "e:\tttn\valvecontroller\hardware\valvecontroller.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "e:\tttn\valvecontroller\hardware\library1.olb")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "e:\tttn\valvecontroller\hardware\valvecontroller.dsn" "SCHEMATIC1"
+         "2.MCU"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 0 200 0 408"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 128 1393 128 719")
+        (Scroll "-106 0")
+        (Zoom "66")
+        (Occurrence "/"))
+      (Path "E:\TTTN\VALVECONTROLLER\HARDWARE\VALVECONTROLLER.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "3.HBridge"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 128 1229 128 531")
+        (Scroll "-24 0")
+        (Zoom "66")
+        (Occurrence "/"))
+      (Path "E:\TTTN\VALVECONTROLLER\HARDWARE\VALVECONTROLLER.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "1.Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -9 -38 160 1632 160 559")
+        (Scroll "-404 -3")
+        (Zoom "66")
+        (Occurrence "/"))
+      (Path "E:\TTTN\VALVECONTROLLER\HARDWARE\VALVECONTROLLER.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "2.MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 32 1504 32 431")
+        (Scroll "0 71")
+        (Zoom "132")
+        (Occurrence "/"))
+      (Path "E:\TTTN\VALVECONTROLLER\HARDWARE\VALVECONTROLLER.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "4.ZWave"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 32 1504 32 431")
+        (Scroll "138 66")
+        (Zoom "130")
+        (Occurrence "/"))
+      (Path "E:\TTTN\VALVECONTROLLER\HARDWARE\VALVECONTROLLER.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "5.IO")))
+  (MPSSessionName "NguyenThanhTam")
+  (ISPCBBASICLICENSE "false"))

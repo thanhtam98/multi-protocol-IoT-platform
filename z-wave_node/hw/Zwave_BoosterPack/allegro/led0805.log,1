@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : led0805.dra                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Jun 10 15:52:07 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/footprin
+    Name      = led0805.psm
+    User      = Dell4kg
+    Machine   = DELL4KG-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
