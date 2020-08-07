@@ -8,3 +8,13 @@ C:\GIT\ThesisLorawanNode\GUI\AppNodeConfiguration\AppNodeConfiguration\bin\Debug
 C:\GIT\ThesisLorawanNode\GUI\AppNodeConfiguration\AppNodeConfiguration\obj\Debug\AppNodeConfiguration.exe
 C:\GIT\ThesisLorawanNode\GUI\AppNodeConfiguration\AppNodeConfiguration\obj\Debug\AppNodeConfiguration.pdb
 C:\GIT\ThesisLorawanNode\GUI\AppNodeConfiguration\AppNodeConfiguration\obj\Debug\AppNodeConfiguration.csprojAssemblyReference.cache
+D:\ElectricBK\iot_node\sw\AppNodeConfiguration\AppNodeConfiguration\bin\Debug\AppNodeConfiguration.exe.config
+D:\ElectricBK\iot_node\sw\AppNodeConfiguration\AppNodeConfiguration\bin\Debug\AppNodeConfiguration.exe
+D:\ElectricBK\iot_node\sw\AppNodeConfiguration\AppNodeConfiguration\bin\Debug\AppNodeConfiguration.pdb
+D:\ElectricBK\iot_node\sw\AppNodeConfiguration\AppNodeConfiguration\obj\Debug\AppNodeConfiguration.csprojAssemblyReference.cache
+D:\ElectricBK\iot_node\sw\AppNodeConfiguration\AppNodeConfiguration\obj\Debug\AppNodeConfiguration.Form1.resources
+D:\ElectricBK\iot_node\sw\AppNodeConfiguration\AppNodeConfiguration\obj\Debug\AppNodeConfiguration.Properties.Resources.resources
+D:\ElectricBK\iot_node\sw\AppNodeConfiguration\AppNodeConfiguration\obj\Debug\AppNodeConfiguration.csproj.GenerateResource.cache
+D:\ElectricBK\iot_node\sw\AppNodeConfiguration\AppNodeConfiguration\obj\Debug\AppNodeConfiguration.csproj.CoreCompileInputs.cache
+D:\ElectricBK\iot_node\sw\AppNodeConfiguration\AppNodeConfiguration\obj\Debug\AppNodeConfiguration.exe
+D:\ElectricBK\iot_node\sw\AppNodeConfiguration\AppNodeConfiguration\obj\Debug\AppNodeConfiguration.pdb
