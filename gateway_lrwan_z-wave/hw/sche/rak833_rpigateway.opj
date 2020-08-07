@@ -88,20 +88,26 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\rak833_rpigateway.dsn")
-      (Path "Design Resources" ".\rak833_rpigateway.dsn" "SCHEMATIC1")
-      (Path "Outputs"))
+      (Path "Design Resources"
+         "d:\electricbk\gateway_lrwan_z-wave\hw\sche\rak833_rpigateway.dsn")
+      (Path "Design Resources"
+         "d:\electricbk\gateway_lrwan_z-wave\hw\sche\rak833_rpigateway.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "d:\electricbk\gateway_lrwan_z-wave\hw\sche\rak833_rpigateway.dsn"
+         "SCHEMATIC1" "3.Zwave"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 282"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 282"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1140 104 425")
-        (Scroll "95 64")
+        (Placement "44 2 3 -1 -1 -8 -31 104 1140 104 425")
+        (Scroll "-139 0")
         (Zoom "158")
         (Occurrence "/"))
       (Path "D:\ELECTRICBK\GATEWAY_LRWAN_Z-WAVE\HW\SCHE\RAK833_RPIGATEWAY.DSN")

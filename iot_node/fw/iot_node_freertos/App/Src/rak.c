@@ -581,6 +581,8 @@ void vRakLRWAN(void) {
 				itoa_user((uint8_t) (uiMemGet(PORT_ADC_1) >> 8), 16));
 		strcat(lrTxBuffer, itoa_user((uint8_t) (uiMemGet(PORT_ADC_1)), 16));
 
+//uplink
+
 		err = rak_sendData(1, lrTxBuffer);
 		if (err == AT_ERR) {
 			DBG("LRWAN error code: %d \r\n", globalError);
