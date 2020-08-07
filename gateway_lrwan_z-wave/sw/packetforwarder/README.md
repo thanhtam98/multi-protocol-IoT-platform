@@ -1,3 +1,6 @@
+Semtech (port lai tu dau)
+https://github.com/Lora-net/packet_forwarder
+
 How to compile
 - Check SPI dev in libloragw\library.cfg
 - Check reset pin on LoRa Concentrator and modify in start.sh
